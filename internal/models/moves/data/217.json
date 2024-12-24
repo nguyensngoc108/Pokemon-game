@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "present",
+  "power": "",
+  "pp": 15,
+  "accuracy": 90,
+  "description": "Randomly uses one of the following effects.\n\nEffect                                             | Chance\n-------------------------------------------------- | -----:\nInflicts regular damage with 40 power  |    40%\nInflicts regular damage with 80 power  |    30%\nInflicts regular damage with 120 power |    10%\nHeals the target for 1/4 its max HP    |    20%\n\nOn average, this move inflicts regular damage with 52 power and heals the target for 1/20 its max HP.",
+  "name": "Present",
+  "_id": "00217",
+  "_rev": "1-A"
+}

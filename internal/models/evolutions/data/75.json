@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 74,
+      "name": "Geodude",
+      "method": "level_up",
+      "level": 25
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 76,
+      "name": "Golem",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00075",
+  "_rev": "1-A"
+}

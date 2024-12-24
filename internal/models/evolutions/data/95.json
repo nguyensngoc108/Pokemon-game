@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 208,
+      "name": "Steelix",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00095",
+  "_rev": "1-A"
+}

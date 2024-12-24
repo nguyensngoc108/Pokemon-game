@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "kingdra_gen_5",
+      "resource_uri": "/api/v1/description/3599/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "sniper",
+      "resource_uri": "/api/v1/ability/97/"
+    }
+  ],
+  "attack": 95,
+  "defense": 95,
+  "speed": 85,
+  "sp_atk": 95,
+  "sp_def": 95,
+  "hp": 75,
+  "weight": "1520",
+  "height": "18",
+  "national_id": 230,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00230",
+  "name": "Kingdra"
+}

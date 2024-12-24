@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "harden",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Raises the user's Defense by one stage.",
+  "name": "Harden",
+  "_id": "00106",
+  "_rev": "1-A"
+}

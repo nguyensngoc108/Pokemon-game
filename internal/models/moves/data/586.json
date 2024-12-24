@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "boomburst",
+  "power": 140,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "",
+  "name": "Misty-terrain",
+  "_id": "00586",
+  "_rev": "1-A"
+}

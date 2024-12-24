@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "magmortar_gen_5",
+      "resource_uri": "/api/v1/description/5712/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flame-body",
+      "resource_uri": "/api/v1/ability/49/"
+    },
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    }
+  ],
+  "attack": 95,
+  "defense": 67,
+  "speed": 83,
+  "sp_atk": 125,
+  "sp_def": 95,
+  "hp": 75,
+  "weight": "680",
+  "height": "16",
+  "national_id": 467,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00467",
+  "name": "Magmortar"
+}

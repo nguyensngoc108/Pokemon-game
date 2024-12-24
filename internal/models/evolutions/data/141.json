@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 140,
+      "name": "Kabuto",
+      "method": "level_up",
+      "level": 40
+    }
+  ],
+  "to": null,
+  "_id": "00141",
+  "_rev": "1-A"
+}

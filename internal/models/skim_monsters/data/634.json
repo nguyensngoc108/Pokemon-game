@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "zweilous_gen_5",
+      "resource_uri": "/api/v1/description/6422/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    }
+  ],
+  "attack": 85,
+  "defense": 70,
+  "speed": 58,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "hp": 72,
+  "weight": "500",
+  "height": "14",
+  "national_id": 634,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00634",
+  "name": "Zweilous"
+}

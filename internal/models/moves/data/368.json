@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "metal-burst",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Targets the last opposing Pokémon to hit the user with a damaging move this turn.  Inflicts 1.5× the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.",
+  "name": "Metal-burst",
+  "_id": "00368",
+  "_rev": "1-A"
+}

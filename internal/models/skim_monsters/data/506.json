@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "lillipup_gen_5",
+      "resource_uri": "/api/v1/description/5903/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    },
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    }
+  ],
+  "attack": 60,
+  "defense": 45,
+  "speed": 55,
+  "sp_atk": 25,
+  "sp_def": 45,
+  "hp": 45,
+  "weight": "41",
+  "height": "4",
+  "national_id": 506,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00506",
+  "name": "Lillipup"
+}

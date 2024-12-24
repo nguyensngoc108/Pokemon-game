@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 172,
+      "name": "Pichu",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 26,
+      "name": "Raichu",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00025",
+  "_rev": "1-A"
+}

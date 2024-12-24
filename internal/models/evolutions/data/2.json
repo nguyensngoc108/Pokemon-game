@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 1,
+      "name": "Bulbasaur",
+      "method": "level_up",
+      "level": 16
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 3,
+      "name": "Venusaur",
+      "method": "level_up",
+      "level": 32
+    }
+  ],
+  "_id": "00002",
+  "_rev": "1-A"
+}

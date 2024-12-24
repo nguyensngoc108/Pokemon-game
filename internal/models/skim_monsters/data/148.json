@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "dragonair_gen_5",
+      "resource_uri": "/api/v1/description/2428/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "resource_uri": "/api/v1/ability/61/"
+    },
+    {
+      "name": "marvel-scale",
+      "resource_uri": "/api/v1/ability/63/"
+    }
+  ],
+  "attack": 84,
+  "defense": 65,
+  "speed": 70,
+  "sp_atk": 70,
+  "sp_def": 70,
+  "hp": 61,
+  "weight": "165",
+  "height": "40",
+  "national_id": 148,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00148",
+  "name": "Dragonair"
+}

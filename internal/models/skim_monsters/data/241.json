@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "miltank_gen_5",
+      "resource_uri": "/api/v1/description/3747/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 80,
+  "defense": 105,
+  "speed": 100,
+  "sp_atk": 40,
+  "sp_def": 70,
+  "hp": 95,
+  "weight": "755",
+  "height": "12",
+  "national_id": 241,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00241",
+  "name": "Miltank"
+}

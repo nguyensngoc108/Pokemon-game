@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "mirror-shot",
+  "power": 65,
+  "pp": 10,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.",
+  "name": "Mirror-shot",
+  "_id": "00429",
+  "_rev": "1-A"
+}

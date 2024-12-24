@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 120,
+      "name": "Staryu",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00121",
+  "_rev": "1-A"
+}

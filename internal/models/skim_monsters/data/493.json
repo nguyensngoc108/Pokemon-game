@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "arceus_gen_5",
+      "resource_uri": "/api/v1/description/5861/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "multitype",
+      "resource_uri": "/api/v1/ability/121/"
+    }
+  ],
+  "attack": 120,
+  "defense": 120,
+  "speed": 120,
+  "sp_atk": 120,
+  "sp_def": 120,
+  "hp": 120,
+  "weight": "3200",
+  "height": "32",
+  "national_id": 493,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00493",
+  "name": "Arceus"
+}

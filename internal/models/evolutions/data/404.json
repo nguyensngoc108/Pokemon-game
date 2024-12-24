@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 403,
+      "name": "Shinx",
+      "method": "level_up",
+      "level": 15
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 405,
+      "name": "Luxray",
+      "method": "level_up",
+      "level": 30
+    }
+  ],
+  "_id": "00404",
+  "_rev": "1-A"
+}

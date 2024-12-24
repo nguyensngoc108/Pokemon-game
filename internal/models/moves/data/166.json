@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "sketch",
+  "power": "",
+  "pp": 1,
+  "accuracy": "",
+  "description": "Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.\n\nThis move cannot be copied by mimic or mirror-move, nor selected by assist or metronome, nor forced by encore.",
+  "name": "Sketch",
+  "_id": "00166",
+  "_rev": "1-A"
+}

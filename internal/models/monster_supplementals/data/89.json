@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Sludge Pokémon",
+  "japaneseName": "ベトベトン",
+  "Guranburu": "",
+  "eggGroups": "Amorphous",
+  "_id": "00089",
+  "_rev": "1-A"
+}

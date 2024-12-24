@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "corsola_gen_5",
+      "resource_uri": "/api/v1/description/3481/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "resource_uri": "/api/v1/ability/30/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 55,
+  "defense": 85,
+  "speed": 35,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "hp": 55,
+  "weight": "50",
+  "height": "6",
+  "national_id": 222,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00222",
+  "name": "Corsola"
+}

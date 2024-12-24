@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 595,
+      "name": "Joltik",
+      "method": "level_up",
+      "level": 36
+    }
+  ],
+  "to": null,
+  "_id": "00596",
+  "_rev": "1-A"
+}

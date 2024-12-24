@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "charmeleon_gen_5",
+      "resource_uri": "/api/v1/description/77/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "resource_uri": "/api/v1/ability/66/"
+    },
+    {
+      "name": "solar-power",
+      "resource_uri": "/api/v1/ability/94/"
+    }
+  ],
+  "attack": 64,
+  "defense": 58,
+  "speed": 80,
+  "sp_atk": 80,
+  "sp_def": 65,
+  "hp": 58,
+  "weight": "190",
+  "height": "11",
+  "national_id": 5,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00005",
+  "name": "Charmeleon"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "stored-power",
+  "power": 20,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×.",
+  "name": "Stored-power",
+  "_id": "00500",
+  "_rev": "1-A"
+}

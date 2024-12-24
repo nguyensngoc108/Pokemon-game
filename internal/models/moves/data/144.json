@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "transform",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User copies the target's species, weight, type, ability, calculated stats (except HP), and moves.  Copied moves will all have 5 PP remaining.  IV are copied for the purposes of hidden-power, but stats are not recalculated.\n\nchoice-band, choice-scarf, and choice-specs stay in effect, and the user must select a new move.\n\nThis move cannot be copied by mirror-move, nor forced by encore.",
+  "name": "Transform",
+  "_id": "00144",
+  "_rev": "1-A"
+}

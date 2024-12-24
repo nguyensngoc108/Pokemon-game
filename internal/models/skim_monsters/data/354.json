@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "banette_gen_5",
+      "resource_uri": "/api/v1/description/4866/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "resource_uri": "/api/v1/ability/15/"
+    },
+    {
+      "name": "frisk",
+      "resource_uri": "/api/v1/ability/119/"
+    },
+    {
+      "name": "cursed-body",
+      "resource_uri": "/api/v1/ability/130/"
+    }
+  ],
+  "attack": 115,
+  "defense": 65,
+  "speed": 65,
+  "sp_atk": 83,
+  "sp_def": 63,
+  "hp": 64,
+  "weight": "125",
+  "height": "11",
+  "national_id": 354,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00354",
+  "name": "Banette"
+}

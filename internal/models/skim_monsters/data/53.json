@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "persian_gen_5",
+      "resource_uri": "/api/v1/description/857/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "limber",
+      "resource_uri": "/api/v1/ability/7/"
+    },
+    {
+      "name": "technician",
+      "resource_uri": "/api/v1/ability/101/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 70,
+  "defense": 60,
+  "speed": 115,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "hp": 65,
+  "weight": "320",
+  "height": "10",
+  "national_id": 53,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00053",
+  "name": "Persian"
+}

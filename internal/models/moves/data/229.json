@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "rapid-spin",
+  "power": 20,
+  "pp": 40,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Removes leech-seed from the user, frees the user from bind, clamp, fire-spin, magma-storm, sand-tomb, whirlpool, and wrap, and clears spikes, stealth-rock, and toxic-spikes from the user's side of the field.  If this move misses or has no effect, its effect doesn't activate.",
+  "name": "Rapid-spin",
+  "_id": "00229",
+  "_rev": "1-A"
+}

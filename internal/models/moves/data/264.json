@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "focus-punch",
+  "power": 150,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror-move, nor selected by assist, metronome, or sleep-talk.",
+  "name": "Focus-punch",
+  "_id": "00264",
+  "_rev": "1-A"
+}

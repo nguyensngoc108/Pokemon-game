@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "glaciate",
+  "power": 65,
+  "pp": 10,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Lowers the target's Speed by one stage.",
+  "name": "Glaciate",
+  "_id": "00549",
+  "_rev": "1-A"
+}

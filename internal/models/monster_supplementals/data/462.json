@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 3,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": "N/A",
+  "species": "Magnetic Field Pokémon",
+  "japaneseName": "ジバコイル",
+  "Guranburu": "",
+  "eggGroups": "Mineral",
+  "_id": "00462",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dragon",
+  "identifier": "dragon-dance",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Attack and Speed by one stage each.",
+  "name": "Dragon-dance",
+  "_id": "00349",
+  "_rev": "1-A"
+}

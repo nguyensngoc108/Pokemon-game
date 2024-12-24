@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 628,
+      "name": "Braviary",
+      "method": "level_up",
+      "level": 54
+    }
+  ],
+  "_id": "00627",
+  "_rev": "1-A"
+}

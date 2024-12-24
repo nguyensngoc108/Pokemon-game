@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 104,
+      "name": "Cubone",
+      "method": "level_up",
+      "level": 28
+    }
+  ],
+  "to": null,
+  "_id": "00105",
+  "_rev": "1-A"
+}

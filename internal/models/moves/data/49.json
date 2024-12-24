@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "sonic-boom",
+  "power": "",
+  "pp": 20,
+  "accuracy": 90,
+  "description": "Inflicts exactly 20 damage.",
+  "name": "Sonicboom",
+  "_id": "00049",
+  "_rev": "1-A"
+}

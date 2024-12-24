@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 87.5,
+  "species": "Small Monkey Pokémon",
+  "japaneseName": "ヒコザル",
+  "Guranburu": "",
+  "eggGroups": "Field, Human-Like",
+  "_id": "00390",
+  "_rev": "1-A"
+}

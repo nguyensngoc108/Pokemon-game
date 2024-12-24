@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "quick-attack",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Quick-attack",
+  "_id": "00098",
+  "_rev": "1-A"
+}

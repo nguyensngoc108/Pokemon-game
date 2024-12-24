@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "luxio_gen_5",
+      "resource_uri": "/api/v1/description/5274/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    }
+  ],
+  "attack": 85,
+  "defense": 49,
+  "speed": 60,
+  "sp_atk": 60,
+  "sp_def": 49,
+  "hp": 60,
+  "weight": "305",
+  "height": "9",
+  "national_id": 404,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00404",
+  "name": "Luxio"
+}

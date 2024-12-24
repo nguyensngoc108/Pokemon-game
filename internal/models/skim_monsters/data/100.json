@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "voltorb_gen_5",
+      "resource_uri": "/api/v1/description/1647/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "aftermath",
+      "resource_uri": "/api/v1/ability/106/"
+    }
+  ],
+  "attack": 30,
+  "defense": 50,
+  "speed": 100,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "hp": 40,
+  "weight": "104",
+  "height": "5",
+  "national_id": 100,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00100",
+  "name": "Voltorb"
+}

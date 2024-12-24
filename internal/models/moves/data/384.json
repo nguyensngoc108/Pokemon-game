@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "power-swap",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User swaps its Attack and Special Attack stat modifiers modifiers with the target.",
+  "name": "Power-swap",
+  "_id": "00384",
+  "_rev": "1-A"
+}

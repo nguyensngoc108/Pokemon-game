@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "politoed_gen_5",
+      "resource_uri": "/api/v1/description/2962/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "drizzle",
+      "resource_uri": "/api/v1/ability/2/"
+    },
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    }
+  ],
+  "attack": 75,
+  "defense": 75,
+  "speed": 70,
+  "sp_atk": 90,
+  "sp_def": 100,
+  "hp": 90,
+  "weight": "339",
+  "height": "11",
+  "national_id": 186,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00186",
+  "name": "Politoed"
+}

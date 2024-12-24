@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "sceptile_gen_5",
+      "resource_uri": "/api/v1/description/3900/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "unburden",
+      "resource_uri": "/api/v1/ability/84/"
+    }
+  ],
+  "attack": 85,
+  "defense": 65,
+  "speed": 120,
+  "sp_atk": 105,
+  "sp_def": 85,
+  "hp": 70,
+  "weight": "522",
+  "height": "17",
+  "national_id": 254,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00254",
+  "name": "Sceptile"
+}

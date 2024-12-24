@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "steam-eruption",
+  "power": 110,
+  "pp": 5,
+  "accuracy": 95,
+  "description": "",
+  "name": "Parabolic-charge",
+  "_id": "00592",
+  "_rev": "1-A"
+}

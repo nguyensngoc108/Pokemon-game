@@ -1,0 +1,49 @@
+{
+  "descriptions": [
+    {
+      "name": "paras_gen_5",
+      "resource_uri": "/api/v1/description/747/"
+    },
+    {
+      "name": "parasect_gen_5",
+      "resource_uri": "/api/v1/description/764/"
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "resource_uri": "/api/v1/type/7/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "effect-spore",
+      "resource_uri": "/api/v1/ability/27/"
+    },
+    {
+      "name": "dry-skin",
+      "resource_uri": "/api/v1/ability/87/"
+    }
+  ],
+  "attack": 70,
+  "defense": 55,
+  "speed": 25,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "hp": 35,
+  "weight": "54",
+  "height": "3",
+  "national_id": 46,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00046",
+  "name": "Paras"
+}

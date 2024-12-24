@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "hyper-voice",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Hyper-voice",
+  "_id": "00304",
+  "_rev": "1-A"
+}

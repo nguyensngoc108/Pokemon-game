@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Poison Bee Pokémon",
+  "japaneseName": "スピアー",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00015",
+  "_rev": "1-A"
+}

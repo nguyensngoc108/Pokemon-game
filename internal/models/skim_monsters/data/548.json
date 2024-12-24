@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "petilil_gen_5",
+      "resource_uri": "/api/v1/description/6075/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    },
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    }
+  ],
+  "attack": 35,
+  "defense": 50,
+  "speed": 30,
+  "sp_atk": 70,
+  "sp_def": 50,
+  "hp": 45,
+  "weight": "66",
+  "height": "5",
+  "national_id": 548,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00548",
+  "name": "Petilil"
+}

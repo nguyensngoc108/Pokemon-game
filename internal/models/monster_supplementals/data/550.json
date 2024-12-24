@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 2,
+  "genderRatio": 50,
+  "species": "Violent Pokémon",
+  "japaneseName": "バスラオ",
+  "Guranburu": "",
+  "eggGroups": "Water 2",
+  "_id": "00550",
+  "_rev": "1-A"
+}

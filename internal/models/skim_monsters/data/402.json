@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "kricketune_gen_5",
+      "resource_uri": "/api/v1/description/5262/"
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "resource_uri": "/api/v1/type/7/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "resource_uri": "/api/v1/ability/68/"
+    },
+    {
+      "name": "technician",
+      "resource_uri": "/api/v1/ability/101/"
+    }
+  ],
+  "attack": 85,
+  "defense": 51,
+  "speed": 65,
+  "sp_atk": 55,
+  "sp_def": 51,
+  "hp": 77,
+  "weight": "255",
+  "height": "10",
+  "national_id": 402,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00402",
+  "name": "Kricketune"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "megahorn",
+  "power": 120,
+  "pp": 10,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.",
+  "name": "Megahorn",
+  "_id": "00224",
+  "_rev": "1-A"
+}

@@ -1,0 +1,19 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 413,
+      "name": "Wormadam-plant",
+      "method": "level_up",
+      "level": 20
+    },
+    {
+      "nationalId": 414,
+      "name": "Mothim",
+      "method": "level_up",
+      "level": 20
+    }
+  ],
+  "_id": "00412",
+  "_rev": "1-A"
+}

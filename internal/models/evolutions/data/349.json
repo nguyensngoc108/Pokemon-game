@@ -1,0 +1,19 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 350,
+      "name": "Milotic",
+      "method": "level_up",
+      "level": 0
+    },
+    {
+      "nationalId": 350,
+      "name": "Milotic",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00349",
+  "_rev": "1-A"
+}

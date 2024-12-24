@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "gunk-shot",
+  "power": 120,
+  "pp": 5,
+  "accuracy": 80,
+  "description": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+  "name": "Gunk-shot",
+  "_id": "00441",
+  "_rev": "1-A"
+}

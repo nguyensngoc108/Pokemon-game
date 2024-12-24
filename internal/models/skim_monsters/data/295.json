@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "exploud_gen_5",
+      "resource_uri": "/api/v1/description/4287/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    }
+  ],
+  "attack": 91,
+  "defense": 63,
+  "speed": 68,
+  "sp_atk": 91,
+  "sp_def": 73,
+  "hp": 104,
+  "weight": "840",
+  "height": "15",
+  "national_id": 295,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00295",
+  "name": "Exploud"
+}

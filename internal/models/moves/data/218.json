@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "frustration",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+  "name": "Frustration",
+  "_id": "00218",
+  "_rev": "1-A"
+}

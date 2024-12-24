@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "pupitar_gen_5",
+      "resource_uri": "/api/v1/description/3825/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "resource_uri": "/api/v1/ability/61/"
+    }
+  ],
+  "attack": 84,
+  "defense": 70,
+  "speed": 51,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "hp": 70,
+  "weight": "1520",
+  "height": "12",
+  "national_id": 247,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00247",
+  "name": "Pupitar"
+}

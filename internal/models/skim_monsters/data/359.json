@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "absol_gen_5",
+      "resource_uri": "/api/v1/description/4917/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "super-luck",
+      "resource_uri": "/api/v1/ability/105/"
+    },
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 130,
+  "defense": 60,
+  "speed": 75,
+  "sp_atk": 75,
+  "sp_def": 60,
+  "hp": 65,
+  "weight": "470",
+  "height": "12",
+  "national_id": 359,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00359",
+  "name": "Absol"
+}

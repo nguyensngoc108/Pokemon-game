@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "zebstrika_gen_5",
+      "resource_uri": "/api/v1/description/5976/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "motor-drive",
+      "resource_uri": "/api/v1/ability/78/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 100,
+  "defense": 63,
+  "speed": 116,
+  "sp_atk": 80,
+  "sp_def": 63,
+  "hp": 75,
+  "weight": "795",
+  "height": "16",
+  "national_id": 523,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00523",
+  "name": "Zebstrika"
+}

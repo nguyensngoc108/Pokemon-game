@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "nightmare",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Only works on sleep Pokémon.  Gives the target a nightmare, damaging it for 1/4 its max HP every turn.  If the target wakes up or leaves the field, this effect ends.",
+  "name": "Nightmare",
+  "_id": "00171",
+  "_rev": "1-A"
+}

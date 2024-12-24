@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 165,
+      "name": "Ledyba",
+      "method": "level_up",
+      "level": 18
+    }
+  ],
+  "to": null,
+  "_id": "00166",
+  "_rev": "1-A"
+}

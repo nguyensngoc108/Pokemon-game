@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "giratina-altered_gen_5",
+      "resource_uri": "/api/v1/description/5827/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 100,
+  "defense": 120,
+  "speed": 90,
+  "sp_atk": 100,
+  "sp_def": 120,
+  "hp": 150,
+  "weight": "7500",
+  "height": "45",
+  "national_id": 487,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00487",
+  "name": "Giratina-altered"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "low-sweep",
+  "power": 65,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's Speed by one stage.",
+  "name": "Low-sweep",
+  "_id": "00490",
+  "_rev": "1-A"
+}

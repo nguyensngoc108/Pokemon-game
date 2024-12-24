@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "whiscash_gen_5",
+      "resource_uri": "/api/v1/description/4737/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "hydration",
+      "resource_uri": "/api/v1/ability/93/"
+    },
+    {
+      "name": "anticipation",
+      "resource_uri": "/api/v1/ability/107/"
+    }
+  ],
+  "attack": 78,
+  "defense": 73,
+  "speed": 60,
+  "sp_atk": 76,
+  "sp_def": 71,
+  "hp": 110,
+  "weight": "236",
+  "height": "9",
+  "national_id": 340,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00340",
+  "name": "Whiscash"
+}

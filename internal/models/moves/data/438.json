@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "power-whip",
+  "power": 120,
+  "pp": 10,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.",
+  "name": "Power-whip",
+  "_id": "00438",
+  "_rev": "1-A"
+}

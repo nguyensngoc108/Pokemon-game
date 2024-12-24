@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "mud-slap",
+  "power": 20,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.",
+  "name": "Mud-slap",
+  "_id": "00189",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "shadow-punch",
+  "power": 60,
+  "pp": 20,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Shadow-punch",
+  "_id": "00325",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "registeel_gen_5",
+      "resource_uri": "/api/v1/description/5098/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "resource_uri": "/api/v1/ability/29/"
+    },
+    {
+      "name": "light-metal",
+      "resource_uri": "/api/v1/ability/135/"
+    }
+  ],
+  "attack": 75,
+  "defense": 150,
+  "speed": 50,
+  "sp_atk": 75,
+  "sp_def": 150,
+  "hp": 80,
+  "weight": "2050",
+  "height": "19",
+  "national_id": 379,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00379",
+  "name": "Registeel"
+}

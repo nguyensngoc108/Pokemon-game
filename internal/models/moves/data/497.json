@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "echoed-voice",
+  "power": 40,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If any friendly Pokémon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200.",
+  "name": "Echoed-voice",
+  "_id": "00497",
+  "_rev": "1-A"
+}

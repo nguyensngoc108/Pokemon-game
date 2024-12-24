@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 2,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Chrysalis Pokémon",
+  "japaneseName": "トランセル",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00011",
+  "_rev": "1-A"
+}

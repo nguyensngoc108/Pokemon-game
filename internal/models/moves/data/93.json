@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "confusion",
+  "power": 50,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+  "name": "Confusion",
+  "_id": "00093",
+  "_rev": "1-A"
+}

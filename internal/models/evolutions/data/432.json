@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 431,
+      "name": "Glameow",
+      "method": "level_up",
+      "level": 38
+    }
+  ],
+  "to": null,
+  "_id": "00432",
+  "_rev": "1-A"
+}

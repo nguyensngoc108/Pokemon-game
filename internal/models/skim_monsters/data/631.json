@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "heatmor_gen_5",
+      "resource_uri": "/api/v1/description/6408/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "white-smoke",
+      "resource_uri": "/api/v1/ability/73/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 97,
+  "defense": 66,
+  "speed": 65,
+  "sp_atk": 105,
+  "sp_def": 66,
+  "hp": 85,
+  "weight": "580",
+  "height": "14",
+  "national_id": 631,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00631",
+  "name": "Heatmor"
+}

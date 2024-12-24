@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "dunsparce_gen_5",
+      "resource_uri": "/api/v1/description/3247/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "resource_uri": "/api/v1/ability/32/"
+    },
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "rattled",
+      "resource_uri": "/api/v1/ability/155/"
+    }
+  ],
+  "attack": 70,
+  "defense": 70,
+  "speed": 45,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "hp": 100,
+  "weight": "140",
+  "height": "15",
+  "national_id": 206,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00206",
+  "name": "Dunsparce"
+}

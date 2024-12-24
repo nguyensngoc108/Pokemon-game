@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "bouffalant_gen_5",
+      "resource_uri": "/api/v1/description/6390/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 110,
+  "defense": 95,
+  "speed": 55,
+  "sp_atk": 40,
+  "sp_def": 95,
+  "hp": 95,
+  "weight": "946",
+  "height": "16",
+  "national_id": 626,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00626",
+  "name": "Bouffalant"
+}

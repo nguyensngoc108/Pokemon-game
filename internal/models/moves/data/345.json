@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "magical-leaf",
+  "power": 60,
+  "pp": 20,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Magical-leaf",
+  "_id": "00345",
+  "_rev": "1-A"
+}

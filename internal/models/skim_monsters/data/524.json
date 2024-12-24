@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "roggenrola_gen_5",
+      "resource_uri": "/api/v1/description/5979/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 75,
+  "defense": 85,
+  "speed": 15,
+  "sp_atk": 25,
+  "sp_def": 25,
+  "hp": 55,
+  "weight": "180",
+  "height": "4",
+  "national_id": 524,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00524",
+  "name": "Roggenrola"
+}

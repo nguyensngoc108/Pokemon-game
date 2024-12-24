@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "vulpix_gen_5",
+      "resource_uri": "/api/v1/description/591/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "drought",
+      "resource_uri": "/api/v1/ability/70/"
+    }
+  ],
+  "attack": 41,
+  "defense": 40,
+  "speed": 65,
+  "sp_atk": 50,
+  "sp_def": 65,
+  "hp": 38,
+  "weight": "99",
+  "height": "6",
+  "national_id": 37,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00037",
+  "name": "Vulpix"
+}

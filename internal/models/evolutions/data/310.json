@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 309,
+      "name": "Electrike",
+      "method": "level_up",
+      "level": 26
+    }
+  ],
+  "to": null,
+  "_id": "00310",
+  "_rev": "1-A"
+}

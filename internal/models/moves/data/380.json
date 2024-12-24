@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "gastro-acid",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "The target's ability is disabled as long as it remains on the field.\n\nThis effect is passed on by baton-pass.",
+  "name": "Gastro-acid",
+  "_id": "00380",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "murkrow_gen_5",
+      "resource_uri": "/api/v1/description/3135/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "resource_uri": "/api/v1/ability/15/"
+    },
+    {
+      "name": "super-luck",
+      "resource_uri": "/api/v1/ability/105/"
+    },
+    {
+      "name": "prankster",
+      "resource_uri": "/api/v1/ability/158/"
+    }
+  ],
+  "attack": 85,
+  "defense": 42,
+  "speed": 91,
+  "sp_atk": 85,
+  "sp_def": 42,
+  "hp": 60,
+  "weight": "21",
+  "height": "5",
+  "national_id": 198,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00198",
+  "name": "Murkrow"
+}

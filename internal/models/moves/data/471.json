@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "power-split",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pokémon. Unmodified Special Attack is averaged the same way.\n\nThis effect applies before any other persistent changes to unmodified Attack or Special Attack, such as flower-gift during sunny-day.",
+  "name": "Power-split",
+  "_id": "00471",
+  "_rev": "1-A"
+}

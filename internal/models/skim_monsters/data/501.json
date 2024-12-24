@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "oshawott_gen_5",
+      "resource_uri": "/api/v1/description/5885/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    },
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    }
+  ],
+  "attack": 55,
+  "defense": 45,
+  "speed": 45,
+  "sp_atk": 63,
+  "sp_def": 45,
+  "hp": 55,
+  "weight": "59",
+  "height": "5",
+  "national_id": 501,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00501",
+  "name": "Oshawott"
+}

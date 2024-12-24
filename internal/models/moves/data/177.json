@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "aeroblast",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Aeroblast",
+  "_id": "00177",
+  "_rev": "1-A"
+}

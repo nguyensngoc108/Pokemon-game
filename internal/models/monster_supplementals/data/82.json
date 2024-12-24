@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 2,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": "N/A",
+  "species": "Magnet Pokémon",
+  "japaneseName": "レアコイル",
+  "Guranburu": "",
+  "eggGroups": "Mineral",
+  "_id": "00082",
+  "_rev": "1-A"
+}

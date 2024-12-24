@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "entrainment",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Changes the target's ability to match the user's.  This effect ends when the target leaves battle.",
+  "name": "Entrainment",
+  "_id": "00494",
+  "_rev": "1-A"
+}

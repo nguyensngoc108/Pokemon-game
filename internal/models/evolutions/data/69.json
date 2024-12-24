@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 70,
+      "name": "Weepinbell",
+      "method": "level_up",
+      "level": 21
+    }
+  ],
+  "_id": "00069",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Jet Pokémon",
+  "japaneseName": "オクタン",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Water 2",
+  "_id": "00224",
+  "_rev": "1-A"
+}

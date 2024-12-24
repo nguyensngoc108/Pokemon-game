@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "litwick_gen_5",
+      "resource_uri": "/api/v1/description/6302/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "shadow-tag",
+      "resource_uri": "/api/v1/ability/23/"
+    },
+    {
+      "name": "flame-body",
+      "resource_uri": "/api/v1/ability/49/"
+    }
+  ],
+  "attack": 30,
+  "defense": 55,
+  "speed": 20,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "hp": 50,
+  "weight": "31",
+  "height": "3",
+  "national_id": 607,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00607",
+  "name": "Litwick"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "lampent_gen_5",
+      "resource_uri": "/api/v1/description/6306/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "shadow-tag",
+      "resource_uri": "/api/v1/ability/23/"
+    },
+    {
+      "name": "flame-body",
+      "resource_uri": "/api/v1/ability/49/"
+    }
+  ],
+  "attack": 40,
+  "defense": 60,
+  "speed": 55,
+  "sp_atk": 95,
+  "sp_def": 60,
+  "hp": 60,
+  "weight": "130",
+  "height": "6",
+  "national_id": 608,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00608",
+  "name": "Lampent"
+}

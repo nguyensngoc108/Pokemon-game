@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "minun_gen_5",
+      "resource_uri": "/api/v1/description/4461/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "minus",
+      "resource_uri": "/api/v1/ability/58/"
+    }
+  ],
+  "attack": 40,
+  "defense": 50,
+  "speed": 95,
+  "sp_atk": 75,
+  "sp_def": 85,
+  "hp": 60,
+  "weight": "42",
+  "height": "4",
+  "national_id": 312,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00312",
+  "name": "Minun"
+}

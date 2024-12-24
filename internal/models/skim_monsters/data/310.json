@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "manectric_gen_5",
+      "resource_uri": "/api/v1/description/4442/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "minus",
+      "resource_uri": "/api/v1/ability/58/"
+    }
+  ],
+  "attack": 75,
+  "defense": 60,
+  "speed": 105,
+  "sp_atk": 105,
+  "sp_def": 60,
+  "hp": 70,
+  "weight": "402",
+  "height": "15",
+  "national_id": 310,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00310",
+  "name": "Manectric"
+}

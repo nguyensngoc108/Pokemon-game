@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "shelgon_gen_5",
+      "resource_uri": "/api/v1/description/5036/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    }
+  ],
+  "attack": 95,
+  "defense": 100,
+  "speed": 50,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "hp": 65,
+  "weight": "1105",
+  "height": "11",
+  "national_id": 372,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00372",
+  "name": "Shelgon"
+}

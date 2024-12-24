@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 100,
+  "species": "Firefly Pokémon",
+  "japaneseName": "バルビート",
+  "Guranburu": "",
+  "eggGroups": "Bug, Human-Like",
+  "_id": "00313",
+  "_rev": "1-A"
+}

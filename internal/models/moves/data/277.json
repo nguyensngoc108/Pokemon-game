@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "magic-coat",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "The first non-damaging move targeting the user this turn that inflicts major status effect-effects, stat change, or trap effects will be reflected at its user.\n\ndefog, memento, and teeter-dance are not reflected.\n\nattract, flatter, gastro-acid, leech-seed, swagger, worry-seed, and yawn are reflected.\n\nThis move cannot be copied by mirror-move.",
+  "name": "Magic-coat",
+  "_id": "00277",
+  "_rev": "1-A"
+}

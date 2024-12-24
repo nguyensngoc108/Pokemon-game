@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "ice-burn",
+  "power": 140,
+  "pp": 5,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Has a 30% chance to burn the target.  User charges for one turn before attacking.",
+  "name": "Ice-burn",
+  "_id": "00554",
+  "_rev": "1-A"
+}

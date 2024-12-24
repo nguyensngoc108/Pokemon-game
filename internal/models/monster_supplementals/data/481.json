@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 20400,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": "N/A",
+  "species": "Emotion Pokémon",
+  "japaneseName": "エムリット",
+  "Guranburu": "",
+  "eggGroups": "No Eggs",
+  "_id": "00481",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "weather-ball",
+  "power": 50,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow-sky is typeless for the purposes of this move.",
+  "name": "Weather-ball",
+  "_id": "00311",
+  "_rev": "1-A"
+}

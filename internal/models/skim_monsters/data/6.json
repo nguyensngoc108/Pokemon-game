@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "charizard_gen_5",
+      "resource_uri": "/api/v1/description/93/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "resource_uri": "/api/v1/ability/66/"
+    },
+    {
+      "name": "solar-power",
+      "resource_uri": "/api/v1/ability/94/"
+    }
+  ],
+  "attack": 84,
+  "defense": 78,
+  "speed": 100,
+  "sp_atk": 109,
+  "sp_def": 85,
+  "hp": 78,
+  "weight": "905",
+  "height": "17",
+  "national_id": 6,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00006",
+  "name": "Charizard"
+}

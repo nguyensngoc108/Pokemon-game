@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "makuhita_gen_5",
+      "resource_uri": "/api/v1/description/4297/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 60,
+  "defense": 30,
+  "speed": 25,
+  "sp_atk": 20,
+  "sp_def": 30,
+  "hp": 72,
+  "weight": "864",
+  "height": "10",
+  "national_id": 296,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00296",
+  "name": "Makuhita"
+}

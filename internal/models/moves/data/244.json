@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "psych-up",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror-move.",
+  "name": "Psych-up",
+  "_id": "00244",
+  "_rev": "1-A"
+}

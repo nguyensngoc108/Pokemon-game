@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "gastrodon_gen_5",
+      "resource_uri": "/api/v1/description/5407/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sticky-hold",
+      "resource_uri": "/api/v1/ability/60/"
+    },
+    {
+      "name": "storm-drain",
+      "resource_uri": "/api/v1/ability/114/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 83,
+  "defense": 68,
+  "speed": 39,
+  "sp_atk": 92,
+  "sp_def": 82,
+  "hp": 111,
+  "weight": "299",
+  "height": "9",
+  "national_id": 423,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00423",
+  "name": "Gastrodon"
+}

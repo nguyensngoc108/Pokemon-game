@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Seasonal Pokémon",
+  "japaneseName": "メブキジカ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00586",
+  "_rev": "1-A"
+}

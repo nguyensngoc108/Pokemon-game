@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "tail-glow",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Special Attack by three stages.",
+  "name": "Tail-glow",
+  "_id": "00294",
+  "_rev": "1-A"
+}

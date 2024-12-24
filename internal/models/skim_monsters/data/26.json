@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "raichu_gen_5",
+      "resource_uri": "/api/v1/description/414/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    }
+  ],
+  "attack": 90,
+  "defense": 55,
+  "speed": 110,
+  "sp_atk": 90,
+  "sp_def": 80,
+  "hp": 60,
+  "weight": "300",
+  "height": "8",
+  "national_id": 26,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00026",
+  "name": "Raichu"
+}

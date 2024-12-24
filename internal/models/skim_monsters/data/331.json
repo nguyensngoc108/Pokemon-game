@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "cacnea_gen_5",
+      "resource_uri": "/api/v1/description/4646/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    }
+  ],
+  "attack": 85,
+  "defense": 40,
+  "speed": 35,
+  "sp_atk": 85,
+  "sp_def": 40,
+  "hp": 50,
+  "weight": "513",
+  "height": "4",
+  "national_id": 331,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00331",
+  "name": "Cacnea"
+}

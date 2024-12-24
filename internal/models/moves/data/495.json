@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "after-you",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "The target will act next this turn, regardless of Speed or move priority.\nIf the target has already acted this turn, this move will fail.",
+  "name": "After-you",
+  "_id": "00495",
+  "_rev": "1-A"
+}

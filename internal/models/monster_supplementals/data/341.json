@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Rogue Pokémon",
+  "japaneseName": "ヘイガニ",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Water 3",
+  "_id": "00341",
+  "_rev": "1-A"
+}

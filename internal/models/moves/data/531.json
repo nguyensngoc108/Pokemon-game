@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "heart-stamp",
+  "power": 60,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Heart-stamp",
+  "_id": "00531",
+  "_rev": "1-A"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "zubat_gen_5",
+      "resource_uri": "/api/v1/description/660/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "infiltrator",
+      "resource_uri": "/api/v1/ability/151/"
+    }
+  ],
+  "attack": 45,
+  "defense": 35,
+  "speed": 55,
+  "sp_atk": 30,
+  "sp_def": 40,
+  "hp": 40,
+  "weight": "75",
+  "height": "8",
+  "national_id": 41,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00041",
+  "name": "Zubat"
+}

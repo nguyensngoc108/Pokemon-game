@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "dusknoir_gen_5",
+      "resource_uri": "/api/v1/description/5769/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    }
+  ],
+  "attack": 100,
+  "defense": 135,
+  "speed": 45,
+  "sp_atk": 65,
+  "sp_def": 135,
+  "hp": 45,
+  "weight": "1066",
+  "height": "22",
+  "national_id": 477,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00477",
+  "name": "Dusknoir"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "smokescreen",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's accuracy by one stage.",
+  "name": "Smokescreen",
+  "_id": "00108",
+  "_rev": "1-A"
+}

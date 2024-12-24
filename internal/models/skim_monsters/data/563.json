@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "cofagrigus_gen_5",
+      "resource_uri": "/api/v1/description/6131/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mummy",
+      "resource_uri": "/api/v1/ability/152/"
+    }
+  ],
+  "attack": 50,
+  "defense": 145,
+  "speed": 30,
+  "sp_atk": 95,
+  "sp_def": 105,
+  "hp": 58,
+  "weight": "765",
+  "height": "17",
+  "national_id": 563,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00563",
+  "name": "Cofagrigus"
+}

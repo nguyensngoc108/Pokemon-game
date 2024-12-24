@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "solar-beam",
+  "power": 120,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny-day, the charge turn is skipped.\n\nDuring hail, rain-dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep-talk.",
+  "name": "Solarbeam",
+  "_id": "00076",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Fire Pig Pokémon",
+  "japaneseName": "ポカブ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00498",
+  "_rev": "1-A"
+}

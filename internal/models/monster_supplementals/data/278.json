@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Black-Tailed Gull Pokémon",
+  "japaneseName": "キャモメ",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Flying",
+  "_id": "00278",
+  "_rev": "1-A"
+}

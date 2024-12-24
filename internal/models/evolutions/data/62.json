@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 61,
+      "name": "Poliwhirl",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00062",
+  "_rev": "1-A"
+}

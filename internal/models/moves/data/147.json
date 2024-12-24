@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "spore",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Puts the target to sleep.",
+  "name": "Spore",
+  "_id": "00147",
+  "_rev": "1-A"
+}

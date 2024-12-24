@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "punishment",
+  "power": "",
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised, capping at 200.  Accuracy and evasion modifiers do not increase this move's power.",
+  "name": "Punishment",
+  "_id": "00386",
+  "_rev": "1-A"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "trapinch_gen_5",
+      "resource_uri": "/api/v1/description/4616/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "resource_uri": "/api/v1/ability/52/"
+    },
+    {
+      "name": "arena-trap",
+      "resource_uri": "/api/v1/ability/71/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 100,
+  "defense": 45,
+  "speed": 10,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "hp": 45,
+  "weight": "150",
+  "height": "7",
+  "national_id": 328,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00328",
+  "name": "Trapinch"
+}

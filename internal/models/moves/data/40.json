@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "poison-sting",
+  "power": 15,
+  "pp": 35,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+  "name": "Poison-sting",
+  "_id": "00040",
+  "_rev": "1-A"
+}

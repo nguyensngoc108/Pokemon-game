@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 581,
+      "name": "Swanna",
+      "method": "level_up",
+      "level": 35
+    }
+  ],
+  "_id": "00580",
+  "_rev": "1-A"
+}

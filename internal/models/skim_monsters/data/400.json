@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "bibarel_gen_5",
+      "resource_uri": "/api/v1/description/5248/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "simple",
+      "resource_uri": "/api/v1/ability/86/"
+    },
+    {
+      "name": "unaware",
+      "resource_uri": "/api/v1/ability/109/"
+    },
+    {
+      "name": "moody",
+      "resource_uri": "/api/v1/ability/141/"
+    }
+  ],
+  "attack": 85,
+  "defense": 60,
+  "speed": 71,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "hp": 79,
+  "weight": "315",
+  "height": "10",
+  "national_id": 400,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00400",
+  "name": "Bibarel"
+}

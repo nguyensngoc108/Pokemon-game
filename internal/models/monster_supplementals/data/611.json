@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Jaw Ax Pokémon",
+  "japaneseName": "オノンド",
+  "Guranburu": "",
+  "eggGroups": "Monster, Dragon",
+  "_id": "00611",
+  "_rev": "1-A"
+}

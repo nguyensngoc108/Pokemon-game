@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "palkia_gen_5",
+      "resource_uri": "/api/v1/description/5812/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 120,
+  "defense": 100,
+  "speed": 100,
+  "sp_atk": 150,
+  "sp_def": 120,
+  "hp": 90,
+  "weight": "3360",
+  "height": "42",
+  "national_id": 484,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00484",
+  "name": "Palkia"
+}

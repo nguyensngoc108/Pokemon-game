@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "infernape_gen_5",
+      "resource_uri": "/api/v1/description/5192/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "resource_uri": "/api/v1/ability/66/"
+    },
+    {
+      "name": "iron-fist",
+      "resource_uri": "/api/v1/ability/89/"
+    }
+  ],
+  "attack": 104,
+  "defense": 71,
+  "speed": 108,
+  "sp_atk": 104,
+  "sp_def": 71,
+  "hp": 76,
+  "weight": "550",
+  "height": "12",
+  "national_id": 392,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00392",
+  "name": "Infernape"
+}

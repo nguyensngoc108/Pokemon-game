@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "ferrothorn_gen_5",
+      "resource_uri": "/api/v1/description/6272/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "iron-barbs",
+      "resource_uri": "/api/v1/ability/160/"
+    }
+  ],
+  "attack": 94,
+  "defense": 131,
+  "speed": 20,
+  "sp_atk": 54,
+  "sp_def": 116,
+  "hp": 74,
+  "weight": "1100",
+  "height": "10",
+  "national_id": 598,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00598",
+  "name": "Ferrothorn"
+}

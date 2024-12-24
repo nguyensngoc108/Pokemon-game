@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "altaria_gen_5",
+      "resource_uri": "/api/v1/description/4673/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cloud-nine",
+      "resource_uri": "/api/v1/ability/13/"
+    },
+    {
+      "name": "natural-cure",
+      "resource_uri": "/api/v1/ability/30/"
+    }
+  ],
+  "attack": 70,
+  "defense": 90,
+  "speed": 80,
+  "sp_atk": 70,
+  "sp_def": 105,
+  "hp": 75,
+  "weight": "206",
+  "height": "11",
+  "national_id": 334,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00334",
+  "name": "Altaria"
+}

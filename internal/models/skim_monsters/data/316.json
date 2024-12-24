@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "gulpin_gen_5",
+      "resource_uri": "/api/v1/description/4503/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sticky-hold",
+      "resource_uri": "/api/v1/ability/60/"
+    },
+    {
+      "name": "liquid-ooze",
+      "resource_uri": "/api/v1/ability/64/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 43,
+  "defense": 53,
+  "speed": 40,
+  "sp_atk": 43,
+  "sp_def": 53,
+  "hp": 70,
+  "weight": "103",
+  "height": "4",
+  "national_id": 316,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00316",
+  "name": "Gulpin"
+}

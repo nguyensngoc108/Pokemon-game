@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "cyndaquil_gen_5",
+      "resource_uri": "/api/v1/description/2523/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "blaze",
+      "resource_uri": "/api/v1/ability/66/"
+    }
+  ],
+  "attack": 52,
+  "defense": 43,
+  "speed": 65,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "hp": 39,
+  "weight": "79",
+  "height": "5",
+  "national_id": 155,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00155",
+  "name": "Cyndaquil"
+}

@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 602,
+      "name": "Tynamo",
+      "method": "level_up",
+      "level": 39
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 604,
+      "name": "Eelektross",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00603",
+  "_rev": "1-A"
+}

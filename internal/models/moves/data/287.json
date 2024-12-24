@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "refresh",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Removes a burn, paralysis, or poison from the user.",
+  "name": "Refresh",
+  "_id": "00287",
+  "_rev": "1-A"
+}

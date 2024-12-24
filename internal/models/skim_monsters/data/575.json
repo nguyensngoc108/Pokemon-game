@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "gothorita_gen_5",
+      "resource_uri": "/api/v1/description/6179/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shadow-tag",
+      "resource_uri": "/api/v1/ability/23/"
+    },
+    {
+      "name": "frisk",
+      "resource_uri": "/api/v1/ability/119/"
+    }
+  ],
+  "attack": 45,
+  "defense": 70,
+  "speed": 55,
+  "sp_atk": 75,
+  "sp_def": 85,
+  "hp": 60,
+  "weight": "180",
+  "height": "7",
+  "national_id": 575,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00575",
+  "name": "Gothorita"
+}

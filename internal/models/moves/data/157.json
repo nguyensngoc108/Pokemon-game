@@ -1,0 +1,11 @@
+{
+  "type_name": "rock",
+  "identifier": "rock-slide",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Rock-slide",
+  "_id": "00157",
+  "_rev": "1-A"
+}

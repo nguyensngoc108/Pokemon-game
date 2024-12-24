@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "cosmic-power",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Defense and Special Defense by one stage.",
+  "name": "Cosmic-power",
+  "_id": "00322",
+  "_rev": "1-A"
+}

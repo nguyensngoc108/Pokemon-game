@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "pansage_gen_5",
+      "resource_uri": "/api/v1/description/5925/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 53,
+  "defense": 48,
+  "speed": 64,
+  "sp_atk": 53,
+  "sp_def": 48,
+  "hp": 50,
+  "weight": "105",
+  "height": "6",
+  "national_id": 511,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00511",
+  "name": "Pansage"
+}

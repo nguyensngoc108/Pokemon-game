@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "ember",
+  "power": 40,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+  "name": "Ember",
+  "_id": "00052",
+  "_rev": "1-A"
+}

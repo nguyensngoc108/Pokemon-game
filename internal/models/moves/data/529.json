@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "drill-run",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Drill-run",
+  "_id": "00529",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "ice-punch",
+  "power": 75,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.",
+  "name": "Ice-punch",
+  "_id": "00008",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "clear-smog",
+  "power": 50,
+  "pp": 15,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  All of the target's stat modifiers are reset to zero.",
+  "name": "Clear-smog",
+  "_id": "00499",
+  "_rev": "1-A"
+}

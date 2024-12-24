@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "gigalith_gen_5",
+      "resource_uri": "/api/v1/description/5989/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 135,
+  "defense": 130,
+  "speed": 25,
+  "sp_atk": 60,
+  "sp_def": 80,
+  "hp": 85,
+  "weight": "2600",
+  "height": "17",
+  "national_id": 526,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00526",
+  "name": "Gigalith"
+}

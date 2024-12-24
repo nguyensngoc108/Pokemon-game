@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "groudon_gen_5",
+      "resource_uri": "/api/v1/description/5131/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "drought",
+      "resource_uri": "/api/v1/ability/70/"
+    }
+  ],
+  "attack": 150,
+  "defense": 140,
+  "speed": 90,
+  "sp_atk": 100,
+  "sp_def": 90,
+  "hp": 100,
+  "weight": "9500",
+  "height": "35",
+  "national_id": 383,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00383",
+  "name": "Groudon"
+}

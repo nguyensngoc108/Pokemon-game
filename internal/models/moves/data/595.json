@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "mystical-fire",
+  "power": 65,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "",
+  "name": "Phantom-force",
+  "_id": "00595",
+  "_rev": "1-A"
+}

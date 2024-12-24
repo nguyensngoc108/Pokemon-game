@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 3,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Armor Pokémon",
+  "japaneseName": "バンギラス",
+  "Guranburu": "",
+  "eggGroups": "Monster",
+  "_id": "00248",
+  "_rev": "1-A"
+}

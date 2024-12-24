@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 353,
+      "name": "Shuppet",
+      "method": "level_up",
+      "level": 37
+    }
+  ],
+  "to": null,
+  "_id": "00354",
+  "_rev": "1-A"
+}

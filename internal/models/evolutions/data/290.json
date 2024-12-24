@@ -1,0 +1,19 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 291,
+      "name": "Ninjask",
+      "method": "other",
+      "level": 20
+    },
+    {
+      "nationalId": 292,
+      "name": "Shedinja",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "_id": "00290",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "pain-split",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.\n\nThis effect fail against a substitute.",
+  "name": "Pain-split",
+  "_id": "00220",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "skull-bash",
+  "power": 130,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.\n\nThis move cannot be selected by sleep-talk.",
+  "name": "Skull-bash",
+  "_id": "00130",
+  "_rev": "1-A"
+}

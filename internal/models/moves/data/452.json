@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "wood-hammer",
+  "power": 120,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+  "name": "Wood-hammer",
+  "_id": "00452",
+  "_rev": "1-A"
+}

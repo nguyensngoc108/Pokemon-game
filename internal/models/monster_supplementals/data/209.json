@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 25,
+  "species": "Fairy Pokémon",
+  "japaneseName": "ブルー",
+  "Guranburu": "",
+  "eggGroups": "Field, Fairy",
+  "_id": "00209",
+  "_rev": "1-A"
+}

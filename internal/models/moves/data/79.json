@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "sleep-powder",
+  "power": "",
+  "pp": 15,
+  "accuracy": 75,
+  "description": "Puts the target to sleep.",
+  "name": "Sleep-powder",
+  "_id": "00079",
+  "_rev": "1-A"
+}

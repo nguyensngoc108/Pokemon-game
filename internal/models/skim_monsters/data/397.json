@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "staravia_gen_5",
+      "resource_uri": "/api/v1/description/5224/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    }
+  ],
+  "attack": 75,
+  "defense": 50,
+  "speed": 80,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "hp": 55,
+  "weight": "155",
+  "height": "6",
+  "national_id": 397,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00397",
+  "name": "Staravia"
+}

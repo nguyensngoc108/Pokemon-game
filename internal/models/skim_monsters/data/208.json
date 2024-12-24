@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "steelix_gen_5",
+      "resource_uri": "/api/v1/description/3277/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 85,
+  "defense": 200,
+  "speed": 30,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "hp": 75,
+  "weight": "4000",
+  "height": "92",
+  "national_id": 208,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00208",
+  "name": "Steelix"
+}

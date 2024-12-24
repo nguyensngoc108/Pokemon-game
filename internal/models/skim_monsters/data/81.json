@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "magnemite_gen_5",
+      "resource_uri": "/api/v1/description/1340/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "magnet-pull",
+      "resource_uri": "/api/v1/ability/42/"
+    },
+    {
+      "name": "analytic",
+      "resource_uri": "/api/v1/ability/148/"
+    }
+  ],
+  "attack": 35,
+  "defense": 70,
+  "speed": 45,
+  "sp_atk": 95,
+  "sp_def": 55,
+  "hp": 25,
+  "weight": "60",
+  "height": "3",
+  "national_id": 81,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00081",
+  "name": "Magnemite"
+}

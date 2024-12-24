@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "sneasel_gen_5",
+      "resource_uri": "/api/v1/description/3380/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "pickpocket",
+      "resource_uri": "/api/v1/ability/124/"
+    }
+  ],
+  "attack": 95,
+  "defense": 55,
+  "speed": 115,
+  "sp_atk": 35,
+  "sp_def": 75,
+  "hp": 55,
+  "weight": "280",
+  "height": "9",
+  "national_id": 215,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00215",
+  "name": "Sneasel"
+}

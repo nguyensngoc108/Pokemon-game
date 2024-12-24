@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "kinesis",
+  "power": "",
+  "pp": 15,
+  "accuracy": 80,
+  "description": "Lowers the target's accuracy by one stage.",
+  "name": "Kinesis",
+  "_id": "00134",
+  "_rev": "1-A"
+}

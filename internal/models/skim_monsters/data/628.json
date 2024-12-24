@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "braviary_gen_5",
+      "resource_uri": "/api/v1/description/6398/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    },
+    {
+      "name": "defiant",
+      "resource_uri": "/api/v1/ability/128/"
+    }
+  ],
+  "attack": 123,
+  "defense": 75,
+  "speed": 80,
+  "sp_atk": 57,
+  "sp_def": 75,
+  "hp": 100,
+  "weight": "410",
+  "height": "15",
+  "national_id": 628,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00628",
+  "name": "Braviary"
+}

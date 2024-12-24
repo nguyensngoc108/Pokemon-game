@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "chimchar_gen_5",
+      "resource_uri": "/api/v1/description/5180/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "resource_uri": "/api/v1/ability/66/"
+    },
+    {
+      "name": "iron-fist",
+      "resource_uri": "/api/v1/ability/89/"
+    }
+  ],
+  "attack": 58,
+  "defense": 44,
+  "speed": 61,
+  "sp_atk": 58,
+  "sp_def": 44,
+  "hp": 44,
+  "weight": "62",
+  "height": "5",
+  "national_id": 390,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00390",
+  "name": "Chimchar"
+}

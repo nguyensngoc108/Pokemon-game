@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "gallade_gen_5",
+      "resource_uri": "/api/v1/description/5759/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "steadfast",
+      "resource_uri": "/api/v1/ability/80/"
+    },
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 125,
+  "defense": 65,
+  "speed": 80,
+  "sp_atk": 65,
+  "sp_def": 115,
+  "hp": 68,
+  "weight": "520",
+  "height": "16",
+  "national_id": 475,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00475",
+  "name": "Gallade"
+}

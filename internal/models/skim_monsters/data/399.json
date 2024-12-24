@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "bidoof_gen_5",
+      "resource_uri": "/api/v1/description/5240/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "simple",
+      "resource_uri": "/api/v1/ability/86/"
+    },
+    {
+      "name": "unaware",
+      "resource_uri": "/api/v1/ability/109/"
+    },
+    {
+      "name": "moody",
+      "resource_uri": "/api/v1/ability/141/"
+    }
+  ],
+  "attack": 45,
+  "defense": 40,
+  "speed": 31,
+  "sp_atk": 35,
+  "sp_def": 40,
+  "hp": 59,
+  "weight": "200",
+  "height": "5",
+  "national_id": 399,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00399",
+  "name": "Bidoof"
+}

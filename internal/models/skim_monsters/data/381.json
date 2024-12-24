@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "latios_gen_5",
+      "resource_uri": "/api/v1/description/5114/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 90,
+  "defense": 80,
+  "speed": 110,
+  "sp_atk": 130,
+  "sp_def": 110,
+  "hp": 80,
+  "weight": "600",
+  "height": "20",
+  "national_id": 381,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00381",
+  "name": "Latios"
+}

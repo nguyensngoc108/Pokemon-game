@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "hex",
+  "power": 65,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target has a major status ailment-ailment, this move has double power.",
+  "name": "Hex",
+  "_id": "00506",
+  "_rev": "1-A"
+}

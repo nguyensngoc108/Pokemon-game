@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "buizel_gen_5",
+      "resource_uri": "/api/v1/description/5374/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    }
+  ],
+  "attack": 65,
+  "defense": 35,
+  "speed": 85,
+  "sp_atk": 60,
+  "sp_def": 30,
+  "hp": 55,
+  "weight": "295",
+  "height": "7",
+  "national_id": 418,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00418",
+  "name": "Buizel"
+}

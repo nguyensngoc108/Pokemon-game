@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "farfetchd_gen_5",
+      "resource_uri": "/api/v1/description/1373/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "defiant",
+      "resource_uri": "/api/v1/ability/128/"
+    }
+  ],
+  "attack": 65,
+  "defense": 55,
+  "speed": 60,
+  "sp_atk": 58,
+  "sp_def": 62,
+  "hp": 52,
+  "weight": "150",
+  "height": "8",
+  "national_id": 83,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00083",
+  "name": "Farfetchd"
+}

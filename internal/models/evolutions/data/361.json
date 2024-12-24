@@ -1,0 +1,19 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 362,
+      "name": "Glalie",
+      "method": "level_up",
+      "level": 42
+    },
+    {
+      "nationalId": 478,
+      "name": "Froslass",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00361",
+  "_rev": "1-A"
+}

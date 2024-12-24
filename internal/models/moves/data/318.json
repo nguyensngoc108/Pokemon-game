@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "silver-wind",
+  "power": 60,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.",
+  "name": "Silver-wind",
+  "_id": "00318",
+  "_rev": "1-A"
+}

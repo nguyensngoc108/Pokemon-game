@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "keldeo-ordinary_gen_5",
+      "resource_uri": "/api/v1/description/6466/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 72,
+  "defense": 90,
+  "speed": 108,
+  "sp_atk": 129,
+  "sp_def": 90,
+  "hp": 91,
+  "weight": "485",
+  "height": "14",
+  "national_id": 647,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00647",
+  "name": "Keldeo-ordinary"
+}

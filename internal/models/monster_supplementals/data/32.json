@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 100,
+  "species": "Poison Needle Pokémon",
+  "japaneseName": "ニドラン♂",
+  "Guranburu": "",
+  "eggGroups": "Monster, Field",
+  "_id": "00032",
+  "_rev": "1-A"
+}

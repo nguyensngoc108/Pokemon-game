@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Cactus Pokémon",
+  "japaneseName": "サボネア",
+  "Guranburu": "",
+  "eggGroups": "Grass, Human-Like",
+  "_id": "00331",
+  "_rev": "1-A"
+}

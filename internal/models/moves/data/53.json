@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "flamethrower",
+  "power": 90,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+  "name": "Flamethrower",
+  "_id": "00053",
+  "_rev": "1-A"
+}

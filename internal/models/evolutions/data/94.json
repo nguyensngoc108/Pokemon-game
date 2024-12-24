@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 93,
+      "name": "Haunter",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00094",
+  "_rev": "1-A"
+}

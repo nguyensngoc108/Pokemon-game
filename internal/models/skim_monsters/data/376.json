@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "metagross_gen_5",
+      "resource_uri": "/api/v1/description/5073/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "resource_uri": "/api/v1/ability/29/"
+    },
+    {
+      "name": "light-metal",
+      "resource_uri": "/api/v1/ability/135/"
+    }
+  ],
+  "attack": 135,
+  "defense": 130,
+  "speed": 70,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "hp": 80,
+  "weight": "5500",
+  "height": "16",
+  "national_id": 376,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00376",
+  "name": "Metagross"
+}

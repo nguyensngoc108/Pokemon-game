@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 522,
+      "name": "Blitzle",
+      "method": "level_up",
+      "level": 27
+    }
+  ],
+  "to": null,
+  "_id": "00523",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "lucario_gen_5",
+      "resource_uri": "/api/v1/description/5582/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "steadfast",
+      "resource_uri": "/api/v1/ability/80/"
+    },
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 110,
+  "defense": 70,
+  "speed": 90,
+  "sp_atk": 115,
+  "sp_def": 70,
+  "hp": 70,
+  "weight": "540",
+  "height": "12",
+  "national_id": 448,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00448",
+  "name": "Lucario"
+}

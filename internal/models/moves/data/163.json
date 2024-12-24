@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "slash",
+  "power": 70,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Slash",
+  "_id": "00163",
+  "_rev": "1-A"
+}

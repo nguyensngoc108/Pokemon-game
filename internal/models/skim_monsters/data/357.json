@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "tropius_gen_5",
+      "resource_uri": "/api/v1/description/4896/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "solar-power",
+      "resource_uri": "/api/v1/ability/94/"
+    },
+    {
+      "name": "harvest",
+      "resource_uri": "/api/v1/ability/139/"
+    }
+  ],
+  "attack": 68,
+  "defense": 83,
+  "speed": 51,
+  "sp_atk": 72,
+  "sp_def": 87,
+  "hp": 99,
+  "weight": "1000",
+  "height": "20",
+  "national_id": 357,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00357",
+  "name": "Tropius"
+}

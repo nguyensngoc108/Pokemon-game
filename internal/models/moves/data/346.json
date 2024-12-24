@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "water-sport",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "fire moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.",
+  "name": "Water-sport",
+  "_id": "00346",
+  "_rev": "1-A"
+}

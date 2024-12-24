@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "sacred-sword",
+  "power": 90,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.",
+  "name": "Sacred-sword",
+  "_id": "00533",
+  "_rev": "1-A"
+}

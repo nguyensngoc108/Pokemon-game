@@ -1,0 +1,11 @@
+{
+  "type_name": "fairy",
+  "identifier": "fairy-wind",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "",
+  "name": "Magnetic-flux",
+  "_id": "00584",
+  "_rev": "1-A"
+}

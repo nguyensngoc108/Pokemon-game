@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "extreme-speed",
+  "power": 80,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Extremespeed",
+  "_id": "00245",
+  "_rev": "1-A"
+}

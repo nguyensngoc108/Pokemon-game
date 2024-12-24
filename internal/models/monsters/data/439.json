@@ -1,0 +1,1065 @@
+{
+    "monster": {
+        "name": "Mime-jr",
+        "attack": 25,
+        "defense": 45,
+        "speed": 60,
+        "sp_atk": 70,
+        "sp_def": 90,
+        "hp": 20,
+        "weight": "130",
+        "height": "6",
+        "national_id": 439,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00439",
+        "abilities": [
+            "soundproof",
+            "technician",
+            "filter"
+        ],
+        "types": [
+            "fairy",
+            "psychic"
+        ]
+    },
+    "description": [
+        {
+            "description": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "_id": "0005514",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 122,
+                "name": "Mr-mime",
+                "method": "other",
+                "level": 0
+            }
+        ],
+        "_id": "00439",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "bug"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "dragon"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "dark"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "dragon"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dragon"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dark"
+                }
+            ],
+            "_id": "fairy",
+            "_rev": "1-A"
+        },
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "bug"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dragon"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "dark"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "poison"
+                }
+            ],
+            "_id": "psychic",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 6375,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 1,
+        "speedEV": 0,
+        "genderRatio": 50,
+        "species": "Mime Pokémon",
+        "japaneseName": "マネネ",
+        "Guranburu": "",
+        "eggGroups": "No Eggs",
+        "_id": "00439",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "psychic",
+            "identifier": "wonder-room",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "For five turns (including this one), every Pokémon's Defense and Special Defense are swapped.",
+            "name": "Wonder-room",
+            "_id": "00472",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "covet",
+            "power": 60,
+            "pp": 25,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPokémon with sticky-hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Covet",
+            "_id": "00343",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "round",
+            "power": 60,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.",
+            "name": "Round",
+            "_id": "00496",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "magic-room",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "For five turns (including this one), passive effects of held items are ignored, and Pokémon will not use their held items.",
+            "name": "Magic-room",
+            "_id": "00478",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "telekinesis",
+            "power": "",
+            "pp": 15,
+            "accuracy": "",
+            "description": "For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.\n\nThis effect is removed by gravity.  If Gravity is already in effect, this move will fail.",
+            "name": "Telekinesis",
+            "_id": "00477",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "psyshock",
+            "power": 80,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.",
+            "name": "Psyshock",
+            "_id": "00473",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "power-split",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pokémon. Unmodified Special Attack is averaged the same way.\n\nThis effect applies before any other persistent changes to unmodified Attack or Special Attack, such as flower-gift during sunny-day.",
+            "name": "Power-split",
+            "_id": "00471",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ice",
+            "identifier": "icy-wind",
+            "power": 55,
+            "pp": 15,
+            "accuracy": 95,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+            "name": "Icy-wind",
+            "_id": "00196",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "nasty-plot",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Raises the user's Special Attack by two stages.",
+            "name": "Nasty-plot",
+            "_id": "00417",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "magic-coat",
+            "power": "",
+            "pp": 15,
+            "accuracy": "",
+            "description": "The first non-damaging move targeting the user this turn that inflicts major status effect-effects, stat change, or trap effects will be reflected at its user.\n\ndefog, memento, and teeter-dance are not reflected.\n\nattract, flatter, gastro-acid, leech-seed, swagger, worry-seed, and yawn are reflected.\n\nThis move cannot be copied by mirror-move.",
+            "name": "Magic-coat",
+            "_id": "00277",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "headbutt",
+            "power": 70,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Headbutt",
+            "_id": "00029",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "signal-beam",
+            "power": 75,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+            "name": "Signal-beam",
+            "_id": "00324",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "helping-hand",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+            "name": "Helping-hand",
+            "_id": "00270",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "uproar",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  User is forced to use this move for 2–5 turns, selected at random.  All Pokémon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPokémon cannot use rest during this effect.\n\nThis move cannot be selected by sleep-talk.",
+            "name": "Uproar",
+            "_id": "00253",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ground",
+            "identifier": "mud-slap",
+            "power": 20,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.",
+            "name": "Mud-slap",
+            "_id": "00189",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "snore",
+            "power": 50,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Snore",
+            "_id": "00173",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "charge-beam",
+            "power": 50,
+            "pp": 10,
+            "accuracy": 90,
+            "description": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+            "name": "Charge-beam",
+            "_id": "00451",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "grass",
+            "identifier": "grass-knot",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.\n\nTarget's weight | Power\n--------------- | ----:\nUp to 10kg      |    20\nUp to 25kg      |    40\nUp to 50kg      |    60\nUp to 100kg     |    80\nUp to 200kg     |   100\nAbove 200kg     |   120\n",
+            "name": "Grass-knot",
+            "_id": "00447",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "captivate",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Lowers the target's Special Attack by two stages.  If the user and target are the same gender, or either is genderless, this move will fail.",
+            "name": "Captivate",
+            "_id": "00445",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "trick-room",
+            "power": "",
+            "pp": 5,
+            "accuracy": "",
+            "description": "For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPokémon holding full-incense, lagging-tail, or quick-claw and Pokémon with stall ignore this effect.",
+            "name": "Trick-room",
+            "_id": "00433",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fighting",
+            "identifier": "drain-punch",
+            "power": 75,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+            "name": "Drain-punch",
+            "_id": "00409",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "copycat",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Uses the last move that was used successfully by any Pokémon, including the user.\n\nThis move cannot copy itself, nor roar nor whirlwind.\n\nThis move cannot be copied by mirror-move, nor selected by assist, metronome, or sleep-talk.",
+            "name": "Copycat",
+            "_id": "00383",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "fling",
+            "power": "",
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power and type are determined by the user's held item.  The item is consumed.  If the user is not holding an item, or its item has no set type and power, this move will fail.\n\nThis move ignores sticky-hold.\n\nIf the user is under the effect of embargo, this move will fail.",
+            "name": "Fling",
+            "_id": "00374",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "natural-gift",
+            "power": "",
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will fail.",
+            "name": "Natural-gift",
+            "_id": "00363",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "healing-wish",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User faints.  Its replacement's HP is fully restored, and any major status effect-effect is removed.  If the replacement Pokémon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead.",
+            "name": "Healing-wish",
+            "_id": "00361",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fighting",
+            "identifier": "wake-up-slap",
+            "power": 70,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is sleep, this move has double power, and the target wakes up.",
+            "name": "Wake-up-slap",
+            "_id": "00358",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "shock-wave",
+            "power": 60,
+            "pp": 20,
+            "accuracy": "",
+            "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+            "name": "Shock-wave",
+            "_id": "00351",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "calm-mind",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Raises the user's Special Attack and Special Defense by one stage each.",
+            "name": "Calm-mind",
+            "_id": "00347",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "tickle",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Lowers the target's Attack and Defense by one stage.",
+            "name": "Tickle",
+            "_id": "00321",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "teeter-dance",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Confuse all targets.",
+            "name": "Teeter-dance",
+            "_id": "00298",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "secret-power",
+            "power": 70,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to inflict an effect chosen according to the terrain.\n\nTerrain        | Effect\n-------------- | -------------------------------------------------------------\nBuilding       | Paralyze target\nCave           | Makes target flinch\nDeep water     | Lowers target's Attack by one stage\nDesert         | Lowers target's accuracy by one stage\nGrass          | Puts target to sleep\nMountain       | Makes target flinch\nRoad           | Lowers target's accuracy by one stage\nShallow water  | Lowers target's Attack by one stage\nSnow           | Freezes target\nTall grass     | Puts target to sleep\n\nIn Pokémon Battle Revolution:\n\nTerrain        | Effect\n-------------- | -------------------------------------------------------------\nCourtyard      | Paralyze target\nCrystal        | Makes target flinch\nGateway        | Lowers target's Attack by one stage\nMagma          | Makes target flinch\nMain Street    | Paralyze target\nNeon           | Paralyze target\nStargazer      | Makes target flinch\nSunny Park     | Puts target to sleep\nSunset         | Lowers target's accuracy by one stage\nWaterfall      | Puts target to sleep\n",
+            "name": "Secret-power",
+            "_id": "00290",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "snatch",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the \"snatchable\" flag.\n\nIf two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial move, and the slower Pokémon will then steal it again—thus, only the slowest Pokémon using this move ultimately gains a stolen move's effect.\n\nIf the user steals psych-up, it will target the Pokémon that used psych-up.  If the user was the original target of psych-up, and the Pokémon that originally used it's affected by pressure, it will only lose 1 PP.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+            "name": "Snatch",
+            "_id": "00289",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "skill-swap",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pokémon has multitype or wonder-guard, this move will fail.",
+            "name": "Skill-swap",
+            "_id": "00285",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fighting",
+            "identifier": "brick-break",
+            "power": 75,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Destroys any light-screen or reflect on the target's side of the field, then inflicts regular damage.  The barriers are destroyed even if this move has no effect.",
+            "name": "Brick-break",
+            "_id": "00280",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "recycle",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User recovers the last item consumed by the user or a Pokémon in its position on the field.  The item must be used again before it can be recovered by this move again.  If the user is holding an item, this move fail.\n\nItems taken or given away by covet, knock-off, switcheroo, thief, or trick may not be recovered.",
+            "name": "Recycle",
+            "_id": "00278",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "role-play",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower-gift, forecast, illusion, imposter, multitype, stance-change, trace, wonder-guard, or zen-mode, this move will fail.\n\nThis move cannot be copied by mirror-move.",
+            "name": "Role-play",
+            "_id": "00272",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "trick",
+            "power": "",
+            "pp": 10,
+            "accuracy": 100,
+            "description": "User and target permanently swap held item.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail, this move will fail.\n\nIf either Pokémon has multitype or sticky-hold, this move will fail.\n\nIf this move results in a Pokémon obtaining choice-band, choice-scarf, or choice-specs, and that Pokémon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pokémon had a choice item before this move was used.  If the first of the two Pokémon gains a choice item, it may select whatever choice move it wishes next turn.\n\nNeither the user nor the target can recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Trick",
+            "_id": "00271",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "taunt",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Target is forced to only use damaging moves for the next 3–5 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.\n\nassist, copycat, me-first, metronome, mirror-move, and sleep-talk do not directly inflict damage and thus may not be used.\n\nbide, counter, endeavor, metal-burst, and mirror-coat are allowed.",
+            "name": "Taunt",
+            "_id": "00269",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fighting",
+            "identifier": "focus-punch",
+            "power": 150,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror-move, nor selected by assist, metronome, or sleep-talk.",
+            "name": "Focus-punch",
+            "_id": "00264",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "facade",
+            "power": 70,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power.",
+            "name": "Facade",
+            "_id": "00263",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "torment",
+            "power": "",
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.\n\nIf the target is forced to attempt a repeated move due to choice-band, choice-scarf, choice-specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn.",
+            "name": "Torment",
+            "_id": "00259",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "fake-out",
+            "power": 40,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.",
+            "name": "Fake-out",
+            "_id": "00252",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "future-sight",
+            "power": 120,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.\n\nThis effect breaks through wonder-guard.\n\nIf the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.\n\nThe damage is applied at the end of the turn, so it ignores endure and focus-sash.\n\nThis move cannot be copied by mirror-move.",
+            "name": "Future-sight",
+            "_id": "00248",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ghost",
+            "identifier": "shadow-ball",
+            "power": 80,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 20% chance to lower the target's Special Defense by one stage.",
+            "name": "Shadow-ball",
+            "_id": "00247",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "psych-up",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror-move.",
+            "name": "Psych-up",
+            "_id": "00244",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fire",
+            "identifier": "sunny-day",
+            "power": "",
+            "pp": 5,
+            "accuracy": "",
+            "description": "Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage.\n\nIf the user is holding heat-rock, this effect lasts for eight turns.\n\nPokémon cannot become frozen.\n\nthunder has 50% accuracy.\n\nsolar-beam skips its charge turn.\n\nmoonlight, morning-sun, and synthesis heal 2/3 of the user's max HP.\n\nPokémon with chlorophyll have doubled original Speed.\n\nPokémon with forecast become fire.\n\nPokémon with leaf-guard are not affected by major status effects-effects.\n\nPokémon with flower-gift change form; every Pokémon on their side of the field have their original Attack and Special Attack increased by 50%.\n\nPokémon with dry-skin lose 1/8 max HP at the end of each turn.\n\nPokémon with solar-power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn.",
+            "name": "Sunny-day",
+            "_id": "00241",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "water",
+            "identifier": "rain-dance",
+            "power": "",
+            "pp": 5,
+            "accuracy": "",
+            "description": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.\n\nIf the user is holding damp-rock, this effect lasts for eight turns.\n\nthunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.\n\nsolar-beam has half power.\n\nmoonlight, morning-sun, and synthesis heal only 1/4 of the user's max HP.\n\nPokémon with swift-swim have doubled original Speed.\n\nPokémon with forecast become water.\n\nPokémon with dry-skin heal 1/8 max HP, Pokémon with hydration are cured of major status effects-effects, and Pokémon with rain-dish heal 1/16 max HP at the end of each turn.",
+            "name": "Rain-dance",
+            "_id": "00240",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "hidden-power",
+            "power": 60,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power and type are determined by the user's IV.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IV.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
+            "name": "Hidden-power",
+            "_id": "00237",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "encore",
+            "power": "",
+            "pp": 5,
+            "accuracy": 100,
+            "description": "The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror-move, sketch, struggle, or transform, this move will fail.",
+            "name": "Encore",
+            "_id": "00227",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "baton-pass",
+            "power": "",
+            "pp": 40,
+            "accuracy": "",
+            "description": "User switches out, and the trainer selects a replacement Pokémon from the party.  Stat changes, confusion, and persistent move effects are passed along to the replacement Pokémon.\n\nThe following move effects are passed:\n\n* aqua-ring\n* both the user's and target's effect of block, mean-look, and spider-web\n* the curse effect of curse\n* embargo\n* focus-energy or an activated lansat-berry\n* gastro-acid\n* ingrain\n* being sapped by leech-seed\n* being targeted by lock-on or mind-reader\n* magnet-rise\n* perish-song's counter\n* power-trick\n* substitute; the doll's HP is unchanged\n\nThe replacement Pokémon does not trigger effects that respond to Pokémon switching in.",
+            "name": "Baton-pass",
+            "_id": "00226",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "safeguard",
+            "power": "",
+            "pp": 25,
+            "accuracy": "",
+            "description": "Protects Pokémon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal-dance, or thrash.",
+            "name": "Safeguard",
+            "_id": "00219",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "frustration",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+            "name": "Frustration",
+            "_id": "00218",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "return",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power increases with happiness, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+            "name": "Return",
+            "_id": "00216",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "sleep-talk",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Only usable if the user is sleep.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 PP.\n\nThis move will not select assist, bide, bounce, chatter, copycat, dig, dive, fly, focus-punch, me-first, metronome, mirror-move, shadow-force, skull-bash, sky-attack, sky-drop, sleep-talk, solar-beam, razor-wind, or uproar.\n\nIf the selected move requires a recharge turn—i.e., one of blast-burn, frenzy-plant, giga-impact, hydro-cannon, hyper-beam, roar-of-time, or rock-wrecker—and the user is still sleep next turn, then it's forced to use this move again and pay another PP for the recharge turn.\n\nThis move cannot be copied by mirror-move, nor selected by assist, metronome, or sleep-talk.",
+            "name": "Sleep-talk",
+            "_id": "00214",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "attract",
+            "power": "",
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will fail.  If either Pokémon leaves the field, this effect ends.",
+            "name": "Attract",
+            "_id": "00213",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "swagger",
+            "power": "",
+            "pp": 15,
+            "accuracy": 90,
+            "description": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied.",
+            "name": "Swagger",
+            "_id": "00207",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fairy",
+            "identifier": "charm",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Lowers the target's Attack by two stages.",
+            "name": "Charm",
+            "_id": "00204",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "endure",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "The user's HP cannot be lowered below 1 by any means for the remainder of this turn.\n\nIf the user successfully used detect, endure, protect, quick-guard, or wide-guard on the last turn, this move has a 50% chance to fail.\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Endure",
+            "_id": "00203",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "protect",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nIf the user successfully used detect, endure, protect, quick-guard, or wide-guard on the last turn, this move has a 50% chance to fail.\n\nlock-on, mind-reader, and no-guard provide a (100 – accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn-drill, and sheer-cold); those are always blocked by this move.\n\nthunder during rain-dance and blizzard during hail have a 30% chance to break through this move.\n\nThe following effects are not prevented by this move:\n\n* acupressure from an ally\n* curse's curse effect\n* Delayed damage from doom-desire and future-sight; however, these moves will be prevented if they are used this turn\n* feint, which will also end this move's protection after it hits\n* imprison\n* perish-song\n* shadow-force\n* Moves that merely copy the user, such as transform or psych-up\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Protect",
+            "_id": "00182",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "thief",
+            "power": 60,
+            "pp": 25,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPokémon with sticky-hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Thief",
+            "_id": "00168",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "substitute",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field, the doll will vanish.  If the user cannot pay the HP cost, this move will fail.\n\nThe doll takes damage as normal, using the user's stats and types, and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.\n\nThe doll will block major status effect-effects, confusion, and flinch.  The effects of smelling-salts and wake-up-slap do not trigger against a doll, even if the Pokémon behind the doll has the appropriate major status effect-effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage, but the multi-turn trapping and damage effects will not activate.\n\nMoves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such, e.g., avalanche, counter, or a rowap-berry.  magic-coat still works as normal, even against moves the doll would block.  Opposing Pokémon that damage the doll with a leech move like absorb are healed as normal.\n\nIt will also block acupressure, block, the curse effect of curse, dream-eater, embargo, flatter, gastro-acid, grudge, heal-block, leech-seed, lock-on, mean-look, mimic, mind-reader, nightmare, pain-split, psycho-shift, spider-web, sketch, swagger, switcheroo, trick, worry-seed, and yawn.  A Pokémon affected by yawn before summoning the doll will still fall to sleep.\n\nThe doll blocks intimidate, but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt-absorb absorbing thunder-wave), such moves will not be blocked.\n\nlife-orb and berries that cause confusion still work as normal, but their respective HP loss and confusion are absorbed/blocked by the doll.\n\nThe user is still vulnerable to damage inflicted when entering or leaving the field, such as by pursuit or spikes; however, the doll will block the poison effect of toxic-spikes.\n\nThe doll is passed on by baton-pass.  It keeps its existing HP, but uses the replacement Pokémon's stats and types for damage calculation.\n\nAll other effects work as normal.",
+            "name": "Substitute",
+            "_id": "00164",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "rest",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect-effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early-bird.\n\nThis move fail if the Pokémon cannot fall asleep due to uproar, insomnia, or vital-spirit.  It also fails if the Pokémon is at full health or is already asleep.",
+            "name": "Rest",
+            "_id": "00156",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "flash",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Lowers the target's accuracy by one stage.",
+            "name": "Flash",
+            "_id": "00148",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "dream-eater",
+            "power": 100,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Fails if not used on a sleep Pokémon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+            "name": "Dream-eater",
+            "_id": "00138",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "reflect",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hit are not affected by the barrier.\n\nIf the user is holding light-clay, the barrier lasts for eight turns.\n\nbrick-break or defog used by an opponent will destroy the barrier.",
+            "name": "Reflect",
+            "_id": "00115",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "light-screen",
+            "power": "",
+            "pp": 30,
+            "accuracy": "",
+            "description": "Erects a barrier around the user's side of the field that reduces damage from special attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hit are not affected by the barrier.\n\nIf the user is holding light-clay, the barrier lasts for eight turns.\n\nbrick-break or defog used by an opponent will destroy the barrier.",
+            "name": "Light-screen",
+            "_id": "00113",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "barrier",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Raises the user's Defense by two stages.",
+            "name": "Barrier",
+            "_id": "00112",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ghost",
+            "identifier": "confuse-ray",
+            "power": "",
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Confuse the target.",
+            "name": "Confuse-ray",
+            "_id": "00109",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "double-team",
+            "power": "",
+            "pp": 15,
+            "accuracy": "",
+            "description": "Raises the user's evasion by one stage.",
+            "name": "Double-team",
+            "_id": "00104",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "mimic",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.\n\nIf chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome, nor forced by encore.",
+            "name": "Mimic",
+            "_id": "00102",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "meditate",
+            "power": "",
+            "pp": 40,
+            "accuracy": "",
+            "description": "Raises the user's Attack by one stage.",
+            "name": "Meditate",
+            "_id": "00096",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "hypnosis",
+            "power": "",
+            "pp": 20,
+            "accuracy": 60,
+            "description": "Puts the target to sleep.",
+            "name": "Hypnosis",
+            "_id": "00095",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "psychic",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+            "name": "Psychic",
+            "_id": "00094",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "confusion",
+            "power": 50,
+            "pp": 25,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+            "name": "Confusion",
+            "_id": "00093",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "toxic",
+            "power": "",
+            "pp": 10,
+            "accuracy": 90,
+            "description": "Badly poisons the target.  Never misses when used by a poison-type Pokémon.",
+            "name": "Toxic",
+            "_id": "00092",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "thunder",
+            "power": 110,
+            "pp": 10,
+            "accuracy": 70,
+            "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.\n\nDuring rain-dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny-day, this move has 50% accuracy.",
+            "name": "Thunder",
+            "_id": "00087",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "thunder-wave",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Paralyzes the target.",
+            "name": "Thunder-wave",
+            "_id": "00086",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "thunderbolt",
+            "power": 90,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to paralyze the target.",
+            "name": "Thunderbolt",
+            "_id": "00085",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "grass",
+            "identifier": "solar-beam",
+            "power": 120,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny-day, the charge turn is skipped.\n\nDuring hail, rain-dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep-talk.",
+            "name": "Solarbeam",
+            "_id": "00076",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "psybeam",
+            "power": 65,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+            "name": "Psybeam",
+            "_id": "00060",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "double-slap",
+            "power": 15,
+            "pp": 10,
+            "accuracy": 85,
+            "description": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+            "name": "Doubleslap",
+            "_id": "00003",
+            "_rev": "1-A"
+        }
+    ]
+}

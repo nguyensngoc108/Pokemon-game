@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "venom-drench",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "",
+  "name": "Power-up-punch",
+  "_id": "00599",
+  "_rev": "1-A"
+}

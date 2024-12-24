@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "crobat_gen_5",
+      "resource_uri": "/api/v1/description/2714/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "infiltrator",
+      "resource_uri": "/api/v1/ability/151/"
+    }
+  ],
+  "attack": 90,
+  "defense": 80,
+  "speed": 130,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "hp": 85,
+  "weight": "750",
+  "height": "18",
+  "national_id": 169,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00169",
+  "name": "Crobat"
+}

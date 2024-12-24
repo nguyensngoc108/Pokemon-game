@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "belly-drum",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail.",
+  "name": "Belly-drum",
+  "_id": "00187",
+  "_rev": "1-A"
+}

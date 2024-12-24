@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "charge",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled.",
+  "name": "Charge",
+  "_id": "00268",
+  "_rev": "1-A"
+}

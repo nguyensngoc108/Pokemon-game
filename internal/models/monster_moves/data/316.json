@@ -1,0 +1,346 @@
+{
+  "moves": [
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 171
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 120
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 496
+    },
+    {
+      "learn_type": "level up",
+      "level": 34,
+      "id": 491
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 482
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 474
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 29
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 402
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 445
+    },
+    {
+      "learn_type": "level up",
+      "level": 54,
+      "id": 441
+    },
+    {
+      "learn_type": "level up",
+      "level": 44,
+      "id": 380
+    },
+    {
+      "learn_type": "level up",
+      "level": 49,
+      "id": 378
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 363
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 194
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 174
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 223
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 214
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 207
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 205
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 203
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 189
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 173
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 164
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 153
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 111
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 102
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 68
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 38
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 34
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 9
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 8
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 7
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 352
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 351
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 331
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 290
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 289
+    },
+    {
+      "learn_type": "level up",
+      "level": 6,
+      "id": 281
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 263
+    },
+    {
+      "learn_type": "level up",
+      "level": 34,
+      "id": 256
+    },
+    {
+      "learn_type": "level up",
+      "level": 34,
+      "id": 255
+    },
+    {
+      "learn_type": "level up",
+      "level": 34,
+      "id": 254
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 249
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 247
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 241
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 240
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 237
+    },
+    {
+      "learn_type": "level up",
+      "level": 23,
+      "id": 227
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 220
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 218
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 216
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 213
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 202
+    },
+    {
+      "learn_type": "level up",
+      "level": 39,
+      "id": 188
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 182
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 156
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 151
+    },
+    {
+      "learn_type": "level up",
+      "level": 9,
+      "id": 139
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 138
+    },
+    {
+      "learn_type": "level up",
+      "level": 17,
+      "id": 133
+    },
+    {
+      "learn_type": "level up",
+      "level": 14,
+      "id": 124
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 123
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 104
+    },
+    {
+      "learn_type": "level up",
+      "level": 28,
+      "id": 92
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 76
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 70
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 58
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 1
+    }
+  ],
+  "_id": "00316",
+  "_rev": "1-92ce27b928d5aab605610e984a77c855"
+}

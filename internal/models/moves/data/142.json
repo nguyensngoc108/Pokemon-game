@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "lovely-kiss",
+  "power": "",
+  "pp": 10,
+  "accuracy": 75,
+  "description": "Puts the target to sleep.",
+  "name": "Lovely-kiss",
+  "_id": "00142",
+  "_rev": "1-A"
+}

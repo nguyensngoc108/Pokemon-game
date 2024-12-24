@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "tympole_gen_5",
+      "resource_uri": "/api/v1/description/6026/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "hydration",
+      "resource_uri": "/api/v1/ability/93/"
+    }
+  ],
+  "attack": 50,
+  "defense": 40,
+  "speed": 64,
+  "sp_atk": 50,
+  "sp_def": 40,
+  "hp": 50,
+  "weight": "45",
+  "height": "5",
+  "national_id": 535,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00535",
+  "name": "Tympole"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "breloom_gen_5",
+      "resource_uri": "/api/v1/description/4206/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "resource_uri": "/api/v1/ability/27/"
+    },
+    {
+      "name": "poison-heal",
+      "resource_uri": "/api/v1/ability/90/"
+    },
+    {
+      "name": "technician",
+      "resource_uri": "/api/v1/ability/101/"
+    }
+  ],
+  "attack": 130,
+  "defense": 80,
+  "speed": 70,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "hp": 60,
+  "weight": "392",
+  "height": "12",
+  "national_id": 286,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00286",
+  "name": "Breloom"
+}

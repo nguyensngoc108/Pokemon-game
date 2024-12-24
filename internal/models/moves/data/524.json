@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "frost-breath",
+  "power": 60,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Always scores a critical hit.",
+  "name": "Frost-breath",
+  "_id": "00524",
+  "_rev": "1-A"
+}

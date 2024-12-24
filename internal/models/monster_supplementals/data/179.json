@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Fluff Pokémon",
+  "japaneseName": "メリープ",
+  "Guranburu": "",
+  "eggGroups": "Monster, Field",
+  "_id": "00179",
+  "_rev": "1-A"
+}

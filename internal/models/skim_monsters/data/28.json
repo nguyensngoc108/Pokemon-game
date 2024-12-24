@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "sandslash_gen_5",
+      "resource_uri": "/api/v1/description/447/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "sand-rush",
+      "resource_uri": "/api/v1/ability/146/"
+    }
+  ],
+  "attack": 100,
+  "defense": 110,
+  "speed": 65,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "hp": 75,
+  "weight": "295",
+  "height": "10",
+  "national_id": 28,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00028",
+  "name": "Sandslash"
+}

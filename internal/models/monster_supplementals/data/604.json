@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 3,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Electric Fish Pokémon",
+  "japaneseName": "シビルドン",
+  "Guranburu": "",
+  "eggGroups": "Amorphous",
+  "_id": "00604",
+  "_rev": "1-A"
+}

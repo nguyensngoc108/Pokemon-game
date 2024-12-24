@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "guard-split",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pokémon. Unmodified Special Defense is averaged the same way.",
+  "name": "Guard-split",
+  "_id": "00470",
+  "_rev": "1-A"
+}

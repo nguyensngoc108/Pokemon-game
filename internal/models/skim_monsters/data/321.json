@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "wailord_gen_5",
+      "resource_uri": "/api/v1/description/4551/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    },
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    }
+  ],
+  "attack": 90,
+  "defense": 45,
+  "speed": 60,
+  "sp_atk": 90,
+  "sp_def": 45,
+  "hp": 170,
+  "weight": "3980",
+  "height": "145",
+  "national_id": 321,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00321",
+  "name": "Wailord"
+}

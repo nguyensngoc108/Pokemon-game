@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 10200,
+  "defenseEV": 2,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Patient Pokémon",
+  "japaneseName": "コモルー",
+  "Guranburu": "",
+  "eggGroups": "Dragon",
+  "_id": "00372",
+  "_rev": "1-A"
+}

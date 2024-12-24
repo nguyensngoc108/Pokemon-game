@@ -1,0 +1,246 @@
+{
+  "moves": [
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 402
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 343
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 215
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 214
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 173
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 496
+    },
+    {
+      "learn_type": "level up",
+      "level": 44,
+      "id": 495
+    },
+    {
+      "learn_type": "level up",
+      "level": 37,
+      "id": 494
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 447
+    },
+    {
+      "learn_type": "level up",
+      "level": 46,
+      "id": 437
+    },
+    {
+      "learn_type": "level up",
+      "level": 35,
+      "id": 412
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 388
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 363
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 361
+    },
+    {
+      "learn_type": "level up",
+      "level": 19,
+      "id": 345
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 320
+    },
+    {
+      "learn_type": "level up",
+      "level": 28,
+      "id": 312
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 275
+    },
+    {
+      "learn_type": "level up",
+      "level": 31,
+      "id": 270
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 263
+    },
+    {
+      "learn_type": "level up",
+      "level": 40,
+      "id": 241
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 237
+    },
+    {
+      "learn_type": "level up",
+      "level": 17,
+      "id": 235
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 230
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 219
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 218
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 216
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 213
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 207
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 204
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 203
+    },
+    {
+      "learn_type": "level up",
+      "level": 26,
+      "id": 202
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 182
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 164
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 156
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 148
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 138
+    },
+    {
+      "learn_type": "egg move",
+      "level": 0,
+      "id": 117
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 104
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 92
+    },
+    {
+      "learn_type": "level up",
+      "level": 10,
+      "id": 79
+    },
+    {
+      "learn_type": "level up",
+      "level": 22,
+      "id": 78
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 76
+    },
+    {
+      "learn_type": "level up",
+      "level": 4,
+      "id": 74
+    },
+    {
+      "learn_type": "level up",
+      "level": 8,
+      "id": 73
+    },
+    {
+      "learn_type": "level up",
+      "level": 13,
+      "id": 72
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 71
+    },
+    {
+      "learn_type": "machine",
+      "level": 0,
+      "id": 15
+    }
+  ],
+  "_id": "00548",
+  "_rev": "1-69da7148a36d3d54b7f6eee151f3b185"
+}

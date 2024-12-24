@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "circle-throw",
+  "power": 60,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage, then switches the target out for another of its trainer's Pokémon, selected at random.\n\nIf the target is under the effect of ingrain or suction-cups, or it has a substitute, or its Trainer has no more usable Pokémon, it will not be switched out.  If the target is a wild Pokémon, the battle ends instead.",
+  "name": "Circle-throw",
+  "_id": "00509",
+  "_rev": "1-A"
+}

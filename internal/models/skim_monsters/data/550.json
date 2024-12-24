@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "basculin-red-striped_gen_5",
+      "resource_uri": "/api/v1/description/6081/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "adaptability",
+      "resource_uri": "/api/v1/ability/91/"
+    },
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    }
+  ],
+  "attack": 92,
+  "defense": 65,
+  "speed": 98,
+  "sp_atk": 80,
+  "sp_def": 55,
+  "hp": 70,
+  "weight": "180",
+  "height": "10",
+  "national_id": 550,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00550",
+  "name": "Basculin-red-striped"
+}

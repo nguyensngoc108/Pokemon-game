@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Humming Pokémon",
+  "japaneseName": "チルタリス",
+  "Guranburu": "",
+  "eggGroups": "Flying, Dragon",
+  "_id": "00334",
+  "_rev": "1-A"
+}

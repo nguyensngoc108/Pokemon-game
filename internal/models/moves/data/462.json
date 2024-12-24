@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "crush-grip",
+  "power": "",
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121.",
+  "name": "Crush-grip",
+  "_id": "00462",
+  "_rev": "1-A"
+}

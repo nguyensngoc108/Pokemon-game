@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "bulldoze",
+  "power": 60,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+  "name": "Bulldoze",
+  "_id": "00523",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "teeter-dance",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Confuse all targets.",
+  "name": "Teeter-dance",
+  "_id": "00298",
+  "_rev": "1-A"
+}

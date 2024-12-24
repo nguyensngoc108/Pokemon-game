@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 77,
+      "name": "Ponyta",
+      "method": "level_up",
+      "level": 40
+    }
+  ],
+  "to": null,
+  "_id": "00078",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 2,
+  "genderRatio": 0,
+  "species": "Snow Country Pokémon",
+  "japaneseName": "ユキメノコ",
+  "Guranburu": "",
+  "eggGroups": "Fairy, Mineral",
+  "_id": "00478",
+  "_rev": "1-A"
+}

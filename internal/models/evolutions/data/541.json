@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 540,
+      "name": "Sewaddle",
+      "method": "level_up",
+      "level": 20
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 542,
+      "name": "Leavanny",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "_id": "00541",
+  "_rev": "1-A"
+}

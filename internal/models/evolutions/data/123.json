@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 212,
+      "name": "Scizor",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00123",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 75,
+  "species": "Puppy Pokémon",
+  "japaneseName": "ガーディ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00058",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Freshwater Crab Pokémon",
+  "japaneseName": "クラブ",
+  "Guranburu": "",
+  "eggGroups": "Water 3",
+  "_id": "00098",
+  "_rev": "1-A"
+}

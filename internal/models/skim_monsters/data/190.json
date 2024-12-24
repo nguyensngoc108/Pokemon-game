@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "aipom_gen_5",
+      "resource_uri": "/api/v1/description/3017/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    },
+    {
+      "name": "skill-link",
+      "resource_uri": "/api/v1/ability/92/"
+    }
+  ],
+  "attack": 70,
+  "defense": 55,
+  "speed": 85,
+  "sp_atk": 40,
+  "sp_def": 55,
+  "hp": 55,
+  "weight": "115",
+  "height": "8",
+  "national_id": 190,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00190",
+  "name": "Aipom"
+}

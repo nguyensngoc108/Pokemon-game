@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "electrode_gen_5",
+      "resource_uri": "/api/v1/description/1663/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "aftermath",
+      "resource_uri": "/api/v1/ability/106/"
+    }
+  ],
+  "attack": 50,
+  "defense": 70,
+  "speed": 140,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "hp": 60,
+  "weight": "666",
+  "height": "12",
+  "national_id": 101,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00101",
+  "name": "Electrode"
+}

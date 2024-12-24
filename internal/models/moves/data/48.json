@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "supersonic",
+  "power": "",
+  "pp": 20,
+  "accuracy": 55,
+  "description": "Confuse the target.",
+  "name": "Supersonic",
+  "_id": "00048",
+  "_rev": "1-A"
+}

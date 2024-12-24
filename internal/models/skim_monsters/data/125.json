@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "electabuzz_gen_5",
+      "resource_uri": "/api/v1/description/2058/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    }
+  ],
+  "attack": 83,
+  "defense": 57,
+  "speed": 105,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "hp": 65,
+  "weight": "300",
+  "height": "11",
+  "national_id": 125,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00125",
+  "name": "Electabuzz"
+}

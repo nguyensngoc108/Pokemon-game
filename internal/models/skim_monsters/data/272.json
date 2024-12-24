@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "ludicolo_gen_5",
+      "resource_uri": "/api/v1/description/4072/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "rain-dish",
+      "resource_uri": "/api/v1/ability/44/"
+    }
+  ],
+  "attack": 70,
+  "defense": 70,
+  "speed": 70,
+  "sp_atk": 90,
+  "sp_def": 100,
+  "hp": 80,
+  "weight": "550",
+  "height": "15",
+  "national_id": 272,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00272",
+  "name": "Ludicolo"
+}

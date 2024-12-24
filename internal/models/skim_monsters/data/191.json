@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "sunkern_gen_5",
+      "resource_uri": "/api/v1/description/3030/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "solar-power",
+      "resource_uri": "/api/v1/ability/94/"
+    }
+  ],
+  "attack": 30,
+  "defense": 30,
+  "speed": 30,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "hp": 30,
+  "weight": "18",
+  "height": "3",
+  "national_id": 191,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00191",
+  "name": "Sunkern"
+}

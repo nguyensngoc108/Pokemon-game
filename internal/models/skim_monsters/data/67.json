@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "machoke_gen_5",
+      "resource_uri": "/api/v1/description/1096/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "steadfast",
+      "resource_uri": "/api/v1/ability/80/"
+    },
+    {
+      "name": "no-guard",
+      "resource_uri": "/api/v1/ability/99/"
+    }
+  ],
+  "attack": 100,
+  "defense": 70,
+  "speed": 45,
+  "sp_atk": 50,
+  "sp_def": 60,
+  "hp": 80,
+  "weight": "705",
+  "height": "15",
+  "national_id": 67,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00067",
+  "name": "Machoke"
+}

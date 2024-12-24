@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "flash",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's accuracy by one stage.",
+  "name": "Flash",
+  "_id": "00148",
+  "_rev": "1-A"
+}

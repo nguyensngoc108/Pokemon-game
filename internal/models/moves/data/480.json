@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "storm-throw",
+  "power": 60,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Always scores a critical hit.",
+  "name": "Storm-throw",
+  "_id": "00480",
+  "_rev": "1-A"
+}

@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 590,
+      "name": "Foongus",
+      "method": "level_up",
+      "level": 39
+    }
+  ],
+  "to": null,
+  "_id": "00591",
+  "_rev": "1-A"
+}

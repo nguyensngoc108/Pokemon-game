@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 2,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Mushroom Pokémon",
+  "japaneseName": "モロバレル",
+  "Guranburu": "",
+  "eggGroups": "Grass",
+  "_id": "00591",
+  "_rev": "1-A"
+}

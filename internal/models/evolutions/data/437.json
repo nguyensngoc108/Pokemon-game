@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 436,
+      "name": "Bronzor",
+      "method": "level_up",
+      "level": 33
+    }
+  ],
+  "to": null,
+  "_id": "00437",
+  "_rev": "1-A"
+}

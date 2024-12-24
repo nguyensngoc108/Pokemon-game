@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "dodrio_gen_5",
+      "resource_uri": "/api/v1/description/1407/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "tangled-feet",
+      "resource_uri": "/api/v1/ability/77/"
+    }
+  ],
+  "attack": 110,
+  "defense": 70,
+  "speed": 100,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "hp": 60,
+  "weight": "852",
+  "height": "18",
+  "national_id": 85,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00085",
+  "name": "Dodrio"
+}

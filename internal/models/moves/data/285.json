@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "skill-swap",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pokémon has multitype or wonder-guard, this move will fail.",
+  "name": "Skill-swap",
+  "_id": "00285",
+  "_rev": "1-A"
+}

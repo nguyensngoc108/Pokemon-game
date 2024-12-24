@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "shellos_gen_5",
+      "resource_uri": "/api/v1/description/5401/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sticky-hold",
+      "resource_uri": "/api/v1/ability/60/"
+    },
+    {
+      "name": "storm-drain",
+      "resource_uri": "/api/v1/ability/114/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 48,
+  "defense": 48,
+  "speed": 34,
+  "sp_atk": 57,
+  "sp_def": 62,
+  "hp": 76,
+  "weight": "63",
+  "height": "3",
+  "national_id": 422,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00422",
+  "name": "Shellos"
+}

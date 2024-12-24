@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "beat-up",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts typeless regular damage.  Every Pokémon in the user's party, excepting those that have fainted or have a major status effect-effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pokémon still get STAB.\n\nThis effect breaks through wonder-guard.",
+  "name": "Beat-up",
+  "_id": "00251",
+  "_rev": "1-A"
+}

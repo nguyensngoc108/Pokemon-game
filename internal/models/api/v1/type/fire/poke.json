@@ -1,0 +1,68 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 2,
+      "name": "ground"
+    },
+    {
+      "multiplier": 2,
+      "name": "rock"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "fire"
+    },
+    {
+      "multiplier": 2,
+      "name": "water"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "ice"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "fairy"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "fire"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "water"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "rock"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "dragon"
+    },
+    {
+      "multiplier": 2,
+      "name": "grass"
+    },
+    {
+      "multiplier": 2,
+      "name": "ice"
+    },
+    {
+      "multiplier": 2,
+      "name": "bug"
+    },
+    {
+      "multiplier": 2,
+      "name": "steel"
+    }
+  ],
+  "_id": "fire",
+  "_rev": "1-A"
+}

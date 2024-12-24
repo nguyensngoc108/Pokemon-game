@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "hyper-fang",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Has a 10% chance to make the target flinch.",
+  "name": "Hyper-fang",
+  "_id": "00158",
+  "_rev": "1-A"
+}

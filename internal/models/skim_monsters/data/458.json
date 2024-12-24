@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "mantyke_gen_5",
+      "resource_uri": "/api/v1/description/5657/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    }
+  ],
+  "attack": 20,
+  "defense": 50,
+  "speed": 50,
+  "sp_atk": 60,
+  "sp_def": 120,
+  "hp": 45,
+  "weight": "650",
+  "height": "10",
+  "national_id": 458,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00458",
+  "name": "Mantyke"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "flash-cannon",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+  "name": "Flash-cannon",
+  "_id": "00430",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 3,
+  "hpEV": 0,
+  "hatchSteps": 20400,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": "N/A",
+  "species": "Flame Pokémon",
+  "japaneseName": "ファイヤー",
+  "Guranburu": "",
+  "eggGroups": "No Eggs",
+  "_id": "00146",
+  "_rev": "1-A"
+}

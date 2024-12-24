@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "venusaur_gen_5",
+      "resource_uri": "/api/v1/description/45/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    }
+  ],
+  "attack": 82,
+  "defense": 83,
+  "speed": 80,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "hp": 80,
+  "weight": "1000",
+  "height": "20",
+  "national_id": 3,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00003",
+  "name": "Venusaur"
+}

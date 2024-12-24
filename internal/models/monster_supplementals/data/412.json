@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Bagworm Pokémon",
+  "japaneseName": "ミノムッチ",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00412",
+  "_rev": "1-A"
+}

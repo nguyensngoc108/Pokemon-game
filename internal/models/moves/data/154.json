@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "fury-swipes",
+  "power": 18,
+  "pp": 15,
+  "accuracy": 80,
+  "description": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+  "name": "Fury-swipes",
+  "_id": "00154",
+  "_rev": "1-A"
+}

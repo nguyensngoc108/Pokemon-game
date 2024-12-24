@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "wish",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "At the end of the next turn, user will be healed for half its max HP.  If the user is switched out, its replacement will be healed instead for half of the user's max HP.  If the user faint or is forcefully switched by roar or whirlwind, this effect will not activate.",
+  "name": "Wish",
+  "_id": "00273",
+  "_rev": "1-A"
+}

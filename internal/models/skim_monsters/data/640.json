@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "virizion_gen_5",
+      "resource_uri": "/api/v1/description/6445/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 90,
+  "defense": 72,
+  "speed": 108,
+  "sp_atk": 90,
+  "sp_def": 129,
+  "hp": 91,
+  "weight": "2000",
+  "height": "20",
+  "national_id": 640,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00640",
+  "name": "Virizion"
+}

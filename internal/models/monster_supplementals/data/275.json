@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 3,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Wicked Pokémon",
+  "japaneseName": "ダーテング",
+  "Guranburu": "",
+  "eggGroups": "Field, Grass",
+  "_id": "00275",
+  "_rev": "1-A"
+}

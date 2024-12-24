@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "psychic",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+  "name": "Psychic",
+  "_id": "00094",
+  "_rev": "1-A"
+}

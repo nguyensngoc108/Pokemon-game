@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "aerial-ace",
+  "power": 60,
+  "pp": 20,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Aerial-ace",
+  "_id": "00332",
+  "_rev": "1-A"
+}

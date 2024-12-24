@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "skiploom_gen_5",
+      "resource_uri": "/api/v1/description/2989/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    },
+    {
+      "name": "infiltrator",
+      "resource_uri": "/api/v1/ability/151/"
+    }
+  ],
+  "attack": 45,
+  "defense": 50,
+  "speed": 80,
+  "sp_atk": 45,
+  "sp_def": 65,
+  "hp": 55,
+  "weight": "10",
+  "height": "6",
+  "national_id": 188,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00188",
+  "name": "Skiploom"
+}

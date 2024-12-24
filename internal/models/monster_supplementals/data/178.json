@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Spirit Pokémon",
+  "japaneseName": "ネイティオ",
+  "Guranburu": "",
+  "eggGroups": "Flying",
+  "_id": "00178",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "jellicent_gen_5",
+      "resource_uri": "/api/v1/description/6253/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "cursed-body",
+      "resource_uri": "/api/v1/ability/130/"
+    }
+  ],
+  "attack": 60,
+  "defense": 70,
+  "speed": 60,
+  "sp_atk": 85,
+  "sp_def": 105,
+  "hp": 100,
+  "weight": "1350",
+  "height": "22",
+  "national_id": 593,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00593",
+  "name": "Jellicent"
+}

@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 92,
+      "name": "Gastly",
+      "method": "level_up",
+      "level": 25
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 94,
+      "name": "Gengar",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00093",
+  "_rev": "1-A"
+}

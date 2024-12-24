@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Night Cry Pokémon",
+  "japaneseName": "ムウマ",
+  "Guranburu": "",
+  "eggGroups": "Amorphous",
+  "_id": "00200",
+  "_rev": "1-A"
+}

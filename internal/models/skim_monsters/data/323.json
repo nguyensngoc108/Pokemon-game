@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "camerupt_gen_5",
+      "resource_uri": "/api/v1/description/4569/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "magma-armor",
+      "resource_uri": "/api/v1/ability/40/"
+    },
+    {
+      "name": "anger-point",
+      "resource_uri": "/api/v1/ability/83/"
+    },
+    {
+      "name": "solid-rock",
+      "resource_uri": "/api/v1/ability/116/"
+    }
+  ],
+  "attack": 100,
+  "defense": 70,
+  "speed": 40,
+  "sp_atk": 105,
+  "sp_def": 75,
+  "hp": 70,
+  "weight": "2200",
+  "height": "19",
+  "national_id": 323,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00323",
+  "name": "Camerupt"
+}

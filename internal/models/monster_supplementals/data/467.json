@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 3,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 75,
+  "species": "Explosion Fume Pokémon",
+  "japaneseName": "ブーバーン",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00467",
+  "_rev": "1-A"
+}

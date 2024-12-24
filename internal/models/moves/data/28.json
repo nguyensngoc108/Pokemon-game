@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "sand-attack",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Lowers the target's accuracy by one stage.",
+  "name": "Sand-attack",
+  "_id": "00028",
+  "_rev": "1-A"
+}

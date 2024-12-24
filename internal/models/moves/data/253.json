@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "uproar",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User is forced to use this move for 2–5 turns, selected at random.  All Pokémon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPokémon cannot use rest during this effect.\n\nThis move cannot be selected by sleep-talk.",
+  "name": "Uproar",
+  "_id": "00253",
+  "_rev": "1-A"
+}

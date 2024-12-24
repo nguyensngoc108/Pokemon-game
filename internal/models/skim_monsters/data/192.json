@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "sunflora_gen_5",
+      "resource_uri": "/api/v1/description/3044/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "solar-power",
+      "resource_uri": "/api/v1/ability/94/"
+    }
+  ],
+  "attack": 75,
+  "defense": 55,
+  "speed": 30,
+  "sp_atk": 105,
+  "sp_def": 85,
+  "hp": 75,
+  "weight": "85",
+  "height": "8",
+  "national_id": 192,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00192",
+  "name": "Sunflora"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 2,
+  "genderRatio": 50,
+  "species": "Long Torso Pokémon",
+  "japaneseName": "オオタチ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00162",
+  "_rev": "1-A"
+}

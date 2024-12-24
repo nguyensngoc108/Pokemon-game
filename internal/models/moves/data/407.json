@@ -1,0 +1,11 @@
+{
+  "type_name": "dragon",
+  "identifier": "dragon-rush",
+  "power": 100,
+  "pp": 10,
+  "accuracy": 75,
+  "description": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+  "name": "Dragon-rush",
+  "_id": "00407",
+  "_rev": "1-A"
+}

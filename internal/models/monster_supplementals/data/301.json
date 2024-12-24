@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 25,
+  "species": "Prim and Proper Pokémon",
+  "japaneseName": "エネコロロ",
+  "Guranburu": "",
+  "eggGroups": "Field, Fairy",
+  "_id": "00301",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "quash",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail.",
+  "name": "Quash",
+  "_id": "00511",
+  "_rev": "1-A"
+}

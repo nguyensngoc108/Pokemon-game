@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 532,
+      "name": "Timburr",
+      "method": "level_up",
+      "level": 25
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 534,
+      "name": "Conkeldurr",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00533",
+  "_rev": "1-A"
+}

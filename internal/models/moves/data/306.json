@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "crush-claw",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+  "name": "Crush-claw",
+  "_id": "00306",
+  "_rev": "1-A"
+}

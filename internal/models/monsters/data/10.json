@@ -1,0 +1,187 @@
+{
+    "monster": {
+        "name": "Caterpie",
+        "attack": 30,
+        "defense": 35,
+        "speed": 45,
+        "sp_atk": 20,
+        "sp_def": 20,
+        "hp": 45,
+        "weight": "29",
+        "height": "3",
+        "national_id": 10,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00010",
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ],
+        "types": [
+            "bug"
+        ]
+    },
+    "description": [
+        {
+            "description": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "_id": "0000157",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 11,
+                "name": "Metapod",
+                "method": "level_up",
+                "level": 7
+            }
+        ],
+        "_id": "00010",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "fairy"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dark"
+                }
+            ],
+            "_id": "bug",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 1,
+        "hatchSteps": 3825,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 0,
+        "genderRatio": 50,
+        "species": "Caterpillar Pokémon",
+        "japaneseName": "キャタピー",
+        "Guranburu": "",
+        "eggGroups": "Bug",
+        "_id": "00010",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "electric",
+            "identifier": "electroweb",
+            "power": 55,
+            "pp": 15,
+            "accuracy": 95,
+            "description": "Lowers the target's Speed by one stage.",
+            "name": "Electroweb",
+            "_id": "00527",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "bug-bite",
+            "power": 60,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca-berry or rowap-berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+            "name": "Bug-bite",
+            "_id": "00450",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "snore",
+            "power": 50,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Snore",
+            "_id": "00173",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "string-shot",
+            "power": "",
+            "pp": 40,
+            "accuracy": 95,
+            "description": "Lowers the target's Speed by one stage.",
+            "name": "String-shot",
+            "_id": "00081",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "tackle",
+            "power": 50,
+            "pp": 35,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.",
+            "name": "Tackle",
+            "_id": "00033",
+            "_rev": "1-A"
+        }
+    ]
+}

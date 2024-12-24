@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "kirlia_gen_5",
+      "resource_uri": "/api/v1/description/4158/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fairy",
+      "resource_uri": "/api/v1/type/18/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "trace",
+      "resource_uri": "/api/v1/ability/36/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 35,
+  "defense": 35,
+  "speed": 50,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "hp": 38,
+  "weight": "202",
+  "height": "8",
+  "national_id": 281,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00281",
+  "name": "Kirlia"
+}

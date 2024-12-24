@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "poison-tail",
+  "power": 50,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.",
+  "name": "Poison-tail",
+  "_id": "00342",
+  "_rev": "1-A"
+}

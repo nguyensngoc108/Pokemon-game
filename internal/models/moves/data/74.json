@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "growth",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Attack and Special Attack by one stage each.  During sunny-day, raises both stats by two stages.",
+  "name": "Growth",
+  "_id": "00074",
+  "_rev": "1-A"
+}

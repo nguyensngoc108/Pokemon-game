@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 617,
+      "name": "Accelgor",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00616",
+  "_rev": "1-A"
+}

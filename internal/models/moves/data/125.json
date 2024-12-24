@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "bone-club",
+  "power": 65,
+  "pp": 20,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Has a 10% chance to make the target flinch.",
+  "name": "Bone-club",
+  "_id": "00125",
+  "_rev": "1-A"
+}

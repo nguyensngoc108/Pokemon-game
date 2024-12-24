@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "tauros_gen_5",
+      "resource_uri": "/api/v1/description/2105/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "anger-point",
+      "resource_uri": "/api/v1/ability/83/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 100,
+  "defense": 95,
+  "speed": 110,
+  "sp_atk": 40,
+  "sp_def": 70,
+  "hp": 75,
+  "weight": "884",
+  "height": "14",
+  "national_id": 128,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00128",
+  "name": "Tauros"
+}

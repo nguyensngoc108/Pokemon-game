@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "shellder_gen_5",
+      "resource_uri": "/api/v1/description/1482/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    },
+    {
+      "name": "skill-link",
+      "resource_uri": "/api/v1/ability/92/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    }
+  ],
+  "attack": 65,
+  "defense": 100,
+  "speed": 40,
+  "sp_atk": 45,
+  "sp_def": 25,
+  "hp": 30,
+  "weight": "40",
+  "height": "3",
+  "national_id": 90,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00090",
+  "name": "Shellder"
+}

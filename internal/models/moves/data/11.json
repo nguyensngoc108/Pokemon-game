@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "vice-grip",
+  "power": 55,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Vicegrip",
+  "_id": "00011",
+  "_rev": "1-A"
+}

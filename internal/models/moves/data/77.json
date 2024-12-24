@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "poison-powder",
+  "power": "",
+  "pp": 35,
+  "accuracy": 75,
+  "description": "Poisons the target.",
+  "name": "Poisonpowder",
+  "_id": "00077",
+  "_rev": "1-A"
+}

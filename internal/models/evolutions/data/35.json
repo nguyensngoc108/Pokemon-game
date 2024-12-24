@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 173,
+      "name": "Cleffa",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 36,
+      "name": "Clefable",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00035",
+  "_rev": "1-A"
+}

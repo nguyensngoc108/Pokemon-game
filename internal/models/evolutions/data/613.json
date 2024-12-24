@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 614,
+      "name": "Beartic",
+      "method": "level_up",
+      "level": 37
+    }
+  ],
+  "_id": "00613",
+  "_rev": "1-A"
+}

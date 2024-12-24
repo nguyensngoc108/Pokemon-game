@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Continent Pokémon",
+  "japaneseName": "ドダイトス",
+  "Guranburu": "",
+  "eggGroups": "Monster, Grass",
+  "_id": "00389",
+  "_rev": "1-A"
+}

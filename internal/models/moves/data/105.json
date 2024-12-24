@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "recover",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Heals the user for half its max HP.",
+  "name": "Recover",
+  "_id": "00105",
+  "_rev": "1-A"
+}

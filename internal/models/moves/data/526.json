@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "work-up",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Raises the user's Attack and Special Attack by one stage each.",
+  "name": "Work-up",
+  "_id": "00526",
+  "_rev": "1-A"
+}

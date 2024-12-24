@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 3,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Tolerant Pokémon",
+  "japaneseName": "ムーランド",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00508",
+  "_rev": "1-A"
+}

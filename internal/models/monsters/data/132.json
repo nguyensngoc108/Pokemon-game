@@ -1,0 +1,96 @@
+{
+    "monster": {
+        "name": "Ditto",
+        "attack": 48,
+        "defense": 48,
+        "speed": 48,
+        "sp_atk": 48,
+        "sp_def": 48,
+        "hp": 48,
+        "weight": "40",
+        "height": "3",
+        "national_id": 132,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00132",
+        "abilities": [
+            "limber",
+            "imposter"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "description": [
+        {
+            "description": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+            "_id": "0002175",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": null,
+        "_id": "00132",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "ghost"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "ghost"
+                }
+            ],
+            "_id": "normal",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 1,
+        "hatchSteps": 5100,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 0,
+        "genderRatio": "N/A",
+        "species": "Transformation Pokémon",
+        "japaneseName": "メタモン",
+        "Guranburu": "",
+        "eggGroups": "Ditto",
+        "_id": "00132",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "normal",
+            "identifier": "transform",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User copies the target's species, weight, type, ability, calculated stats (except HP), and moves.  Copied moves will all have 5 PP remaining.  IV are copied for the purposes of hidden-power, but stats are not recalculated.\n\nchoice-band, choice-scarf, and choice-specs stay in effect, and the user must select a new move.\n\nThis move cannot be copied by mirror-move, nor forced by encore.",
+            "name": "Transform",
+            "_id": "00144",
+            "_rev": "1-A"
+        }
+    ]
+}

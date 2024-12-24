@@ -1,0 +1,11 @@
+{
+  "type_name": "fairy",
+  "identifier": "charm",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's Attack by two stages.",
+  "name": "Charm",
+  "_id": "00204",
+  "_rev": "1-A"
+}

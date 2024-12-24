@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "hippopotas_gen_5",
+      "resource_uri": "/api/v1/description/5590/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-stream",
+      "resource_uri": "/api/v1/ability/45/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 72,
+  "defense": 78,
+  "speed": 32,
+  "sp_atk": 38,
+  "sp_def": 42,
+  "hp": 68,
+  "weight": "495",
+  "height": "8",
+  "national_id": 449,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00449",
+  "name": "Hippopotas"
+}

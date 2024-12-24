@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "giga-drain",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+  "name": "Giga-drain",
+  "_id": "00202",
+  "_rev": "1-A"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "cradily_gen_5",
+      "resource_uri": "/api/v1/description/4791/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "suction-cups",
+      "resource_uri": "/api/v1/ability/21/"
+    },
+    {
+      "name": "storm-drain",
+      "resource_uri": "/api/v1/ability/114/"
+    }
+  ],
+  "attack": 81,
+  "defense": 97,
+  "speed": 43,
+  "sp_atk": 81,
+  "sp_def": 107,
+  "hp": 86,
+  "weight": "604",
+  "height": "15",
+  "national_id": 346,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00346",
+  "name": "Cradily"
+}

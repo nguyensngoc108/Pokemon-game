@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "swords-dance",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Attack by two stages.",
+  "name": "Swords-dance",
+  "_id": "00014",
+  "_rev": "1-A"
+}

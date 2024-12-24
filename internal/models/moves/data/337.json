@@ -1,0 +1,11 @@
+{
+  "type_name": "dragon",
+  "identifier": "dragon-claw",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Dragon-claw",
+  "_id": "00337",
+  "_rev": "1-A"
+}

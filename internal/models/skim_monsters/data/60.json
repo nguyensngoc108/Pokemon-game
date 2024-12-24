@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "poliwag_gen_5",
+      "resource_uri": "/api/v1/description/969/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    }
+  ],
+  "attack": 50,
+  "defense": 40,
+  "speed": 90,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "hp": 40,
+  "weight": "124",
+  "height": "6",
+  "national_id": 60,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00060",
+  "name": "Poliwag"
+}

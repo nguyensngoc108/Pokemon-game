@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Caterpillar Pokémon",
+  "japaneseName": "キャタピー",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00010",
+  "_rev": "1-A"
+}

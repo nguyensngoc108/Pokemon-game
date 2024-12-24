@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "pawniard_gen_5",
+      "resource_uri": "/api/v1/description/6382/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "defiant",
+      "resource_uri": "/api/v1/ability/128/"
+    }
+  ],
+  "attack": 85,
+  "defense": 70,
+  "speed": 60,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "hp": 45,
+  "weight": "102",
+  "height": "5",
+  "national_id": 624,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00624",
+  "name": "Pawniard"
+}

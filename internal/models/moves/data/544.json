@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "gear-grind",
+  "power": 50,
+  "pp": 15,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Hits twice in one turn.",
+  "name": "Gear-grind",
+  "_id": "00544",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "heal-pulse",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Heals the target for half its max HP.",
+  "name": "Heal-pulse",
+  "_id": "00505",
+  "_rev": "1-A"
+}

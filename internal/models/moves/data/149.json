@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "psywave",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%.",
+  "name": "Psywave",
+  "_id": "00149",
+  "_rev": "1-A"
+}

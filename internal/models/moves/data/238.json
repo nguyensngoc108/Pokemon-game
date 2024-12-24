@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "cross-chop",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 80,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Cross-chop",
+  "_id": "00238",
+  "_rev": "1-A"
+}

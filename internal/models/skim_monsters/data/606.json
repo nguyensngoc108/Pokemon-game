@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "beheeyem_gen_5",
+      "resource_uri": "/api/v1/description/6299/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    },
+    {
+      "name": "analytic",
+      "resource_uri": "/api/v1/ability/148/"
+    }
+  ],
+  "attack": 75,
+  "defense": 75,
+  "speed": 40,
+  "sp_atk": 125,
+  "sp_def": 95,
+  "hp": 75,
+  "weight": "345",
+  "height": "10",
+  "national_id": 606,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00606",
+  "name": "Beheeyem"
+}

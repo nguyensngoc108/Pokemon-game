@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "blitzle_gen_5",
+      "resource_uri": "/api/v1/description/5973/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "motor-drive",
+      "resource_uri": "/api/v1/ability/78/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 60,
+  "defense": 32,
+  "speed": 76,
+  "sp_atk": 50,
+  "sp_def": 32,
+  "hp": 45,
+  "weight": "298",
+  "height": "8",
+  "national_id": 522,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00522",
+  "name": "Blitzle"
+}

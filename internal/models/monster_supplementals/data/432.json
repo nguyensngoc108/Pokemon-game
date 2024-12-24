@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 2,
+  "genderRatio": 25,
+  "species": "Tiger Cat Pokémon",
+  "japaneseName": "ブニャット",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00432",
+  "_rev": "1-A"
+}

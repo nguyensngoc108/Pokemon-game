@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 23,
+      "name": "Ekans",
+      "method": "level_up",
+      "level": 22
+    }
+  ],
+  "to": null,
+  "_id": "00024",
+  "_rev": "1-A"
+}

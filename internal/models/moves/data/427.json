@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "psycho-cut",
+  "power": 70,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Psycho-cut",
+  "_id": "00427",
+  "_rev": "1-A"
+}

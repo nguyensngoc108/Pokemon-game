@@ -1,0 +1,11 @@
+{
+  "type_name": "rock",
+  "identifier": "power-gem",
+  "power": 80,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Power-gem",
+  "_id": "00408",
+  "_rev": "1-A"
+}

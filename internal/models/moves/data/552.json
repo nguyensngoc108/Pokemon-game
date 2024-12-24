@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "fiery-dance",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage.",
+  "name": "Fiery-dance",
+  "_id": "00552",
+  "_rev": "1-A"
+}

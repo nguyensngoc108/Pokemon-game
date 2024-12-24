@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "vibrava_gen_5",
+      "resource_uri": "/api/v1/description/4626/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 70,
+  "defense": 50,
+  "speed": 70,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 50,
+  "weight": "153",
+  "height": "11",
+  "national_id": 329,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00329",
+  "name": "Vibrava"
+}

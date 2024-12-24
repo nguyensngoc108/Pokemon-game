@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "goldeen_gen_5",
+      "resource_uri": "/api/v1/description/1939/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    }
+  ],
+  "attack": 67,
+  "defense": 60,
+  "speed": 63,
+  "sp_atk": 35,
+  "sp_def": 50,
+  "hp": 45,
+  "weight": "150",
+  "height": "6",
+  "national_id": 118,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00118",
+  "name": "Goldeen"
+}

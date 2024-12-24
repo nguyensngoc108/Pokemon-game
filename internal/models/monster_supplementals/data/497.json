@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 3,
+  "genderRatio": 87.5,
+  "species": "Royal Pokémon",
+  "japaneseName": "ジャローダ",
+  "Guranburu": "",
+  "eggGroups": "Field, Grass",
+  "_id": "00497",
+  "_rev": "1-A"
+}

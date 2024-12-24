@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "clamperl_gen_5",
+      "resource_uri": "/api/v1/description/4979/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    },
+    {
+      "name": "rattled",
+      "resource_uri": "/api/v1/ability/155/"
+    }
+  ],
+  "attack": 64,
+  "defense": 85,
+  "speed": 32,
+  "sp_atk": 74,
+  "sp_def": 55,
+  "hp": 35,
+  "weight": "525",
+  "height": "4",
+  "national_id": 366,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00366",
+  "name": "Clamperl"
+}

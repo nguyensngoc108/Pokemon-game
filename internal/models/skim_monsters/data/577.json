@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "solosis_gen_5",
+      "resource_uri": "/api/v1/description/6188/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "magic-guard",
+      "resource_uri": "/api/v1/ability/98/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 30,
+  "defense": 40,
+  "speed": 20,
+  "sp_atk": 105,
+  "sp_def": 50,
+  "hp": 45,
+  "weight": "10",
+  "height": "3",
+  "national_id": 577,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00577",
+  "name": "Solosis"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "self-destruct",
+  "power": 200,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "User faint, even if the attack fail or miss.  Inflicts regular damage.",
+  "name": "Selfdestruct",
+  "_id": "00120",
+  "_rev": "1-A"
+}

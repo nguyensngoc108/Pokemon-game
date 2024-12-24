@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "abra_gen_5",
+      "resource_uri": "/api/v1/description/1020/"
+    },
+    {
+      "name": "kadabra_gen_5",
+      "resource_uri": "/api/v1/description/1039/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "magic-guard",
+      "resource_uri": "/api/v1/ability/98/"
+    }
+  ],
+  "attack": 20,
+  "defense": 15,
+  "speed": 90,
+  "sp_atk": 105,
+  "sp_def": 55,
+  "hp": 25,
+  "weight": "195",
+  "height": "9",
+  "national_id": 63,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00063",
+  "name": "Abra"
+}

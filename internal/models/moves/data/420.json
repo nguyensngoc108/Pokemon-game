@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "ice-shard",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Ice-shard",
+  "_id": "00420",
+  "_rev": "1-A"
+}

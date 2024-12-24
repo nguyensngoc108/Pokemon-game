@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "aqua-ring",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field, this effect ends.\n\nThis effect is passed on by baton-pass.",
+  "name": "Aqua-ring",
+  "_id": "00392",
+  "_rev": "1-A"
+}

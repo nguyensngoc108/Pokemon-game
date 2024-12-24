@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 440,
+      "name": "Happiny",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 242,
+      "name": "Blissey",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "_id": "00113",
+  "_rev": "1-A"
+}

@@ -1,0 +1,189 @@
+{
+    "monster": {
+        "name": "Wynaut",
+        "attack": 23,
+        "defense": 48,
+        "speed": 23,
+        "sp_atk": 23,
+        "sp_def": 48,
+        "hp": 95,
+        "weight": "140",
+        "height": "6",
+        "national_id": 360,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00360",
+        "abilities": [
+            "shadow-tag",
+            "telepathy"
+        ],
+        "types": [
+            "psychic"
+        ]
+    },
+    "description": [
+        {
+            "description": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "_id": "0004927",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 202,
+                "name": "Wobbuffet",
+                "method": "level_up",
+                "level": 15
+            }
+        ],
+        "_id": "00360",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "bug"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dragon"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "dark"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "poison"
+                }
+            ],
+            "_id": "psychic",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 1,
+        "hatchSteps": 5100,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 0,
+        "genderRatio": 50,
+        "species": "Merry Pokémon",
+        "japaneseName": "ソーナノ",
+        "Guranburu": "",
+        "eggGroups": "No Eggs",
+        "_id": "00360",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "psychic",
+            "identifier": "mirror-coat",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Targets the last opposing Pokémon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+            "name": "Mirror-coat",
+            "_id": "00243",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "encore",
+            "power": "",
+            "pp": 5,
+            "accuracy": 100,
+            "description": "The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror-move, sketch, struggle, or transform, this move will fail.",
+            "name": "Encore",
+            "_id": "00227",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "safeguard",
+            "power": "",
+            "pp": 25,
+            "accuracy": "",
+            "description": "Protects Pokémon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal-dance, or thrash.",
+            "name": "Safeguard",
+            "_id": "00219",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fairy",
+            "identifier": "charm",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Lowers the target's Attack by two stages.",
+            "name": "Charm",
+            "_id": "00204",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ghost",
+            "identifier": "destiny-bond",
+            "power": "",
+            "pp": 5,
+            "accuracy": "",
+            "description": "If the user faints before its next move, the Pokémon that faint it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Destiny-bond",
+            "_id": "00194",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "splash",
+            "power": "",
+            "pp": 40,
+            "accuracy": "",
+            "description": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+            "name": "Splash",
+            "_id": "00150",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fighting",
+            "identifier": "counter",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Targets the last opposing Pokémon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+            "name": "Counter",
+            "_id": "00068",
+            "_rev": "1-A"
+        }
+    ]
+}

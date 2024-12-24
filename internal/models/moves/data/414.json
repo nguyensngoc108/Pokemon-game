@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "earth-power",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+  "name": "Earth-power",
+  "_id": "00414",
+  "_rev": "1-A"
+}

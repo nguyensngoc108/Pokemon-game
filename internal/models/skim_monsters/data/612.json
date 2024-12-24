@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "haxorus_gen_5",
+      "resource_uri": "/api/v1/description/6325/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    },
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 147,
+  "defense": 90,
+  "speed": 97,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "hp": 76,
+  "weight": "1055",
+  "height": "18",
+  "national_id": 612,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00612",
+  "name": "Haxorus"
+}

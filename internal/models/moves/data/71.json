@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "absorb",
+  "power": 20,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+  "name": "Absorb",
+  "_id": "00071",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "giga-impact",
+  "power": 150,
+  "pp": 5,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+  "name": "Giga-impact",
+  "_id": "00416",
+  "_rev": "1-A"
+}

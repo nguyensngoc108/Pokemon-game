@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Frost-Covered Tree Pokémon",
+  "japaneseName": "ユキカブリ",
+  "Guranburu": "",
+  "eggGroups": "Monster, Grass",
+  "_id": "00459",
+  "_rev": "1-A"
+}

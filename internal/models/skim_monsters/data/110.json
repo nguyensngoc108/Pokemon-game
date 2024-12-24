@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "weezing_gen_5",
+      "resource_uri": "/api/v1/description/1804/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 90,
+  "defense": 120,
+  "speed": 60,
+  "sp_atk": 85,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "95",
+  "height": "12",
+  "national_id": 110,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00110",
+  "name": "Weezing"
+}

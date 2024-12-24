@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "flame-burst",
+  "power": 70,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If this move successfully hits the target, any Pokémon adjacent to the target are damaged for 1/16 their max HP.",
+  "name": "Flame-burst",
+  "_id": "00481",
+  "_rev": "1-A"
+}

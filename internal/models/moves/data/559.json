@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "fusion-bolt",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If a friendly Pokémon used fusion-flare earlier this turn, this move has double power.",
+  "name": "Fusion-bolt",
+  "_id": "00559",
+  "_rev": "1-A"
+}

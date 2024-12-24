@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "shell-smash",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each.",
+  "name": "Shell-smash",
+  "_id": "00504",
+  "_rev": "1-A"
+}

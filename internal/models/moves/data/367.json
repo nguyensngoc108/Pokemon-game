@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "acupressure",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will fail.\n\nIf the target has a substitute, this move will have no effect, even if the user is the target.\n\nThis move cannot be copied by mirror-move.",
+  "name": "Acupressure",
+  "_id": "00367",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "bagon_gen_5",
+      "resource_uri": "/api/v1/description/5026/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 75,
+  "defense": 60,
+  "speed": 50,
+  "sp_atk": 40,
+  "sp_def": 30,
+  "hp": 45,
+  "weight": "421",
+  "height": "6",
+  "national_id": 371,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00371",
+  "name": "Bagon"
+}

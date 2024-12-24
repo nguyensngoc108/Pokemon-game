@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "lumineon_gen_5",
+      "resource_uri": "/api/v1/description/5651/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    },
+    {
+      "name": "storm-drain",
+      "resource_uri": "/api/v1/ability/114/"
+    }
+  ],
+  "attack": 69,
+  "defense": 76,
+  "speed": 91,
+  "sp_atk": 69,
+  "sp_def": 86,
+  "hp": 69,
+  "weight": "240",
+  "height": "12",
+  "national_id": 457,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00457",
+  "name": "Lumineon"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "bubble",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.",
+  "name": "Bubble",
+  "_id": "00145",
+  "_rev": "1-A"
+}

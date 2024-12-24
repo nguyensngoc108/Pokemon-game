@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 21,
+      "name": "Spearow",
+      "method": "level_up",
+      "level": 20
+    }
+  ],
+  "to": null,
+  "_id": "00022",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "excadrill_gen_5",
+      "resource_uri": "/api/v1/description/6005/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "sand-rush",
+      "resource_uri": "/api/v1/ability/146/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 135,
+  "defense": 60,
+  "speed": 88,
+  "sp_atk": 50,
+  "sp_def": 65,
+  "hp": 110,
+  "weight": "404",
+  "height": "7",
+  "national_id": 530,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00530",
+  "name": "Excadrill"
+}

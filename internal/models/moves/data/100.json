@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "teleport",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Does nothing.  Wild battles end immediately.",
+  "name": "Teleport",
+  "_id": "00100",
+  "_rev": "1-A"
+}

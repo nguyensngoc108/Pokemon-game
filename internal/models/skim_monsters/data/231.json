@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "phanpy_gen_5",
+      "resource_uri": "/api/v1/description/3613/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    }
+  ],
+  "attack": 60,
+  "defense": 60,
+  "speed": 40,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "hp": 90,
+  "weight": "335",
+  "height": "5",
+  "national_id": 231,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00231",
+  "name": "Phanpy"
+}

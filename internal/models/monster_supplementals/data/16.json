@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Small Bird Pokémon",
+  "japaneseName": "ポッポ",
+  "Guranburu": "",
+  "eggGroups": "Flying",
+  "_id": "00016",
+  "_rev": "1-A"
+}

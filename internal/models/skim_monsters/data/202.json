@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "wobbuffet_gen_5",
+      "resource_uri": "/api/v1/description/3192/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shadow-tag",
+      "resource_uri": "/api/v1/ability/23/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 33,
+  "defense": 58,
+  "speed": 33,
+  "sp_atk": 33,
+  "sp_def": 58,
+  "hp": 190,
+  "weight": "285",
+  "height": "13",
+  "national_id": 202,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00202",
+  "name": "Wobbuffet"
+}

@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 148,
+      "name": "Dragonair",
+      "method": "level_up",
+      "level": 55
+    }
+  ],
+  "to": null,
+  "_id": "00149",
+  "_rev": "1-A"
+}

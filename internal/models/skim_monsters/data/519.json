@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "pidove_gen_5",
+      "resource_uri": "/api/v1/description/5961/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    },
+    {
+      "name": "super-luck",
+      "resource_uri": "/api/v1/ability/105/"
+    },
+    {
+      "name": "big-pecks",
+      "resource_uri": "/api/v1/ability/145/"
+    }
+  ],
+  "attack": 55,
+  "defense": 50,
+  "speed": 43,
+  "sp_atk": 36,
+  "sp_def": 30,
+  "hp": 50,
+  "weight": "21",
+  "height": "3",
+  "national_id": 519,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00519",
+  "name": "Pidove"
+}

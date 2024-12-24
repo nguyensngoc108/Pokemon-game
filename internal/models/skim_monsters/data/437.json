@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "bronzong_gen_5",
+      "resource_uri": "/api/v1/description/5501/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    },
+    {
+      "name": "heatproof",
+      "resource_uri": "/api/v1/ability/85/"
+    },
+    {
+      "name": "heavy-metal",
+      "resource_uri": "/api/v1/ability/134/"
+    }
+  ],
+  "attack": 89,
+  "defense": 116,
+  "speed": 33,
+  "sp_atk": 79,
+  "sp_def": 116,
+  "hp": 67,
+  "weight": "1870",
+  "height": "13",
+  "national_id": 437,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00437",
+  "name": "Bronzong"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "nidoking_gen_5",
+      "resource_uri": "/api/v1/description/541/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "resource_uri": "/api/v1/ability/38/"
+    },
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 102,
+  "defense": 77,
+  "speed": 85,
+  "sp_atk": 85,
+  "sp_def": 75,
+  "hp": 81,
+  "weight": "620",
+  "height": "14",
+  "national_id": 34,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00034",
+  "name": "Nidoking"
+}

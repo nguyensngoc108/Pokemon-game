@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 630,
+      "name": "Mandibuzz",
+      "method": "level_up",
+      "level": 54
+    }
+  ],
+  "_id": "00629",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "sing",
+  "power": "",
+  "pp": 15,
+  "accuracy": 55,
+  "description": "Puts the target to sleep.",
+  "name": "Sing",
+  "_id": "00047",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "golett_gen_5",
+      "resource_uri": "/api/v1/description/6373/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "iron-fist",
+      "resource_uri": "/api/v1/ability/89/"
+    },
+    {
+      "name": "no-guard",
+      "resource_uri": "/api/v1/ability/99/"
+    },
+    {
+      "name": "klutz",
+      "resource_uri": "/api/v1/ability/103/"
+    }
+  ],
+  "attack": 74,
+  "defense": 50,
+  "speed": 35,
+  "sp_atk": 35,
+  "sp_def": 50,
+  "hp": 59,
+  "weight": "920",
+  "height": "10",
+  "national_id": 622,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00622",
+  "name": "Golett"
+}

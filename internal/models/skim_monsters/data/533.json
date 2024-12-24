@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "gurdurr_gen_5",
+      "resource_uri": "/api/v1/description/6017/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "iron-fist",
+      "resource_uri": "/api/v1/ability/89/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 105,
+  "defense": 85,
+  "speed": 40,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "hp": 85,
+  "weight": "400",
+  "height": "12",
+  "national_id": 533,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00533",
+  "name": "Gurdurr"
+}

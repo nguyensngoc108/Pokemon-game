@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "powder-snow",
+  "power": 40,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.",
+  "name": "Powder-snow",
+  "_id": "00181",
+  "_rev": "1-A"
+}

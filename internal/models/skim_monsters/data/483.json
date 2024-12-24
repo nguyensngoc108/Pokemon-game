@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "dialga_gen_5",
+      "resource_uri": "/api/v1/description/5806/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 120,
+  "defense": 120,
+  "speed": 90,
+  "sp_atk": 150,
+  "sp_def": 100,
+  "hp": 100,
+  "weight": "6830",
+  "height": "54",
+  "national_id": 483,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00483",
+  "name": "Dialga"
+}

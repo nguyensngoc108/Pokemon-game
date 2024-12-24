@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "discharge",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+  "name": "Discharge",
+  "_id": "00435",
+  "_rev": "1-A"
+}

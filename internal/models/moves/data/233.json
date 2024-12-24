@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "vital-throw",
+  "power": 70,
+  "pp": 10,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Vital-throw",
+  "_id": "00233",
+  "_rev": "1-A"
+}

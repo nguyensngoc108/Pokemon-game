@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "eelektrik_gen_5",
+      "resource_uri": "/api/v1/description/6290/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 85,
+  "defense": 70,
+  "speed": 40,
+  "sp_atk": 75,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "220",
+  "height": "12",
+  "national_id": 603,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00603",
+  "name": "Eelektrik"
+}

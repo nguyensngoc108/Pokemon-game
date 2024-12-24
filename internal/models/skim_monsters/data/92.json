@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "gastly_gen_5",
+      "resource_uri": "/api/v1/description/1515/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 35,
+  "defense": 30,
+  "speed": 80,
+  "sp_atk": 100,
+  "sp_def": 35,
+  "hp": 30,
+  "weight": "1",
+  "height": "13",
+  "national_id": 92,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00092",
+  "name": "Gastly"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "feint-attack",
+  "power": 60,
+  "pp": 20,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Faint-attack",
+  "_id": "00185",
+  "_rev": "1-A"
+}

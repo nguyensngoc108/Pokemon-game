@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "timburr_gen_5",
+      "resource_uri": "/api/v1/description/6013/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "iron-fist",
+      "resource_uri": "/api/v1/ability/89/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 80,
+  "defense": 55,
+  "speed": 35,
+  "sp_atk": 25,
+  "sp_def": 35,
+  "hp": 75,
+  "weight": "125",
+  "height": "6",
+  "national_id": 532,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00532",
+  "name": "Timburr"
+}

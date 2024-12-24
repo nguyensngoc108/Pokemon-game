@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "kabutops_gen_5",
+      "resource_uri": "/api/v1/description/2321/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "resource_uri": "/api/v1/ability/4/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "weak-armor",
+      "resource_uri": "/api/v1/ability/133/"
+    }
+  ],
+  "attack": 115,
+  "defense": 105,
+  "speed": 80,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "hp": 60,
+  "weight": "405",
+  "height": "13",
+  "national_id": 141,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00141",
+  "name": "Kabutops"
+}

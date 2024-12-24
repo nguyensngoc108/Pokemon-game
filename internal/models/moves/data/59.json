@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "blizzard",
+  "power": 110,
+  "pp": 5,
+  "accuracy": 70,
+  "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.\n\nDuring hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.",
+  "name": "Blizzard",
+  "_id": "00059",
+  "_rev": "1-A"
+}

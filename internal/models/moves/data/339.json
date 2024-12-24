@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "bulk-up",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Attack and Defense by one stage each.",
+  "name": "Bulk-up",
+  "_id": "00339",
+  "_rev": "1-A"
+}

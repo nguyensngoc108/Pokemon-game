@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 123,
+      "name": "Scyther",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00212",
+  "_rev": "1-A"
+}

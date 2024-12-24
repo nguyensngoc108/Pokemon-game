@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 627,
+      "name": "Rufflet",
+      "method": "level_up",
+      "level": 54
+    }
+  ],
+  "to": null,
+  "_id": "00628",
+  "_rev": "1-A"
+}

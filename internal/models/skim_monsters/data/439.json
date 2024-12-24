@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "mime-jr_gen_5",
+      "resource_uri": "/api/v1/description/5514/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fairy",
+      "resource_uri": "/api/v1/type/18/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "technician",
+      "resource_uri": "/api/v1/ability/101/"
+    },
+    {
+      "name": "filter",
+      "resource_uri": "/api/v1/ability/111/"
+    }
+  ],
+  "attack": 25,
+  "defense": 45,
+  "speed": 60,
+  "sp_atk": 70,
+  "sp_def": 90,
+  "hp": 20,
+  "weight": "130",
+  "height": "6",
+  "national_id": 439,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00439",
+  "name": "Mime-jr"
+}

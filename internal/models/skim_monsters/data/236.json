@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "tyrogue_gen_5",
+      "resource_uri": "/api/v1/description/3681/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    },
+    {
+      "name": "steadfast",
+      "resource_uri": "/api/v1/ability/80/"
+    }
+  ],
+  "attack": 35,
+  "defense": 35,
+  "speed": 35,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "hp": 35,
+  "weight": "210",
+  "height": "7",
+  "national_id": 236,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00236",
+  "name": "Tyrogue"
+}

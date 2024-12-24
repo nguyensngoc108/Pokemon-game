@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "liepard_gen_5",
+      "resource_uri": "/api/v1/description/5920/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "limber",
+      "resource_uri": "/api/v1/ability/7/"
+    },
+    {
+      "name": "unburden",
+      "resource_uri": "/api/v1/ability/84/"
+    },
+    {
+      "name": "prankster",
+      "resource_uri": "/api/v1/ability/158/"
+    }
+  ],
+  "attack": 88,
+  "defense": 50,
+  "speed": 106,
+  "sp_atk": 88,
+  "sp_def": 50,
+  "hp": 64,
+  "weight": "375",
+  "height": "11",
+  "national_id": 510,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00510",
+  "name": "Liepard"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "graveler_gen_5",
+      "resource_uri": "/api/v1/description/1237/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    }
+  ],
+  "attack": 95,
+  "defense": 115,
+  "speed": 35,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "hp": 55,
+  "weight": "1050",
+  "height": "10",
+  "national_id": 75,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00075",
+  "name": "Graveler"
+}

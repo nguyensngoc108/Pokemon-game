@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 347,
+      "name": "Anorith",
+      "method": "level_up",
+      "level": 40
+    }
+  ],
+  "to": null,
+  "_id": "00348",
+  "_rev": "1-A"
+}

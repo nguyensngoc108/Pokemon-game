@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "grudge",
+  "power": "",
+  "pp": 5,
+  "accuracy": "",
+  "description": "If the user faint before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect.",
+  "name": "Grudge",
+  "_id": "00288",
+  "_rev": "1-A"
+}

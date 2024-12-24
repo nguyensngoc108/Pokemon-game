@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 310,
+      "name": "Manectric",
+      "method": "level_up",
+      "level": 26
+    }
+  ],
+  "_id": "00309",
+  "_rev": "1-A"
+}

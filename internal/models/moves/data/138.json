@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "dream-eater",
+  "power": 100,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Fails if not used on a sleep Pokémon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+  "name": "Dream-eater",
+  "_id": "00138",
+  "_rev": "1-A"
+}

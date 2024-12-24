@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "pinsir_gen_5",
+      "resource_uri": "/api/v1/description/2090/"
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "resource_uri": "/api/v1/type/7/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "resource_uri": "/api/v1/ability/52/"
+    },
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "moxie",
+      "resource_uri": "/api/v1/ability/153/"
+    }
+  ],
+  "attack": 125,
+  "defense": 100,
+  "speed": 85,
+  "sp_atk": 55,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "550",
+  "height": "15",
+  "national_id": 127,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00127",
+  "name": "Pinsir"
+}

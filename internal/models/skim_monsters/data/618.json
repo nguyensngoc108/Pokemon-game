@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "stunfisk_gen_5",
+      "resource_uri": "/api/v1/description/6354/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "limber",
+      "resource_uri": "/api/v1/ability/7/"
+    },
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    }
+  ],
+  "attack": 66,
+  "defense": 84,
+  "speed": 32,
+  "sp_atk": 81,
+  "sp_def": 99,
+  "hp": 109,
+  "weight": "110",
+  "height": "7",
+  "national_id": 618,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00618",
+  "name": "Stunfisk"
+}

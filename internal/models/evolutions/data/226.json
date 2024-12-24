@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 458,
+      "name": "Mantyke",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00226",
+  "_rev": "1-A"
+}

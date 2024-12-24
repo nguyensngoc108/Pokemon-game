@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "nosepass_gen_5",
+      "resource_uri": "/api/v1/description/4330/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "magnet-pull",
+      "resource_uri": "/api/v1/ability/42/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 45,
+  "defense": 135,
+  "speed": 30,
+  "sp_atk": 45,
+  "sp_def": 90,
+  "hp": 30,
+  "weight": "970",
+  "height": "10",
+  "national_id": 299,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00299",
+  "name": "Nosepass"
+}

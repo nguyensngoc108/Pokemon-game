@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 611,
+      "name": "Fraxure",
+      "method": "level_up",
+      "level": 38
+    }
+  ],
+  "_id": "00610",
+  "_rev": "1-A"
+}

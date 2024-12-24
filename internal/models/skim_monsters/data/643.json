@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "reshiram_gen_5",
+      "resource_uri": "/api/v1/description/6454/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "turboblaze",
+      "resource_uri": "/api/v1/ability/163/"
+    }
+  ],
+  "attack": 120,
+  "defense": 100,
+  "speed": 90,
+  "sp_atk": 150,
+  "sp_def": 120,
+  "hp": 100,
+  "weight": "3300",
+  "height": "32",
+  "national_id": 643,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00643",
+  "name": "Reshiram"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Armor Pokémon",
+  "japaneseName": "ドンファン",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00232",
+  "_rev": "1-A"
+}

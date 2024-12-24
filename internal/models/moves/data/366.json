@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "tailwind",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "For the next three turns, all Pokémon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field.",
+  "name": "Tailwind",
+  "_id": "00366",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "razor-wind",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.\n\nThis move cannot be selected by sleep-talk.",
+  "name": "Razor-wind",
+  "_id": "00013",
+  "_rev": "1-A"
+}

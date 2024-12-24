@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "amnesia",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Special Defense by two stages.",
+  "name": "Amnesia",
+  "_id": "00133",
+  "_rev": "1-A"
+}

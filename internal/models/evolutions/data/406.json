@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 315,
+      "name": "Roselia",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "_id": "00406",
+  "_rev": "1-A"
+}

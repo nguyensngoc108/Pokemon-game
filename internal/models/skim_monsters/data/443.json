@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "gible_gen_5",
+      "resource_uri": "/api/v1/description/5543/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "rough-skin",
+      "resource_uri": "/api/v1/ability/24/"
+    }
+  ],
+  "attack": 70,
+  "defense": 45,
+  "speed": 42,
+  "sp_atk": 40,
+  "sp_def": 45,
+  "hp": 58,
+  "weight": "205",
+  "height": "7",
+  "national_id": 443,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00443",
+  "name": "Gible"
+}

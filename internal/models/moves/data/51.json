@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "acid",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+  "name": "Acid",
+  "_id": "00051",
+  "_rev": "1-A"
+}

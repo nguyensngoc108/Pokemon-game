@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 636,
+      "name": "Larvesta",
+      "method": "level_up",
+      "level": 59
+    }
+  ],
+  "to": null,
+  "_id": "00637",
+  "_rev": "1-A"
+}

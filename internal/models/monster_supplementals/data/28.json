@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 2,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Mouse Pokémon",
+  "japaneseName": "サンドパン",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00028",
+  "_rev": "1-A"
+}

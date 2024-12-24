@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "skarmory_gen_5",
+      "resource_uri": "/api/v1/description/3556/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "weak-armor",
+      "resource_uri": "/api/v1/ability/133/"
+    }
+  ],
+  "attack": 80,
+  "defense": 140,
+  "speed": 70,
+  "sp_atk": 40,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "505",
+  "height": "17",
+  "national_id": 227,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00227",
+  "name": "Skarmory"
+}

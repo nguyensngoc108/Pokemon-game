@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "hypnosis",
+  "power": "",
+  "pp": 20,
+  "accuracy": 60,
+  "description": "Puts the target to sleep.",
+  "name": "Hypnosis",
+  "_id": "00095",
+  "_rev": "1-A"
+}

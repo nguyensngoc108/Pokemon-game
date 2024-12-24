@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "iron-tail",
+  "power": 100,
+  "pp": 15,
+  "accuracy": 75,
+  "description": "Inflicts regular damage.  Has a 30% chance to lower the target's Defense by one stage.",
+  "name": "Iron-tail",
+  "_id": "00231",
+  "_rev": "1-A"
+}

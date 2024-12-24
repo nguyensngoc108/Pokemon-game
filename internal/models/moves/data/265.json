@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "smelling-salts",
+  "power": 70,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target is paralyzed, this move has double power, and the target is cured of its paralysis.",
+  "name": "Smellingsalt",
+  "_id": "00265",
+  "_rev": "1-A"
+}

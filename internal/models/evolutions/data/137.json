@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 233,
+      "name": "Porygon2",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00137",
+  "_rev": "1-A"
+}

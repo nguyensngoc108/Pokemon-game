@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "hammer-arm",
+  "power": 100,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage, then lowers the user's Speed by one stage.",
+  "name": "Hammer-arm",
+  "_id": "00359",
+  "_rev": "1-A"
+}

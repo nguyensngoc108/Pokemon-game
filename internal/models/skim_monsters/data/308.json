@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "medicham_gen_5",
+      "resource_uri": "/api/v1/description/4422/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pure-power",
+      "resource_uri": "/api/v1/ability/74/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 60,
+  "defense": 75,
+  "speed": 80,
+  "sp_atk": 60,
+  "sp_def": 75,
+  "hp": 60,
+  "weight": "315",
+  "height": "13",
+  "national_id": 308,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00308",
+  "name": "Medicham"
+}

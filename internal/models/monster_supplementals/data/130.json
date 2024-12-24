@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 1275,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Atrocious Pokémon",
+  "japaneseName": "ギャラドス",
+  "Guranburu": "",
+  "eggGroups": "Water 2, Dragon",
+  "_id": "00130",
+  "_rev": "1-A"
+}

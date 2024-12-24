@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "lilligant_gen_5",
+      "resource_uri": "/api/v1/description/6078/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    },
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    }
+  ],
+  "attack": 60,
+  "defense": 75,
+  "speed": 90,
+  "sp_atk": 110,
+  "sp_def": 75,
+  "hp": 70,
+  "weight": "163",
+  "height": "11",
+  "national_id": 549,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00549",
+  "name": "Lilligant"
+}

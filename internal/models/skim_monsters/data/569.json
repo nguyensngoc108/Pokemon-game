@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "garbodor_gen_5",
+      "resource_uri": "/api/v1/description/6153/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "stench",
+      "resource_uri": "/api/v1/ability/1/"
+    },
+    {
+      "name": "aftermath",
+      "resource_uri": "/api/v1/ability/106/"
+    },
+    {
+      "name": "weak-armor",
+      "resource_uri": "/api/v1/ability/133/"
+    }
+  ],
+  "attack": 95,
+  "defense": 82,
+  "speed": 75,
+  "sp_atk": 60,
+  "sp_def": 82,
+  "hp": 80,
+  "weight": "1073",
+  "height": "19",
+  "national_id": 569,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00569",
+  "name": "Garbodor"
+}

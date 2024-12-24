@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "emolga_gen_5",
+      "resource_uri": "/api/v1/description/6226/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "motor-drive",
+      "resource_uri": "/api/v1/ability/78/"
+    }
+  ],
+  "attack": 75,
+  "defense": 60,
+  "speed": 103,
+  "sp_atk": 75,
+  "sp_def": 60,
+  "hp": 55,
+  "weight": "50",
+  "height": "4",
+  "national_id": 587,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00587",
+  "name": "Emolga"
+}

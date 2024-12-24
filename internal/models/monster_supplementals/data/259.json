@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Swamp Fish Pokémon",
+  "japaneseName": "ヌマクロー",
+  "Guranburu": "",
+  "eggGroups": "Monster, Water 1",
+  "_id": "00259",
+  "_rev": "1-A"
+}

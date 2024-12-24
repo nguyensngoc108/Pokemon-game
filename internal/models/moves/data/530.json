@@ -1,0 +1,11 @@
+{
+  "type_name": "dragon",
+  "identifier": "dual-chop",
+  "power": 40,
+  "pp": 15,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Hits twice in one turn.",
+  "name": "Dual-chop",
+  "_id": "00530",
+  "_rev": "1-A"
+}

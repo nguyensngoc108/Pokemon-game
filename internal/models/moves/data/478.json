@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "magic-room",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "For five turns (including this one), passive effects of held items are ignored, and Pokémon will not use their held items.",
+  "name": "Magic-room",
+  "_id": "00478",
+  "_rev": "1-A"
+}

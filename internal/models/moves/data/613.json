@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "oblivion-wing",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.",
+  "name": "Shadow-chill",
+  "_id": "00613",
+  "_rev": "1-A"
+}

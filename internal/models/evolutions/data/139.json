@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 138,
+      "name": "Omanyte",
+      "method": "level_up",
+      "level": 40
+    }
+  ],
+  "to": null,
+  "_id": "00139",
+  "_rev": "1-A"
+}

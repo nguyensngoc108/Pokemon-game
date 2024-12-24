@@ -1,0 +1,11 @@
+{
+  "type_name": "fairy",
+  "identifier": "draining-kiss",
+  "power": 50,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "",
+  "name": "Freeze-dry",
+  "_id": "00577",
+  "_rev": "1-A"
+}

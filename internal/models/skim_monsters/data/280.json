@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "ralts_gen_5",
+      "resource_uri": "/api/v1/description/4147/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fairy",
+      "resource_uri": "/api/v1/type/18/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "trace",
+      "resource_uri": "/api/v1/ability/36/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 25,
+  "defense": 25,
+  "speed": 40,
+  "sp_atk": 45,
+  "sp_def": 35,
+  "hp": 28,
+  "weight": "66",
+  "height": "4",
+  "national_id": 280,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00280",
+  "name": "Ralts"
+}

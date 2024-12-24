@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "air-cutter",
+  "power": 60,
+  "pp": 25,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Air-cutter",
+  "_id": "00314",
+  "_rev": "1-A"
+}

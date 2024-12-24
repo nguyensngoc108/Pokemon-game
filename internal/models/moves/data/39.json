@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "tail-whip",
+  "power": "",
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Lowers the target's Defense by one stage.",
+  "name": "Tail-whip",
+  "_id": "00039",
+  "_rev": "1-A"
+}

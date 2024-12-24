@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "night-daze",
+  "power": 85,
+  "pp": 10,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage.",
+  "name": "Night-daze",
+  "_id": "00539",
+  "_rev": "1-A"
+}

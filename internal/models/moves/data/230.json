@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "sweet-scent",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's evasion by one stage.",
+  "name": "Sweet-scent",
+  "_id": "00230",
+  "_rev": "1-A"
+}

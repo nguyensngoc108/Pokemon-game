@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "snore",
+  "power": 50,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Snore",
+  "_id": "00173",
+  "_rev": "1-A"
+}

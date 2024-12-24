@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "body-slam",
+  "power": 85,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+  "name": "Body-slam",
+  "_id": "00034",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "inferno",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 50,
+  "description": "Inflicts regular damage.  Has a 100% chance to burn the target.",
+  "name": "Inferno",
+  "_id": "00517",
+  "_rev": "1-A"
+}

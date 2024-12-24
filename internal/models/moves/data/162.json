@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "super-fang",
+  "power": "",
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts typeless damage equal to half the target's remaining HP.",
+  "name": "Super-fang",
+  "_id": "00162",
+  "_rev": "1-A"
+}

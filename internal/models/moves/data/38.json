@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "double-edge",
+  "power": 120,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+  "name": "Double-edge",
+  "_id": "00038",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "mudkip_gen_5",
+      "resource_uri": "/api/v1/description/3935/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    }
+  ],
+  "attack": 70,
+  "defense": 50,
+  "speed": 40,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 50,
+  "weight": "76",
+  "height": "4",
+  "national_id": 258,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00258",
+  "name": "Mudkip"
+}

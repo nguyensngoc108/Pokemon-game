@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "ferroseed_gen_5",
+      "resource_uri": "/api/v1/description/6267/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "iron-barbs",
+      "resource_uri": "/api/v1/ability/160/"
+    }
+  ],
+  "attack": 50,
+  "defense": 91,
+  "speed": 10,
+  "sp_atk": 24,
+  "sp_def": 86,
+  "hp": 44,
+  "weight": "188",
+  "height": "6",
+  "national_id": 597,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00597",
+  "name": "Ferroseed"
+}

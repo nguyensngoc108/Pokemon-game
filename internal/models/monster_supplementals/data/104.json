@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Lonely Pokémon",
+  "japaneseName": "カラカラ",
+  "Guranburu": "",
+  "eggGroups": "Monster",
+  "_id": "00104",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "loudred_gen_5",
+      "resource_uri": "/api/v1/description/4277/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    }
+  ],
+  "attack": 71,
+  "defense": 43,
+  "speed": 48,
+  "sp_atk": 71,
+  "sp_def": 43,
+  "hp": 84,
+  "weight": "405",
+  "height": "10",
+  "national_id": 294,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00294",
+  "name": "Loudred"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "frillish_gen_5",
+      "resource_uri": "/api/v1/description/6250/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "cursed-body",
+      "resource_uri": "/api/v1/ability/130/"
+    }
+  ],
+  "attack": 40,
+  "defense": 50,
+  "speed": 40,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "hp": 55,
+  "weight": "330",
+  "height": "12",
+  "national_id": 592,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00592",
+  "name": "Frillish"
+}

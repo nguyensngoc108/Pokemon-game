@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "spinda_gen_5",
+      "resource_uri": "/api/v1/description/4606/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    },
+    {
+      "name": "tangled-feet",
+      "resource_uri": "/api/v1/ability/77/"
+    },
+    {
+      "name": "contrary",
+      "resource_uri": "/api/v1/ability/126/"
+    }
+  ],
+  "attack": 60,
+  "defense": 60,
+  "speed": 60,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "hp": 60,
+  "weight": "50",
+  "height": "11",
+  "national_id": 327,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00327",
+  "name": "Spinda"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "houndoom_gen_5",
+      "resource_uri": "/api/v1/description/3585/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 90,
+  "defense": 50,
+  "speed": 95,
+  "sp_atk": 110,
+  "sp_def": 80,
+  "hp": 75,
+  "weight": "350",
+  "height": "14",
+  "national_id": 229,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00229",
+  "name": "Houndoom"
+}

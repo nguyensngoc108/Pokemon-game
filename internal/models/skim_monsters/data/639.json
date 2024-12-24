@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "terrakion_gen_5",
+      "resource_uri": "/api/v1/description/6442/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 129,
+  "defense": 90,
+  "speed": 108,
+  "sp_atk": 72,
+  "sp_def": 90,
+  "hp": 91,
+  "weight": "2600",
+  "height": "19",
+  "national_id": 639,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00639",
+  "name": "Terrakion"
+}

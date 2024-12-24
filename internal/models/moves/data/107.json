@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "minimize",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Raises the user's evasion by two stages.\n\nstomp and steamroller have double power against Pokémon that have used this move since entering the field.",
+  "name": "Minimize",
+  "_id": "00107",
+  "_rev": "1-A"
+}

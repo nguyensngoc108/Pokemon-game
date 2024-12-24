@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "fake-out",
+  "power": 40,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.",
+  "name": "Fake-out",
+  "_id": "00252",
+  "_rev": "1-A"
+}

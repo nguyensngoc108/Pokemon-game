@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "psycho-shift",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "If the user has a major status effect-effect and the target does not, the user's status is transferred to the target.",
+  "name": "Psycho-shift",
+  "_id": "00375",
+  "_rev": "1-A"
+}

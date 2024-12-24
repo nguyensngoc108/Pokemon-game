@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "meditate",
+  "power": "",
+  "pp": 40,
+  "accuracy": "",
+  "description": "Raises the user's Attack by one stage.",
+  "name": "Meditate",
+  "_id": "00096",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "heat-wave",
+  "power": 95,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+  "name": "Heat-wave",
+  "_id": "00257",
+  "_rev": "1-A"
+}

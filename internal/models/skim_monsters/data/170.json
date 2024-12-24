@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "chinchou_gen_5",
+      "resource_uri": "/api/v1/description/2728/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "volt-absorb",
+      "resource_uri": "/api/v1/ability/10/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "illuminate",
+      "resource_uri": "/api/v1/ability/35/"
+    }
+  ],
+  "attack": 38,
+  "defense": 38,
+  "speed": 67,
+  "sp_atk": 56,
+  "sp_def": 56,
+  "hp": 75,
+  "weight": "120",
+  "height": "5",
+  "national_id": 170,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00170",
+  "name": "Chinchou"
+}

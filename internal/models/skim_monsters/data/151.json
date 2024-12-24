@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "mewtwo_gen_5",
+      "resource_uri": "/api/v1/description/2459/"
+    },
+    {
+      "name": "mew_gen_5",
+      "resource_uri": "/api/v1/description/2475/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    }
+  ],
+  "attack": 100,
+  "defense": 100,
+  "speed": 100,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "hp": 100,
+  "weight": "40",
+  "height": "4",
+  "national_id": 151,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00151",
+  "name": "Mew"
+}

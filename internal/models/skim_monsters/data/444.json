@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "gabite_gen_5",
+      "resource_uri": "/api/v1/description/5551/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "rough-skin",
+      "resource_uri": "/api/v1/ability/24/"
+    }
+  ],
+  "attack": 90,
+  "defense": 65,
+  "speed": 82,
+  "sp_atk": 50,
+  "sp_def": 55,
+  "hp": 68,
+  "weight": "560",
+  "height": "14",
+  "national_id": 444,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00444",
+  "name": "Gabite"
+}

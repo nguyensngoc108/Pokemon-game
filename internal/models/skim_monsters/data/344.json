@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "claydol_gen_5",
+      "resource_uri": "/api/v1/description/4774/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 70,
+  "defense": 105,
+  "speed": 75,
+  "sp_atk": 70,
+  "sp_def": 120,
+  "hp": 60,
+  "weight": "1080",
+  "height": "15",
+  "national_id": 344,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00344",
+  "name": "Claydol"
+}

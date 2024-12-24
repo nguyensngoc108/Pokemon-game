@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "lunar-dance",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User faint.  Its replacement's HP and PP are fully restored, and any major status effect-effect is removed.",
+  "name": "Lunar-dance",
+  "_id": "00461",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "extrasensory",
+  "power": 80,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to make the target flinch.",
+  "name": "Extrasensory",
+  "_id": "00326",
+  "_rev": "1-A"
+}

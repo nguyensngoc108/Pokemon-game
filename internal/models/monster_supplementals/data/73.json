@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Jellyfish Pokémon",
+  "japaneseName": "ドククラゲ",
+  "Guranburu": "",
+  "eggGroups": "Water 3",
+  "_id": "00073",
+  "_rev": "1-A"
+}

@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 37,
+      "name": "Vulpix",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00038",
+  "_rev": "1-A"
+}

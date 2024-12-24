@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "cut",
+  "power": 50,
+  "pp": 30,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.",
+  "name": "Cut",
+  "_id": "00015",
+  "_rev": "1-A"
+}

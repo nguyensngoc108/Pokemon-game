@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 444,
+      "name": "Gabite",
+      "method": "level_up",
+      "level": 48
+    }
+  ],
+  "to": null,
+  "_id": "00445",
+  "_rev": "1-A"
+}

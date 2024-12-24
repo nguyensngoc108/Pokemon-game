@@ -1,0 +1,11 @@
+{
+  "type_name": "dragon",
+  "identifier": "outrage",
+  "power": 120,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+  "name": "Outrage",
+  "_id": "00200",
+  "_rev": "1-A"
+}

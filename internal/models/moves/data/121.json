@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "egg-bomb",
+  "power": 100,
+  "pp": 10,
+  "accuracy": 75,
+  "description": "Inflicts regular damage.",
+  "name": "Egg-bomb",
+  "_id": "00121",
+  "_rev": "1-A"
+}

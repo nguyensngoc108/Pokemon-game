@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "leer",
+  "power": "",
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Lowers the target's Defense by one stage.",
+  "name": "Leer",
+  "_id": "00043",
+  "_rev": "1-A"
+}

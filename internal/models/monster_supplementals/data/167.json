@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "String-Spitting Pokémon",
+  "japaneseName": "イトマル",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00167",
+  "_rev": "1-A"
+}

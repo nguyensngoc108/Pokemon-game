@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "thunder",
+  "power": 110,
+  "pp": 10,
+  "accuracy": 70,
+  "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.\n\nDuring rain-dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny-day, this move has 50% accuracy.",
+  "name": "Thunder",
+  "_id": "00087",
+  "_rev": "1-A"
+}

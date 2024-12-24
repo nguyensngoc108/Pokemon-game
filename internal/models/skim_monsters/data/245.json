@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "suicune_gen_5",
+      "resource_uri": "/api/v1/description/3799/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    }
+  ],
+  "attack": 75,
+  "defense": 115,
+  "speed": 85,
+  "sp_atk": 90,
+  "sp_def": 115,
+  "hp": 100,
+  "weight": "1870",
+  "height": "20",
+  "national_id": 245,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00245",
+  "name": "Suicune"
+}

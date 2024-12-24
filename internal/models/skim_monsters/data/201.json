@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "unown_gen_5",
+      "resource_uri": "/api/v1/description/3179/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 72,
+  "defense": 48,
+  "speed": 48,
+  "sp_atk": 72,
+  "sp_def": 48,
+  "hp": 48,
+  "weight": "50",
+  "height": "5",
+  "national_id": 201,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00201",
+  "name": "Unown"
+}

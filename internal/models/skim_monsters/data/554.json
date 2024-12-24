@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "darumaka_gen_5",
+      "resource_uri": "/api/v1/description/6097/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    }
+  ],
+  "attack": 90,
+  "defense": 45,
+  "speed": 50,
+  "sp_atk": 15,
+  "sp_def": 45,
+  "hp": 70,
+  "weight": "375",
+  "height": "6",
+  "national_id": 554,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00554",
+  "name": "Darumaka"
+}

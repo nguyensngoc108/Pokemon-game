@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 446,
+      "name": "Munchlax",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00143",
+  "_rev": "1-A"
+}

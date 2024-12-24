@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "wooper_gen_5",
+      "resource_uri": "/api/v1/description/3073/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "unaware",
+      "resource_uri": "/api/v1/ability/109/"
+    }
+  ],
+  "attack": 45,
+  "defense": 45,
+  "speed": 15,
+  "sp_atk": 25,
+  "sp_def": 25,
+  "hp": 55,
+  "weight": "85",
+  "height": "4",
+  "national_id": 194,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00194",
+  "name": "Wooper"
+}

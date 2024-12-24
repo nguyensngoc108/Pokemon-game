@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "gothitelle_gen_5",
+      "resource_uri": "/api/v1/description/6184/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shadow-tag",
+      "resource_uri": "/api/v1/ability/23/"
+    },
+    {
+      "name": "frisk",
+      "resource_uri": "/api/v1/ability/119/"
+    }
+  ],
+  "attack": 55,
+  "defense": 95,
+  "speed": 65,
+  "sp_atk": 95,
+  "sp_def": 110,
+  "hp": 70,
+  "weight": "440",
+  "height": "15",
+  "national_id": 576,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00576",
+  "name": "Gothitelle"
+}

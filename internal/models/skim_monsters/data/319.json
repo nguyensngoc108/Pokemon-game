@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "sharpedo_gen_5",
+      "resource_uri": "/api/v1/description/4532/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "speed-boost",
+      "resource_uri": "/api/v1/ability/3/"
+    },
+    {
+      "name": "rough-skin",
+      "resource_uri": "/api/v1/ability/24/"
+    }
+  ],
+  "attack": 120,
+  "defense": 40,
+  "speed": 95,
+  "sp_atk": 95,
+  "sp_def": 40,
+  "hp": 70,
+  "weight": "888",
+  "height": "18",
+  "national_id": 319,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00319",
+  "name": "Sharpedo"
+}

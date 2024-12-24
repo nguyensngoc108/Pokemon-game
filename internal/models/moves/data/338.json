@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "frenzy-plant",
+  "power": 150,
+  "pp": 5,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+  "name": "Frenzy-plant",
+  "_id": "00338",
+  "_rev": "1-A"
+}

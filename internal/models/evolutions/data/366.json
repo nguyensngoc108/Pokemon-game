@@ -1,0 +1,19 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 367,
+      "name": "Huntail",
+      "method": "trade",
+      "level": 0
+    },
+    {
+      "nationalId": 368,
+      "name": "Gorebyss",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00366",
+  "_rev": "1-A"
+}

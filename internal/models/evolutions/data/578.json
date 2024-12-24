@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 577,
+      "name": "Solosis",
+      "method": "level_up",
+      "level": 32
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 579,
+      "name": "Reuniclus",
+      "method": "level_up",
+      "level": 41
+    }
+  ],
+  "_id": "00578",
+  "_rev": "1-A"
+}

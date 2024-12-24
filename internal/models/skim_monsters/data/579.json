@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "reuniclus_gen_5",
+      "resource_uri": "/api/v1/description/6197/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "magic-guard",
+      "resource_uri": "/api/v1/ability/98/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 65,
+  "defense": 75,
+  "speed": 30,
+  "sp_atk": 125,
+  "sp_def": 85,
+  "hp": 110,
+  "weight": "201",
+  "height": "10",
+  "national_id": 579,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00579",
+  "name": "Reuniclus"
+}

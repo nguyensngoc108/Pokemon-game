@@ -1,0 +1,60 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 0.5,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 0,
+      "name": "ground"
+    },
+    {
+      "multiplier": 2,
+      "name": "rock"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "bug"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "grass"
+    },
+    {
+      "multiplier": 2,
+      "name": "electric"
+    },
+    {
+      "multiplier": 2,
+      "name": "ice"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "electric"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "rock"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 2,
+      "name": "grass"
+    },
+    {
+      "multiplier": 2,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 2,
+      "name": "bug"
+    }
+  ],
+  "_id": "flying",
+  "_rev": "1-A"
+}

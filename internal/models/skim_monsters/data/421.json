@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "cherrim_gen_5",
+      "resource_uri": "/api/v1/description/5395/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flower-gift",
+      "resource_uri": "/api/v1/ability/122/"
+    }
+  ],
+  "attack": 60,
+  "defense": 70,
+  "speed": 85,
+  "sp_atk": 87,
+  "sp_def": 78,
+  "hp": 70,
+  "weight": "93",
+  "height": "5",
+  "national_id": 421,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00421",
+  "name": "Cherrim"
+}

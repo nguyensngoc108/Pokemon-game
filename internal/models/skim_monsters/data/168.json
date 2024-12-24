@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "ariados_gen_5",
+      "resource_uri": "/api/v1/description/2697/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "bug",
+      "resource_uri": "/api/v1/type/7/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "resource_uri": "/api/v1/ability/15/"
+    },
+    {
+      "name": "swarm",
+      "resource_uri": "/api/v1/ability/68/"
+    },
+    {
+      "name": "sniper",
+      "resource_uri": "/api/v1/ability/97/"
+    }
+  ],
+  "attack": 90,
+  "defense": 70,
+  "speed": 40,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "hp": 70,
+  "weight": "335",
+  "height": "11",
+  "national_id": 168,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00168",
+  "name": "Ariados"
+}

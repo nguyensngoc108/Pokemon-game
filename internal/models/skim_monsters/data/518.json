@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "musharna_gen_5",
+      "resource_uri": "/api/v1/description/5958/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "forewarn",
+      "resource_uri": "/api/v1/ability/108/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 55,
+  "defense": 85,
+  "speed": 29,
+  "sp_atk": 107,
+  "sp_def": 95,
+  "hp": 116,
+  "weight": "605",
+  "height": "11",
+  "national_id": 518,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00518",
+  "name": "Musharna"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "lotad_gen_5",
+      "resource_uri": "/api/v1/description/4053/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "rain-dish",
+      "resource_uri": "/api/v1/ability/44/"
+    }
+  ],
+  "attack": 30,
+  "defense": 30,
+  "speed": 30,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "hp": 40,
+  "weight": "26",
+  "height": "5",
+  "national_id": 270,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00270",
+  "name": "Lotad"
+}

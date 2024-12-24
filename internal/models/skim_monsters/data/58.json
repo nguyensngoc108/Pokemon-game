@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "growlithe_gen_5",
+      "resource_uri": "/api/v1/description/938/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 70,
+  "defense": 45,
+  "speed": 60,
+  "sp_atk": 70,
+  "sp_def": 50,
+  "hp": 55,
+  "weight": "190",
+  "height": "7",
+  "national_id": 58,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00058",
+  "name": "Growlithe"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Stag Beetle Pokémon",
+  "japaneseName": "カイロス",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00127",
+  "_rev": "1-A"
+}

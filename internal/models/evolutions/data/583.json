@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 582,
+      "name": "Vanillite",
+      "method": "level_up",
+      "level": 35
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 584,
+      "name": "Vanilluxe",
+      "method": "level_up",
+      "level": 47
+    }
+  ],
+  "_id": "00583",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "bisharp_gen_5",
+      "resource_uri": "/api/v1/description/6387/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "defiant",
+      "resource_uri": "/api/v1/ability/128/"
+    }
+  ],
+  "attack": 125,
+  "defense": 100,
+  "speed": 70,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "700",
+  "height": "16",
+  "national_id": 625,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00625",
+  "name": "Bisharp"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "heal-bell",
+  "power": "",
+  "pp": 5,
+  "accuracy": "",
+  "description": "Removes major status effects-effects and confusion from every Pokémon in the user's party.",
+  "name": "Heal-bell",
+  "_id": "00215",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "mewtwo_gen_5",
+      "resource_uri": "/api/v1/description/2459/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 110,
+  "defense": 90,
+  "speed": 130,
+  "sp_atk": 154,
+  "sp_def": 90,
+  "hp": 106,
+  "weight": "1220",
+  "height": "20",
+  "national_id": 150,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00150",
+  "name": "Mewtwo"
+}

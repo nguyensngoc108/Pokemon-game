@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "rattata_gen_5",
+      "resource_uri": "/api/v1/description/301/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    }
+  ],
+  "attack": 56,
+  "defense": 35,
+  "speed": 72,
+  "sp_atk": 25,
+  "sp_def": 35,
+  "hp": 30,
+  "weight": "35",
+  "height": "3",
+  "national_id": 19,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00019",
+  "name": "Rattata"
+}

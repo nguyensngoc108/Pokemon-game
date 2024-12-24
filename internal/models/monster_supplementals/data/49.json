@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Poison Moth Pokémon",
+  "japaneseName": "モルフォン",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00049",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "thunder-wave",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Paralyzes the target.",
+  "name": "Thunder-wave",
+  "_id": "00086",
+  "_rev": "1-A"
+}

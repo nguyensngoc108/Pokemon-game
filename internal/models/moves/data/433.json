@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "trick-room",
+  "power": "",
+  "pp": 5,
+  "accuracy": "",
+  "description": "For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPokémon holding full-incense, lagging-tail, or quick-claw and Pokémon with stall ignore this effect.",
+  "name": "Trick-room",
+  "_id": "00433",
+  "_rev": "1-A"
+}

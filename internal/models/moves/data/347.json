@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "calm-mind",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Special Attack and Special Defense by one stage each.",
+  "name": "Calm-mind",
+  "_id": "00347",
+  "_rev": "1-A"
+}

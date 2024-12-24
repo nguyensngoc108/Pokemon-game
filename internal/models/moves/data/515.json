@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "final-gambit",
+  "power": "",
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts damage equal to the user's remaining HP.  User faints.",
+  "name": "Final-gambit",
+  "_id": "00515",
+  "_rev": "1-A"
+}

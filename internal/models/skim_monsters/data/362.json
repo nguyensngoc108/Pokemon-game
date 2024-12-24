@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "glalie_gen_5",
+      "resource_uri": "/api/v1/description/4946/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "ice-body",
+      "resource_uri": "/api/v1/ability/115/"
+    },
+    {
+      "name": "moody",
+      "resource_uri": "/api/v1/ability/141/"
+    }
+  ],
+  "attack": 80,
+  "defense": 80,
+  "speed": 80,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "hp": 80,
+  "weight": "2565",
+  "height": "15",
+  "national_id": 362,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00362",
+  "name": "Glalie"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "drifloon_gen_5",
+      "resource_uri": "/api/v1/description/5421/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "unburden",
+      "resource_uri": "/api/v1/ability/84/"
+    },
+    {
+      "name": "aftermath",
+      "resource_uri": "/api/v1/ability/106/"
+    },
+    {
+      "name": "flare-boost",
+      "resource_uri": "/api/v1/ability/138/"
+    }
+  ],
+  "attack": 50,
+  "defense": 34,
+  "speed": 70,
+  "sp_atk": 60,
+  "sp_def": 44,
+  "hp": 90,
+  "weight": "12",
+  "height": "4",
+  "national_id": 425,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00425",
+  "name": "Drifloon"
+}

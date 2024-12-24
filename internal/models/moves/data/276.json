@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "superpower",
+  "power": 120,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage, then lowers the user's Attack and Defense by one stage each.",
+  "name": "Superpower",
+  "_id": "00276",
+  "_rev": "1-A"
+}

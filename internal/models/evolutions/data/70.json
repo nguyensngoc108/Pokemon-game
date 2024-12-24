@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 69,
+      "name": "Bellsprout",
+      "method": "level_up",
+      "level": 21
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 71,
+      "name": "Victreebel",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00070",
+  "_rev": "1-A"
+}

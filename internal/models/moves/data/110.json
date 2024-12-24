@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "withdraw",
+  "power": "",
+  "pp": 40,
+  "accuracy": "",
+  "description": "Raises the user's Defense by one stage.",
+  "name": "Withdraw",
+  "_id": "00110",
+  "_rev": "1-A"
+}

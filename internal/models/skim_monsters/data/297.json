@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "hariyama_gen_5",
+      "resource_uri": "/api/v1/description/4307/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 120,
+  "defense": 60,
+  "speed": 50,
+  "sp_atk": 40,
+  "sp_def": 60,
+  "hp": 144,
+  "weight": "2538",
+  "height": "23",
+  "national_id": 297,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00297",
+  "name": "Hariyama"
+}

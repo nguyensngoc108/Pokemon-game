@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "swalot_gen_5",
+      "resource_uri": "/api/v1/description/4513/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sticky-hold",
+      "resource_uri": "/api/v1/ability/60/"
+    },
+    {
+      "name": "liquid-ooze",
+      "resource_uri": "/api/v1/ability/64/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 73,
+  "defense": 83,
+  "speed": 55,
+  "sp_atk": 73,
+  "sp_def": 83,
+  "hp": 100,
+  "weight": "800",
+  "height": "17",
+  "national_id": 317,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00317",
+  "name": "Swalot"
+}

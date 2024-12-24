@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "garchomp_gen_5",
+      "resource_uri": "/api/v1/description/5559/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "rough-skin",
+      "resource_uri": "/api/v1/ability/24/"
+    }
+  ],
+  "attack": 130,
+  "defense": 95,
+  "speed": 102,
+  "sp_atk": 80,
+  "sp_def": 85,
+  "hp": 108,
+  "weight": "950",
+  "height": "19",
+  "national_id": 445,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00445",
+  "name": "Garchomp"
+}

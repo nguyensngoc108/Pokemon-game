@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 3,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Mach Pokémon",
+  "japaneseName": "ガブリアス",
+  "Guranburu": "",
+  "eggGroups": "Monster, Dragon",
+  "_id": "00445",
+  "_rev": "1-A"
+}

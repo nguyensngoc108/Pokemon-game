@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "force-palm",
+  "power": 60,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+  "name": "Force-palm",
+  "_id": "00395",
+  "_rev": "1-A"
+}

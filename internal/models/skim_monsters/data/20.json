@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "raticate_gen_5",
+      "resource_uri": "/api/v1/description/315/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    }
+  ],
+  "attack": 81,
+  "defense": 60,
+  "speed": 97,
+  "sp_atk": 50,
+  "sp_def": 70,
+  "hp": 55,
+  "weight": "185",
+  "height": "7",
+  "national_id": 20,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00020",
+  "name": "Raticate"
+}

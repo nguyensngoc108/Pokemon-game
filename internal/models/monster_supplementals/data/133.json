@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 8925,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Evolution Pokémon",
+  "japaneseName": "イーブイ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00133",
+  "_rev": "1-A"
+}

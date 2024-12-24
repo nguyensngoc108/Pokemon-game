@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Herb Pokémon",
+  "japaneseName": "メガニウム",
+  "Guranburu": "",
+  "eggGroups": "Monster, Grass",
+  "_id": "00154",
+  "_rev": "1-A"
+}

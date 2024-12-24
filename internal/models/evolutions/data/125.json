@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 239,
+      "name": "Elekid",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 466,
+      "name": "Electivire",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00125",
+  "_rev": "1-A"
+}

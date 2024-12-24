@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 116,
+      "name": "Horsea",
+      "method": "level_up",
+      "level": 32
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 230,
+      "name": "Kingdra",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00117",
+  "_rev": "1-A"
+}

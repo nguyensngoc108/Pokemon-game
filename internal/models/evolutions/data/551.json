@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 552,
+      "name": "Krokorok",
+      "method": "level_up",
+      "level": 29
+    }
+  ],
+  "_id": "00551",
+  "_rev": "1-A"
+}

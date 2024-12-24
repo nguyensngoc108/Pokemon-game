@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 400,
+      "name": "Bibarel",
+      "method": "level_up",
+      "level": 15
+    }
+  ],
+  "_id": "00399",
+  "_rev": "1-A"
+}

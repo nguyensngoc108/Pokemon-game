@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "energy-ball",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+  "name": "Energy-ball",
+  "_id": "00412",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "ally-switch",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "User switches position on the field with the friendly Pokémon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pokémon, this move will fail.",
+  "name": "Ally-switch",
+  "_id": "00502",
+  "_rev": "1-A"
+}

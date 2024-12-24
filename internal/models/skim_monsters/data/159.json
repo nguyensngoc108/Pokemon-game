@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "croconaw_gen_5",
+      "resource_uri": "/api/v1/description/2571/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 80,
+  "defense": 80,
+  "speed": 58,
+  "sp_atk": 59,
+  "sp_def": 63,
+  "hp": 65,
+  "weight": "250",
+  "height": "11",
+  "national_id": 159,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00159",
+  "name": "Croconaw"
+}

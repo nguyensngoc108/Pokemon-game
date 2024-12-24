@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "hippowdon_gen_5",
+      "resource_uri": "/api/v1/description/5598/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-stream",
+      "resource_uri": "/api/v1/ability/45/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 112,
+  "defense": 118,
+  "speed": 47,
+  "sp_atk": 68,
+  "sp_def": 72,
+  "hp": 108,
+  "weight": "3000",
+  "height": "20",
+  "national_id": 450,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00450",
+  "name": "Hippowdon"
+}

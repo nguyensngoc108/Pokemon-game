@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "rhyhorn_gen_5",
+      "resource_uri": "/api/v1/description/1820/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    }
+  ],
+  "attack": 85,
+  "defense": 95,
+  "speed": 25,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "hp": 80,
+  "weight": "1150",
+  "height": "10",
+  "national_id": 111,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00111",
+  "name": "Rhyhorn"
+}

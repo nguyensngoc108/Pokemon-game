@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 100,
+  "species": "Rampaging Bull Pokémon",
+  "japaneseName": "ケンタロス",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00128",
+  "_rev": "1-A"
+}

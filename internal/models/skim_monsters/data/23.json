@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "ekans_gen_5",
+      "resource_uri": "/api/v1/description/362/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "shed-skin",
+      "resource_uri": "/api/v1/ability/61/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 60,
+  "defense": 44,
+  "speed": 55,
+  "sp_atk": 40,
+  "sp_def": 54,
+  "hp": 35,
+  "weight": "69",
+  "height": "20",
+  "national_id": 23,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00023",
+  "name": "Ekans"
+}

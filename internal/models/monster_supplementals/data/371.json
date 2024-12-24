@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Hard-Headed Pokémon",
+  "japaneseName": "タツベイ",
+  "Guranburu": "",
+  "eggGroups": "Dragon",
+  "_id": "00371",
+  "_rev": "1-A"
+}

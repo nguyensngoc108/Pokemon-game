@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "mightyena_gen_5",
+      "resource_uri": "/api/v1/description/3968/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "quick-feet",
+      "resource_uri": "/api/v1/ability/95/"
+    },
+    {
+      "name": "moxie",
+      "resource_uri": "/api/v1/ability/153/"
+    }
+  ],
+  "attack": 90,
+  "defense": 70,
+  "speed": 70,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "hp": 70,
+  "weight": "370",
+  "height": "10",
+  "national_id": 262,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00262",
+  "name": "Mightyena"
+}

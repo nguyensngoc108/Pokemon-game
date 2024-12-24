@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "blaze-kick",
+  "power": 85,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target.",
+  "name": "Blaze-kick",
+  "_id": "00299",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "klink_gen_5",
+      "resource_uri": "/api/v1/description/6276/"
+    },
+    {
+      "name": "klinklang_gen_5",
+      "resource_uri": "/api/v1/description/6284/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "resource_uri": "/api/v1/ability/29/"
+    },
+    {
+      "name": "plus",
+      "resource_uri": "/api/v1/ability/57/"
+    },
+    {
+      "name": "minus",
+      "resource_uri": "/api/v1/ability/58/"
+    }
+  ],
+  "attack": 55,
+  "defense": 70,
+  "speed": 30,
+  "sp_atk": 45,
+  "sp_def": 60,
+  "hp": 40,
+  "weight": "210",
+  "height": "3",
+  "national_id": 599,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00599",
+  "name": "Klink"
+}

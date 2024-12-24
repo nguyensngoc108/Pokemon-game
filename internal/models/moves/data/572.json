@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "petal-blizzard",
+  "power": 90,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "",
+  "name": "Fairy-wind",
+  "_id": "00572",
+  "_rev": "1-A"
+}

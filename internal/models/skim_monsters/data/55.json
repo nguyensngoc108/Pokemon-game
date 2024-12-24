@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "golduck_gen_5",
+      "resource_uri": "/api/v1/description/892/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "cloud-nine",
+      "resource_uri": "/api/v1/ability/13/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    }
+  ],
+  "attack": 82,
+  "defense": 78,
+  "speed": 85,
+  "sp_atk": 95,
+  "sp_def": 80,
+  "hp": 80,
+  "weight": "766",
+  "height": "17",
+  "national_id": 55,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00055",
+  "name": "Golduck"
+}

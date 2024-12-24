@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "squirtle_gen_5",
+      "resource_uri": "/api/v1/description/109/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rain-dish",
+      "resource_uri": "/api/v1/ability/44/"
+    },
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    }
+  ],
+  "attack": 48,
+  "defense": 65,
+  "speed": 43,
+  "sp_atk": 50,
+  "sp_def": 64,
+  "hp": 44,
+  "weight": "90",
+  "height": "5",
+  "national_id": 7,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00007",
+  "name": "Squirtle"
+}

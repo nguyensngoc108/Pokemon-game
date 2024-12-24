@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "swoobat_gen_5",
+      "resource_uri": "/api/v1/description/5998/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "simple",
+      "resource_uri": "/api/v1/ability/86/"
+    },
+    {
+      "name": "klutz",
+      "resource_uri": "/api/v1/ability/103/"
+    },
+    {
+      "name": "unaware",
+      "resource_uri": "/api/v1/ability/109/"
+    }
+  ],
+  "attack": 57,
+  "defense": 55,
+  "speed": 114,
+  "sp_atk": 77,
+  "sp_def": 55,
+  "hp": 67,
+  "weight": "105",
+  "height": "9",
+  "national_id": 528,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00528",
+  "name": "Swoobat"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "starly_gen_5",
+      "resource_uri": "/api/v1/description/5216/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    }
+  ],
+  "attack": 55,
+  "defense": 30,
+  "speed": 60,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "hp": 40,
+  "weight": "20",
+  "height": "3",
+  "national_id": 396,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00396",
+  "name": "Starly"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "facade",
+  "power": 70,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power.",
+  "name": "Facade",
+  "_id": "00263",
+  "_rev": "1-A"
+}

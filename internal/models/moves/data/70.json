@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "strength",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Strength",
+  "_id": "00070",
+  "_rev": "1-A"
+}

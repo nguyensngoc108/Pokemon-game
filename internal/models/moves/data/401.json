@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "aqua-tail",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.",
+  "name": "Aqua-tail",
+  "_id": "00401",
+  "_rev": "1-A"
+}

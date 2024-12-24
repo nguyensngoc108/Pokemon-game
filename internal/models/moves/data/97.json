@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "agility",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Raises the user's Speed by two stages.",
+  "name": "Agility",
+  "_id": "00097",
+  "_rev": "1-A"
+}

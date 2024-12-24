@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 47,
+      "name": "Parasect",
+      "method": "level_up",
+      "level": 24
+    }
+  ],
+  "_id": "00046",
+  "_rev": "1-A"
+}

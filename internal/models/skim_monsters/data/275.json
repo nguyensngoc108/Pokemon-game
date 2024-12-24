@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "shiftry_gen_5",
+      "resource_uri": "/api/v1/description/4097/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "pickpocket",
+      "resource_uri": "/api/v1/ability/124/"
+    }
+  ],
+  "attack": 100,
+  "defense": 60,
+  "speed": 80,
+  "sp_atk": 90,
+  "sp_def": 60,
+  "hp": 90,
+  "weight": "596",
+  "height": "13",
+  "national_id": 275,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00275",
+  "name": "Shiftry"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "parabolic-charge",
+  "power": 50,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "",
+  "name": "Electrify",
+  "_id": "00570",
+  "_rev": "1-A"
+}

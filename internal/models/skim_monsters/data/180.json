@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "flaaffy_gen_5",
+      "resource_uri": "/api/v1/description/2870/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "resource_uri": "/api/v1/ability/9/"
+    },
+    {
+      "name": "plus",
+      "resource_uri": "/api/v1/ability/57/"
+    }
+  ],
+  "attack": 55,
+  "defense": 55,
+  "speed": 45,
+  "sp_atk": 80,
+  "sp_def": 60,
+  "hp": 70,
+  "weight": "133",
+  "height": "8",
+  "national_id": 180,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00180",
+  "name": "Flaaffy"
+}

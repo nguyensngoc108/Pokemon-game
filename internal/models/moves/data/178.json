@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "cotton-spore",
+  "power": "",
+  "pp": 40,
+  "accuracy": 100,
+  "description": "Lowers the target's Speed by two stages.",
+  "name": "Cotton-spore",
+  "_id": "00178",
+  "_rev": "1-A"
+}

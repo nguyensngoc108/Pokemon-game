@@ -1,0 +1,19 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 199,
+      "name": "Slowking",
+      "method": "trade",
+      "level": 0
+    },
+    {
+      "nationalId": 80,
+      "name": "Slowbro",
+      "method": "level_up",
+      "level": 37
+    }
+  ],
+  "_id": "00079",
+  "_rev": "1-A"
+}

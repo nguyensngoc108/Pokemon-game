@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "sawsbuck_gen_5",
+      "resource_uri": "/api/v1/description/6223/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "resource_uri": "/api/v1/ability/32/"
+    },
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 100,
+  "defense": 70,
+  "speed": 95,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "hp": 80,
+  "weight": "925",
+  "height": "19",
+  "national_id": 586,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00586",
+  "name": "Sawsbuck"
+}

@@ -1,0 +1,325 @@
+{
+    "monster": {
+        "name": "Combee",
+        "attack": 30,
+        "defense": 42,
+        "speed": 70,
+        "sp_atk": 30,
+        "sp_def": 42,
+        "hp": 30,
+        "weight": "55",
+        "height": "3",
+        "national_id": 415,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00415",
+        "abilities": [
+            "hustle",
+            "honey-gather"
+        ],
+        "types": [
+            "flying",
+            "bug"
+        ]
+    },
+    "description": [
+        {
+            "description": "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee.",
+            "_id": "0005350",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 416,
+                "name": "Vespiquen",
+                "method": "level_up",
+                "level": 21
+            }
+        ],
+        "_id": "00415",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "bug"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "electric"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ice"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "electric"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "bug"
+                }
+            ],
+            "_id": "flying",
+            "_rev": "1-A"
+        },
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "fairy"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dark"
+                }
+            ],
+            "_id": "bug",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 3825,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 1,
+        "genderRatio": 87.5,
+        "species": "Bee Larva Pokémon",
+        "japaneseName": "ミツハニー",
+        "Guranburu": "",
+        "eggGroups": "Bug",
+        "_id": "00415",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "bug",
+            "identifier": "bug-buzz",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+            "name": "Bug-buzz",
+            "_id": "00405",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "flying",
+            "identifier": "tailwind",
+            "power": "",
+            "pp": 15,
+            "accuracy": "",
+            "description": "For the next three turns, all Pokémon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field.",
+            "name": "Tailwind",
+            "_id": "00366",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "string-shot",
+            "power": "",
+            "pp": 40,
+            "accuracy": 95,
+            "description": "Lowers the target's Speed by one stage.",
+            "name": "String-shot",
+            "_id": "00081",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ghost",
+            "identifier": "ominous-wind",
+            "power": 60,
+            "pp": 5,
+            "accuracy": 100,
+            "description": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.",
+            "name": "Ominous-wind",
+            "_id": "00466",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "bug-bite",
+            "power": 60,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca-berry or rowap-berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+            "name": "Bug-bite",
+            "_id": "00450",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "flying",
+            "identifier": "air-cutter",
+            "power": 60,
+            "pp": 25,
+            "accuracy": 95,
+            "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+            "name": "Air-cutter",
+            "_id": "00314",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "endeavor",
+            "power": "",
+            "pp": 5,
+            "accuracy": 100,
+            "description": "Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage.",
+            "name": "Endeavor",
+            "_id": "00283",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ground",
+            "identifier": "mud-slap",
+            "power": 20,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.",
+            "name": "Mud-slap",
+            "_id": "00189",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "snore",
+            "power": 50,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Snore",
+            "_id": "00173",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "swift",
+            "power": 60,
+            "pp": 20,
+            "accuracy": "",
+            "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+            "name": "Swift",
+            "_id": "00129",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "sweet-scent",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Lowers the target's evasion by one stage.",
+            "name": "Sweet-scent",
+            "_id": "00230",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "flying",
+            "identifier": "gust",
+            "power": 40,
+            "pp": 35,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky-drop, this move will hit with double power.",
+            "name": "Gust",
+            "_id": "00016",
+            "_rev": "1-A"
+        }
+    ]
+}

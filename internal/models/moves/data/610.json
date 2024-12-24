@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "hold-back",
+  "power": 40,
+  "pp": 40,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Shadow-blitz",
+  "_id": "00610",
+  "_rev": "1-A"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "ninjask_gen_5",
+      "resource_uri": "/api/v1/description/4248/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "bug",
+      "resource_uri": "/api/v1/type/7/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "speed-boost",
+      "resource_uri": "/api/v1/ability/3/"
+    },
+    {
+      "name": "infiltrator",
+      "resource_uri": "/api/v1/ability/151/"
+    }
+  ],
+  "attack": 90,
+  "defense": 45,
+  "speed": 160,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 61,
+  "weight": "120",
+  "height": "8",
+  "national_id": 291,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00291",
+  "name": "Ninjask"
+}

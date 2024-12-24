@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "cloyster_gen_5",
+      "resource_uri": "/api/v1/description/1497/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    },
+    {
+      "name": "skill-link",
+      "resource_uri": "/api/v1/ability/92/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    }
+  ],
+  "attack": 95,
+  "defense": 180,
+  "speed": 70,
+  "sp_atk": 85,
+  "sp_def": 45,
+  "hp": 50,
+  "weight": "1325",
+  "height": "15",
+  "national_id": 91,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00091",
+  "name": "Cloyster"
+}

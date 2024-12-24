@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "unfezant_gen_5",
+      "resource_uri": "/api/v1/description/5969/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    },
+    {
+      "name": "super-luck",
+      "resource_uri": "/api/v1/ability/105/"
+    },
+    {
+      "name": "big-pecks",
+      "resource_uri": "/api/v1/ability/145/"
+    }
+  ],
+  "attack": 115,
+  "defense": 80,
+  "speed": 93,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "hp": 80,
+  "weight": "290",
+  "height": "12",
+  "national_id": 521,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00521",
+  "name": "Unfezant"
+}

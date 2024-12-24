@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 8925,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 2,
+  "genderRatio": 87.5,
+  "species": "Thunder Pokémon",
+  "japaneseName": "サンダース",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00135",
+  "_rev": "1-A"
+}

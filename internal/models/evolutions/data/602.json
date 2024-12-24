@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 603,
+      "name": "Eelektrik",
+      "method": "level_up",
+      "level": 39
+    }
+  ],
+  "_id": "00602",
+  "_rev": "1-A"
+}

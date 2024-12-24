@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "incinerate",
+  "power": 60,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move.",
+  "name": "Incinerate",
+  "_id": "00510",
+  "_rev": "1-A"
+}

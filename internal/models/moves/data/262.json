@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "memento",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Lowers the target's Attack and Special Attack by two stages.  User faints.",
+  "name": "Memento",
+  "_id": "00262",
+  "_rev": "1-A"
+}

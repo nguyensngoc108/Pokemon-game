@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "v-create",
+  "power": 180,
+  "pp": 5,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each.",
+  "name": "V-create",
+  "_id": "00557",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "grass-pledge",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If a friendly Pokémon used fire-pledge earlier this turn, all opposing Pokémon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one).",
+  "name": "Grass-pledge",
+  "_id": "00520",
+  "_rev": "1-A"
+}

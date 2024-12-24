@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "tickle",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's Attack and Defense by one stage.",
+  "name": "Tickle",
+  "_id": "00321",
+  "_rev": "1-A"
+}

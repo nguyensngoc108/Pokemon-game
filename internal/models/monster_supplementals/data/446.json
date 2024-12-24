@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Gluttonous Pokémon",
+  "japaneseName": "ゴンベ",
+  "Guranburu": "",
+  "eggGroups": "No Eggs",
+  "_id": "00446",
+  "_rev": "1-A"
+}

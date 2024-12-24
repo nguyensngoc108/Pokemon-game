@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "defend-order",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Raises the user's Defense and Special Defense by one stage.",
+  "name": "Defend-order",
+  "_id": "00455",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "chip-away",
+  "power": 70,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.",
+  "name": "Chip-away",
+  "_id": "00498",
+  "_rev": "1-A"
+}

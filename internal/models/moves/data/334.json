@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "iron-defense",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "Raises the user's Defense by two stages.",
+  "name": "Iron-defense",
+  "_id": "00334",
+  "_rev": "1-A"
+}

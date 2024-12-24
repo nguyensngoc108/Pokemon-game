@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "glare",
+  "power": "",
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Paralyzes the target.",
+  "name": "Glare",
+  "_id": "00137",
+  "_rev": "1-A"
+}

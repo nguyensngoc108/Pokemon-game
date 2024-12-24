@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "cottonee_gen_5",
+      "resource_uri": "/api/v1/description/6069/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    },
+    {
+      "name": "fairy",
+      "resource_uri": "/api/v1/type/18/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "infiltrator",
+      "resource_uri": "/api/v1/ability/151/"
+    },
+    {
+      "name": "prankster",
+      "resource_uri": "/api/v1/ability/158/"
+    }
+  ],
+  "attack": 27,
+  "defense": 60,
+  "speed": 66,
+  "sp_atk": 37,
+  "sp_def": 50,
+  "hp": 40,
+  "weight": "6",
+  "height": "3",
+  "national_id": 546,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00546",
+  "name": "Cottonee"
+}

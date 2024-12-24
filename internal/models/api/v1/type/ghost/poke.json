@@ -1,0 +1,48 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 0,
+      "name": "normal"
+    },
+    {
+      "multiplier": 0,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "poison"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "bug"
+    },
+    {
+      "multiplier": 2,
+      "name": "ghost"
+    },
+    {
+      "multiplier": 2,
+      "name": "dark"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "dark"
+    },
+    {
+      "multiplier": 0,
+      "name": "normal"
+    },
+    {
+      "multiplier": 2,
+      "name": "psychic"
+    },
+    {
+      "multiplier": 2,
+      "name": "ghost"
+    }
+  ],
+  "_id": "ghost",
+  "_rev": "1-A"
+}

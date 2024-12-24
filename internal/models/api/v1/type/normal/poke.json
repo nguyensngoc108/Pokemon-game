@@ -1,0 +1,28 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 2,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 0,
+      "name": "ghost"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "rock"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 0,
+      "name": "ghost"
+    }
+  ],
+  "_id": "normal",
+  "_rev": "1-A"
+}

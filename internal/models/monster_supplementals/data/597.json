@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Spike Seed Pokémon",
+  "japaneseName": "テッシード",
+  "Guranburu": "",
+  "eggGroups": "Grass, Mineral",
+  "_id": "00597",
+  "_rev": "1-A"
+}

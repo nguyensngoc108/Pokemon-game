@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "gligar_gen_5",
+      "resource_uri": "/api/v1/description/3262/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "immunity",
+      "resource_uri": "/api/v1/ability/17/"
+    },
+    {
+      "name": "hyper-cutter",
+      "resource_uri": "/api/v1/ability/52/"
+    }
+  ],
+  "attack": 75,
+  "defense": 105,
+  "speed": 85,
+  "sp_atk": 35,
+  "sp_def": 65,
+  "hp": 65,
+  "weight": "648",
+  "height": "11",
+  "national_id": 207,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00207",
+  "name": "Gligar"
+}

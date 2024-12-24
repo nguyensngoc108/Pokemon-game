@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "spearow_gen_5",
+      "resource_uri": "/api/v1/description/329/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "sniper",
+      "resource_uri": "/api/v1/ability/97/"
+    }
+  ],
+  "attack": 60,
+  "defense": 30,
+  "speed": 70,
+  "sp_atk": 31,
+  "sp_def": 31,
+  "hp": 40,
+  "weight": "20",
+  "height": "3",
+  "national_id": 21,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00021",
+  "name": "Spearow"
+}

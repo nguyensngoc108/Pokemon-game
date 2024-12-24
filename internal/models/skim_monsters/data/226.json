@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "mantine_gen_5",
+      "resource_uri": "/api/v1/description/3542/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    }
+  ],
+  "attack": 40,
+  "defense": 70,
+  "speed": 70,
+  "sp_atk": 80,
+  "sp_def": 140,
+  "hp": 65,
+  "weight": "2200",
+  "height": "21",
+  "national_id": 226,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00226",
+  "name": "Mantine"
+}

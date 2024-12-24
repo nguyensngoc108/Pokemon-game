@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "wonder-room",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "For five turns (including this one), every Pokémon's Defense and Special Defense are swapped.",
+  "name": "Wonder-room",
+  "_id": "00472",
+  "_rev": "1-A"
+}

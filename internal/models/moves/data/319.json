@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "metal-sound",
+  "power": "",
+  "pp": 40,
+  "accuracy": 85,
+  "description": "Lowers the target's Special Defense by two stages.",
+  "name": "Metal-sound",
+  "_id": "00319",
+  "_rev": "1-A"
+}

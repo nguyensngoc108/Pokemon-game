@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "carvanha_gen_5",
+      "resource_uri": "/api/v1/description/4523/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "speed-boost",
+      "resource_uri": "/api/v1/ability/3/"
+    },
+    {
+      "name": "rough-skin",
+      "resource_uri": "/api/v1/ability/24/"
+    }
+  ],
+  "attack": 90,
+  "defense": 20,
+  "speed": 65,
+  "sp_atk": 65,
+  "sp_def": 20,
+  "hp": 45,
+  "weight": "208",
+  "height": "8",
+  "national_id": 318,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00318",
+  "name": "Carvanha"
+}

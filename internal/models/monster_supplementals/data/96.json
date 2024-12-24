@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Hypnosis Pokémon",
+  "japaneseName": "スリープ",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00096",
+  "_rev": "1-A"
+}

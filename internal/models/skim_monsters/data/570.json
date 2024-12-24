@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "zorua_gen_5",
+      "resource_uri": "/api/v1/description/6158/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "illusion",
+      "resource_uri": "/api/v1/ability/149/"
+    }
+  ],
+  "attack": 65,
+  "defense": 40,
+  "speed": 65,
+  "sp_atk": 80,
+  "sp_def": 40,
+  "hp": 40,
+  "weight": "125",
+  "height": "7",
+  "national_id": 570,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00570",
+  "name": "Zorua"
+}

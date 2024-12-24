@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "conversion-2",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type, this move will fail.",
+  "name": "Conversion-2",
+  "_id": "00176",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "torkoal_gen_5",
+      "resource_uri": "/api/v1/description/4578/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "white-smoke",
+      "resource_uri": "/api/v1/ability/73/"
+    },
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    }
+  ],
+  "attack": 85,
+  "defense": 140,
+  "speed": 20,
+  "sp_atk": 85,
+  "sp_def": 70,
+  "hp": 70,
+  "weight": "804",
+  "height": "5",
+  "national_id": 324,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00324",
+  "name": "Torkoal"
+}

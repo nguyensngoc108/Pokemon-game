@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "mega-kick",
+  "power": 120,
+  "pp": 5,
+  "accuracy": 75,
+  "description": "Inflicts regular damage.",
+  "name": "Mega-kick",
+  "_id": "00025",
+  "_rev": "1-A"
+}

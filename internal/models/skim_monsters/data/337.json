@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "lunatone_gen_5",
+      "resource_uri": "/api/v1/description/4703/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 55,
+  "defense": 65,
+  "speed": 70,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "hp": 70,
+  "weight": "1680",
+  "height": "10",
+  "national_id": 337,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00337",
+  "name": "Lunatone"
+}

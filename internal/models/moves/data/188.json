@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "sludge-bomb",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+  "name": "Sludge-bomb",
+  "_id": "00188",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "ominous-wind",
+  "power": 60,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.",
+  "name": "Ominous-wind",
+  "_id": "00466",
+  "_rev": "1-A"
+}

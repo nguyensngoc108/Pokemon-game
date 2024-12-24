@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "grass-whistle",
+  "power": "",
+  "pp": 15,
+  "accuracy": 55,
+  "description": "Puts the target to sleep.",
+  "name": "Grasswhistle",
+  "_id": "00320",
+  "_rev": "1-A"
+}

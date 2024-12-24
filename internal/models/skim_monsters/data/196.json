@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "espeon_gen_5",
+      "resource_uri": "/api/v1/description/3104/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "magic-bounce",
+      "resource_uri": "/api/v1/ability/156/"
+    }
+  ],
+  "attack": 65,
+  "defense": 60,
+  "speed": 110,
+  "sp_atk": 130,
+  "sp_def": 95,
+  "hp": 65,
+  "weight": "265",
+  "height": "9",
+  "national_id": 196,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00196",
+  "name": "Espeon"
+}

@@ -1,0 +1,41 @@
+{
+  "moves": [
+    {
+      "learn_type": "level up",
+      "level": 15,
+      "id": 243
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 227
+    },
+    {
+      "learn_type": "level up",
+      "level": 15,
+      "id": 219
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 204
+    },
+    {
+      "learn_type": "level up",
+      "level": 15,
+      "id": 194
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 150
+    },
+    {
+      "learn_type": "level up",
+      "level": 15,
+      "id": 68
+    }
+  ],
+  "_id": "00360",
+  "_rev": "1-29b7ba939c599c9eea8bc9b9f7d3e584"
+}

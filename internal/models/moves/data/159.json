@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "sharpen",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Raises the user's Attack by one stage.",
+  "name": "Sharpen",
+  "_id": "00159",
+  "_rev": "1-A"
+}

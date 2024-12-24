@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "articuno_gen_5",
+      "resource_uri": "/api/v1/description/2370/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "snow-cloak",
+      "resource_uri": "/api/v1/ability/81/"
+    }
+  ],
+  "attack": 85,
+  "defense": 100,
+  "speed": 85,
+  "sp_atk": 95,
+  "sp_def": 125,
+  "hp": 90,
+  "weight": "554",
+  "height": "17",
+  "national_id": 144,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00144",
+  "name": "Articuno"
+}

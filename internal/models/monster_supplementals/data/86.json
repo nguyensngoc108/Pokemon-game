@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Sea Lion Pokémon",
+  "japaneseName": "パウワウ",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Field",
+  "_id": "00086",
+  "_rev": "1-A"
+}

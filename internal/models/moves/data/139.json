@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "poison-gas",
+  "power": "",
+  "pp": 40,
+  "accuracy": 90,
+  "description": "Poisons the target.",
+  "name": "Poison-gas",
+  "_id": "00139",
+  "_rev": "1-A"
+}

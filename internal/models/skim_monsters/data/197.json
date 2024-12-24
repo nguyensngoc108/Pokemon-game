@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "umbreon_gen_5",
+      "resource_uri": "/api/v1/description/3119/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    }
+  ],
+  "attack": 65,
+  "defense": 110,
+  "speed": 65,
+  "sp_atk": 60,
+  "sp_def": 130,
+  "hp": 95,
+  "weight": "270",
+  "height": "10",
+  "national_id": 197,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00197",
+  "name": "Umbreon"
+}

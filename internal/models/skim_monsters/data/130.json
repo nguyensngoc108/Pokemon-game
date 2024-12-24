@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "gyarados_gen_5",
+      "resource_uri": "/api/v1/description/2143/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "moxie",
+      "resource_uri": "/api/v1/ability/153/"
+    }
+  ],
+  "attack": 125,
+  "defense": 79,
+  "speed": 81,
+  "sp_atk": 60,
+  "sp_def": 100,
+  "hp": 95,
+  "weight": "2350",
+  "height": "65",
+  "national_id": 130,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00130",
+  "name": "Gyarados"
+}

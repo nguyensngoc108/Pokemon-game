@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "victreebel_gen_5",
+      "resource_uri": "/api/v1/description/1162/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 105,
+  "defense": 65,
+  "speed": 70,
+  "sp_atk": 100,
+  "sp_def": 70,
+  "hp": 80,
+  "weight": "155",
+  "height": "17",
+  "national_id": 71,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00071",
+  "name": "Victreebel"
+}

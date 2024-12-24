@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "throh_gen_5",
+      "resource_uri": "/api/v1/description/6035/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    }
+  ],
+  "attack": 100,
+  "defense": 85,
+  "speed": 45,
+  "sp_atk": 30,
+  "sp_def": 85,
+  "hp": 120,
+  "weight": "555",
+  "height": "13",
+  "national_id": 538,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00538",
+  "name": "Throh"
+}

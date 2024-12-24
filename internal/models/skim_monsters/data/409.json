@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "rampardos_gen_5",
+      "resource_uri": "/api/v1/description/5308/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 165,
+  "defense": 60,
+  "speed": 58,
+  "sp_atk": 65,
+  "sp_def": 50,
+  "hp": 97,
+  "weight": "1025",
+  "height": "16",
+  "national_id": 409,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00409",
+  "name": "Rampardos"
+}

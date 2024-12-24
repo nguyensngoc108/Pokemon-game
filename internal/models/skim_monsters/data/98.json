@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "krabby_gen_5",
+      "resource_uri": "/api/v1/description/1615/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "resource_uri": "/api/v1/ability/52/"
+    },
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 105,
+  "defense": 90,
+  "speed": 50,
+  "sp_atk": 25,
+  "sp_def": 25,
+  "hp": 30,
+  "weight": "65",
+  "height": "4",
+  "national_id": 98,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00098",
+  "name": "Krabby"
+}

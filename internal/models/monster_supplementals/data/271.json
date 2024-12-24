@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Cheerful Pokémon",
+  "japaneseName": "ハスブレロ",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Grass",
+  "_id": "00271",
+  "_rev": "1-A"
+}

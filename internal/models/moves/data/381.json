@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "lucky-chant",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "For five turns, opposing Pokémon cannot score critical hits.",
+  "name": "Lucky-chant",
+  "_id": "00381",
+  "_rev": "1-A"
+}

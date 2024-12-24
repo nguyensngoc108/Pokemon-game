@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "acrobatics",
+  "power": 55,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the user has no held item, this move has double power.",
+  "name": "Acrobatics",
+  "_id": "00512",
+  "_rev": "1-A"
+}

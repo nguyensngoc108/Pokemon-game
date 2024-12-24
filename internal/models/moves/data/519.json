@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "fire-pledge",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If a friendly Pokémon used water-pledge earlier this turn, moves used by any friendly Pokémon have doubled effect chance for four turns (including this one).",
+  "name": "Fire-pledge",
+  "_id": "00519",
+  "_rev": "1-A"
+}

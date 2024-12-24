@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "scary-face",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Lowers the target's Speed by two stages.",
+  "name": "Scary-face",
+  "_id": "00184",
+  "_rev": "1-A"
+}

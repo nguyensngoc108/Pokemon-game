@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 397,
+      "name": "Staravia",
+      "method": "level_up",
+      "level": 34
+    }
+  ],
+  "to": null,
+  "_id": "00398",
+  "_rev": "1-A"
+}

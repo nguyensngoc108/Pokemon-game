@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "patrat_gen_5",
+      "resource_uri": "/api/v1/description/5894/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "analytic",
+      "resource_uri": "/api/v1/ability/148/"
+    }
+  ],
+  "attack": 55,
+  "defense": 39,
+  "speed": 42,
+  "sp_atk": 35,
+  "sp_def": 39,
+  "hp": 45,
+  "weight": "116",
+  "height": "5",
+  "national_id": 504,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00504",
+  "name": "Patrat"
+}

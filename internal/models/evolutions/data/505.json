@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 504,
+      "name": "Patrat",
+      "method": "level_up",
+      "level": 20
+    }
+  ],
+  "to": null,
+  "_id": "00505",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "dark-void",
+  "power": "",
+  "pp": 10,
+  "accuracy": 80,
+  "description": "Puts the target to sleep.",
+  "name": "Dark-void",
+  "_id": "00464",
+  "_rev": "1-A"
+}

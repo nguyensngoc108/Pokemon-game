@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "techno-blast",
+  "power": 120,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.\n\nNote: This effect is technically shared by both techno-blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates.",
+  "name": "Techno-blast",
+  "_id": "00546",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "eruption",
+  "power": 150,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP.",
+  "name": "Eruption",
+  "_id": "00284",
+  "_rev": "1-A"
+}

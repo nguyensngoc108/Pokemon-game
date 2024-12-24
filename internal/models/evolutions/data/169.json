@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 42,
+      "name": "Golbat",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00169",
+  "_rev": "1-A"
+}

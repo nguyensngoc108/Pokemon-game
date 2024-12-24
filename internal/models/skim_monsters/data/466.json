@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "electivire_gen_5",
+      "resource_uri": "/api/v1/description/5707/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    },
+    {
+      "name": "motor-drive",
+      "resource_uri": "/api/v1/ability/78/"
+    }
+  ],
+  "attack": 123,
+  "defense": 67,
+  "speed": 95,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "hp": 75,
+  "weight": "1386",
+  "height": "18",
+  "national_id": 466,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00466",
+  "name": "Electivire"
+}

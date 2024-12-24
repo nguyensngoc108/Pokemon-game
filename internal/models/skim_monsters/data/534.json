@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "conkeldurr_gen_5",
+      "resource_uri": "/api/v1/description/6021/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "iron-fist",
+      "resource_uri": "/api/v1/ability/89/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 140,
+  "defense": 95,
+  "speed": 45,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "hp": 105,
+  "weight": "870",
+  "height": "14",
+  "national_id": 534,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00534",
+  "name": "Conkeldurr"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "destiny-bond",
+  "power": "",
+  "pp": 5,
+  "accuracy": "",
+  "description": "If the user faints before its next move, the Pokémon that faint it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+  "name": "Destiny-bond",
+  "_id": "00194",
+  "_rev": "1-A"
+}

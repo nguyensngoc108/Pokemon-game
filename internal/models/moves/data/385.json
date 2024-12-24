@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "guard-swap",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User swaps its Defense and Special Defense modifiers with the target.",
+  "name": "Guard-swap",
+  "_id": "00385",
+  "_rev": "1-A"
+}

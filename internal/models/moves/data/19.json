@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "fly",
+  "power": 90,
+  "pp": 15,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, gust, hurricane, sky-uppercut, smack-down, thunder, twister, and whirlwind still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock-on, mind-reader, or no-guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep-talk.",
+  "name": "Fly",
+  "_id": "00019",
+  "_rev": "1-A"
+}

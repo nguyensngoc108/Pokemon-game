@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 1,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Darkness Pokémon",
+  "japaneseName": "ヤミラミ",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00302",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 3,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 100,
+  "species": "Blade Pokémon",
+  "japaneseName": "エルレイド",
+  "Guranburu": "",
+  "eggGroups": "Amorphous",
+  "_id": "00475",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "ice-beam",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.",
+  "name": "Ice-beam",
+  "_id": "00058",
+  "_rev": "1-A"
+}

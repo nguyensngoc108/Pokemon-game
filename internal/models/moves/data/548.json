@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "secret-sword",
+  "power": 85,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.",
+  "name": "Secret-sword",
+  "_id": "00548",
+  "_rev": "1-A"
+}

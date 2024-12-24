@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "surf",
+  "power": 90,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+  "name": "Surf",
+  "_id": "00057",
+  "_rev": "1-A"
+}

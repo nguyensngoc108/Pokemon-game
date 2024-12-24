@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "nidoran-m_gen_5",
+      "resource_uri": "/api/v1/description/510/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "resource_uri": "/api/v1/ability/38/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    }
+  ],
+  "attack": 57,
+  "defense": 40,
+  "speed": 50,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "hp": 46,
+  "weight": "90",
+  "height": "5",
+  "national_id": 32,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00032",
+  "name": "Nidoran-m"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "round",
+  "power": 60,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.",
+  "name": "Round",
+  "_id": "00496",
+  "_rev": "1-A"
+}

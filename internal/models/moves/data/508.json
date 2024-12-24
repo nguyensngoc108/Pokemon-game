@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "shift-gear",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Raises the user's Attack by one stage and its Speed by two stages.",
+  "name": "Shift-gear",
+  "_id": "00508",
+  "_rev": "1-A"
+}

@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 20,
+      "name": "Raticate",
+      "method": "level_up",
+      "level": 20
+    }
+  ],
+  "_id": "00019",
+  "_rev": "1-A"
+}

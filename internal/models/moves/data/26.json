@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "jump-kick",
+  "power": 100,
+  "pp": 10,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  If this move misses, is blocked by protect or detect, or has no effect, the user takes half the damage it would have inflicted in recoil.  This recoil damage will not exceed half the user's max HP.\n\nThis move cannot be used while gravity is in effect.",
+  "name": "Jump-kick",
+  "_id": "00026",
+  "_rev": "1-A"
+}

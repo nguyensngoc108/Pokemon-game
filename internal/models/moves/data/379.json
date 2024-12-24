@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "power-trick",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "The user's original Attack and Defense are swapped.\n\nThis effect is passed on by baton-pass.",
+  "name": "Power-trick",
+  "_id": "00379",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "aura-sphere",
+  "power": 80,
+  "pp": 20,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Aura-sphere",
+  "_id": "00396",
+  "_rev": "1-A"
+}

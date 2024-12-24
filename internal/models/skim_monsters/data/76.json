@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "golem_gen_5",
+      "resource_uri": "/api/v1/description/1256/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    }
+  ],
+  "attack": 120,
+  "defense": 130,
+  "speed": 45,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "hp": 80,
+  "weight": "3000",
+  "height": "14",
+  "national_id": 76,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00076",
+  "name": "Golem"
+}

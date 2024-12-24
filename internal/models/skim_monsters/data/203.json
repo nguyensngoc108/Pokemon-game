@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "girafarig_gen_5",
+      "resource_uri": "/api/v1/description/3209/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 80,
+  "defense": 65,
+  "speed": 85,
+  "sp_atk": 90,
+  "sp_def": 65,
+  "hp": 70,
+  "weight": "415",
+  "height": "15",
+  "national_id": 203,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00203",
+  "name": "Girafarig"
+}

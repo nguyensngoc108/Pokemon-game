@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "kecleon_gen_5",
+      "resource_uri": "/api/v1/description/4846/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "color-change",
+      "resource_uri": "/api/v1/ability/16/"
+    }
+  ],
+  "attack": 90,
+  "defense": 70,
+  "speed": 40,
+  "sp_atk": 60,
+  "sp_def": 120,
+  "hp": 60,
+  "weight": "220",
+  "height": "10",
+  "national_id": 352,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00352",
+  "name": "Kecleon"
+}

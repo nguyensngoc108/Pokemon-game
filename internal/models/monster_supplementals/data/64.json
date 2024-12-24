@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 2,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 75,
+  "species": "Telekinesis Pokémon",
+  "japaneseName": "ユンゲラー",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00064",
+  "_rev": "1-A"
+}

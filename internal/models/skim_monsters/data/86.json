@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "seel_gen_5",
+      "resource_uri": "/api/v1/description/1423/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "hydration",
+      "resource_uri": "/api/v1/ability/93/"
+    },
+    {
+      "name": "ice-body",
+      "resource_uri": "/api/v1/ability/115/"
+    }
+  ],
+  "attack": 45,
+  "defense": 55,
+  "speed": 45,
+  "sp_atk": 45,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "900",
+  "height": "11",
+  "national_id": 86,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00086",
+  "name": "Seel"
+}

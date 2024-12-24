@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "double-team",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "Raises the user's evasion by one stage.",
+  "name": "Double-team",
+  "_id": "00104",
+  "_rev": "1-A"
+}

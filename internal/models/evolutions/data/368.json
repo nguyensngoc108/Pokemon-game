@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 366,
+      "name": "Clamperl",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00368",
+  "_rev": "1-A"
+}

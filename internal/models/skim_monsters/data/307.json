@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "meditite_gen_5",
+      "resource_uri": "/api/v1/description/4410/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pure-power",
+      "resource_uri": "/api/v1/ability/74/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 40,
+  "defense": 55,
+  "speed": 60,
+  "sp_atk": 40,
+  "sp_def": 55,
+  "hp": 30,
+  "weight": "112",
+  "height": "6",
+  "national_id": 307,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00307",
+  "name": "Meditite"
+}

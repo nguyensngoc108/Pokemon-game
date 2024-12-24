@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "leech-seed",
+  "power": "",
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.  Has no effect on grass Pokémon.  The seed remains until the target leaves the field.\n\nThe user takes damage instead of being healed if the target has liquid-ooze.\n\nrapid-spin will remove this effect.\n\nThis effect is passed on by baton-pass.",
+  "name": "Leech-seed",
+  "_id": "00073",
+  "_rev": "1-A"
+}

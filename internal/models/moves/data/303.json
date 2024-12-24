@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "slack-off",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Heals the user for half its max HP.",
+  "name": "Slack-off",
+  "_id": "00303",
+  "_rev": "1-A"
+}

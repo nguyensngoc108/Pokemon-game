@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "darmanitan-standard_gen_5",
+      "resource_uri": "/api/v1/description/6100/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    },
+    {
+      "name": "zen-mode",
+      "resource_uri": "/api/v1/ability/161/"
+    }
+  ],
+  "attack": 140,
+  "defense": 55,
+  "speed": 95,
+  "sp_atk": 30,
+  "sp_def": 55,
+  "hp": 105,
+  "weight": "929",
+  "height": "13",
+  "national_id": 555,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00555",
+  "name": "Darmanitan-standard"
+}

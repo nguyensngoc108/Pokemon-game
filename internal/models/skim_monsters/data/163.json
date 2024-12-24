@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "hoothoot_gen_5",
+      "resource_uri": "/api/v1/description/2625/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "resource_uri": "/api/v1/ability/15/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "tinted-lens",
+      "resource_uri": "/api/v1/ability/110/"
+    }
+  ],
+  "attack": 30,
+  "defense": 30,
+  "speed": 50,
+  "sp_atk": 36,
+  "sp_def": 56,
+  "hp": 60,
+  "weight": "212",
+  "height": "7",
+  "national_id": 163,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00163",
+  "name": "Hoothoot"
+}

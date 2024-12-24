@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "munchlax_gen_5",
+      "resource_uri": "/api/v1/description/5567/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 85,
+  "defense": 40,
+  "speed": 5,
+  "sp_atk": 40,
+  "sp_def": 85,
+  "hp": 135,
+  "weight": "1050",
+  "height": "6",
+  "national_id": 446,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00446",
+  "name": "Munchlax"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "nuzzle",
+  "power": 20,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Shadow-blast",
+  "_id": "00609",
+  "_rev": "1-A"
+}

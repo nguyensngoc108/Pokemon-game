@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "bestow",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "Transfers the user's held item to the target.  If the user has no held item, or the target already has a held item, this move will fail.",
+  "name": "Bestow",
+  "_id": "00516",
+  "_rev": "1-A"
+}

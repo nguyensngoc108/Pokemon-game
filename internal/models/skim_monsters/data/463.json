@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "lickilicky_gen_5",
+      "resource_uri": "/api/v1/description/5690/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "cloud-nine",
+      "resource_uri": "/api/v1/ability/13/"
+    },
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    }
+  ],
+  "attack": 85,
+  "defense": 95,
+  "speed": 50,
+  "sp_atk": 80,
+  "sp_def": 95,
+  "hp": 110,
+  "weight": "1400",
+  "height": "17",
+  "national_id": 463,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00463",
+  "name": "Lickilicky"
+}

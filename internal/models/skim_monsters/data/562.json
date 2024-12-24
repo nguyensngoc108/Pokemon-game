@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "yamask_gen_5",
+      "resource_uri": "/api/v1/description/6128/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mummy",
+      "resource_uri": "/api/v1/ability/152/"
+    }
+  ],
+  "attack": 30,
+  "defense": 85,
+  "speed": 30,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "hp": 38,
+  "weight": "15",
+  "height": "5",
+  "national_id": 562,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00562",
+  "name": "Yamask"
+}

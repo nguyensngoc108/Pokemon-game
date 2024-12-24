@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "sky-uppercut",
+  "power": 85,
+  "pp": 15,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.\n\nThis move can hit Pokémon under the effect of bounce, fly, or sky-drop.",
+  "name": "Sky-uppercut",
+  "_id": "00327",
+  "_rev": "1-A"
+}

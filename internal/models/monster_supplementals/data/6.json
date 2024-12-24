@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 3,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Flame Pokémon",
+  "japaneseName": "リザードン",
+  "Guranburu": "",
+  "eggGroups": "Monster, Dragon",
+  "_id": "00006",
+  "_rev": "1-A"
+}

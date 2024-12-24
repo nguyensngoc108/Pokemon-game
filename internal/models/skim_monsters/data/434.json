@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "stunky_gen_5",
+      "resource_uri": "/api/v1/description/5480/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "stench",
+      "resource_uri": "/api/v1/ability/1/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "aftermath",
+      "resource_uri": "/api/v1/ability/106/"
+    }
+  ],
+  "attack": 63,
+  "defense": 47,
+  "speed": 74,
+  "sp_atk": 41,
+  "sp_def": 41,
+  "hp": 63,
+  "weight": "192",
+  "height": "4",
+  "national_id": 434,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00434",
+  "name": "Stunky"
+}

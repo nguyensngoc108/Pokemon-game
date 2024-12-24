@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "thunder-punch",
+  "power": 75,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to paralyze the target.",
+  "name": "Thunderpunch",
+  "_id": "00009",
+  "_rev": "1-A"
+}

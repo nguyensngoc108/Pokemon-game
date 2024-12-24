@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "feebas_gen_5",
+      "resource_uri": "/api/v1/description/4820/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "adaptability",
+      "resource_uri": "/api/v1/ability/91/"
+    }
+  ],
+  "attack": 15,
+  "defense": 20,
+  "speed": 80,
+  "sp_atk": 10,
+  "sp_def": 55,
+  "hp": 20,
+  "weight": "74",
+  "height": "6",
+  "national_id": 349,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00349",
+  "name": "Feebas"
+}

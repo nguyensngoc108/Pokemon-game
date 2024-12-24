@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "muddy-water",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.",
+  "name": "Muddy-water",
+  "_id": "00330",
+  "_rev": "1-A"
+}

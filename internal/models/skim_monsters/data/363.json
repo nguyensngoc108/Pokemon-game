@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "spheal_gen_5",
+      "resource_uri": "/api/v1/description/4955/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "ice-body",
+      "resource_uri": "/api/v1/ability/115/"
+    }
+  ],
+  "attack": 40,
+  "defense": 50,
+  "speed": 25,
+  "sp_atk": 55,
+  "sp_def": 50,
+  "hp": 70,
+  "weight": "395",
+  "height": "8",
+  "national_id": 363,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00363",
+  "name": "Spheal"
+}

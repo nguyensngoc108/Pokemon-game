@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "bulbasaur_gen_5",
+      "resource_uri": "/api/v1/description/15/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    }
+  ],
+  "attack": 49,
+  "defense": 49,
+  "speed": 45,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "hp": 45,
+  "weight": "69",
+  "height": "7",
+  "national_id": 1,
+  "male_female_ratio": "87.5/12.5",
+  "catch_rate": 0,
+  "_id": "00001",
+  "name": "Bulbasaur"
+}

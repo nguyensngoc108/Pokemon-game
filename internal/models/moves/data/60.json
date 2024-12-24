@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "psybeam",
+  "power": 65,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+  "name": "Psybeam",
+  "_id": "00060",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "water-pledge",
+  "power": 80,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If a friendly Pokémon used grass-pledge earlier this turn, all opposing Pokémon have halved Speed for four turns (including this one).",
+  "name": "Water-pledge",
+  "_id": "00518",
+  "_rev": "1-A"
+}

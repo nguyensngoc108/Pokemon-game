@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "healing-wish",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User faints.  Its replacement's HP is fully restored, and any major status effect-effect is removed.  If the replacement Pokémon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead.",
+  "name": "Healing-wish",
+  "_id": "00361",
+  "_rev": "1-A"
+}

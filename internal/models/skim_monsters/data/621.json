@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "druddigon_gen_5",
+      "resource_uri": "/api/v1/description/6368/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rough-skin",
+      "resource_uri": "/api/v1/ability/24/"
+    },
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 120,
+  "defense": 90,
+  "speed": 48,
+  "sp_atk": 60,
+  "sp_def": 90,
+  "hp": 77,
+  "weight": "1390",
+  "height": "16",
+  "national_id": 621,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00621",
+  "name": "Druddigon"
+}

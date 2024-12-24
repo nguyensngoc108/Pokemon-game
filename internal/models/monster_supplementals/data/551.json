@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Desert Crocodile Pokémon",
+  "japaneseName": "メグロコ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00551",
+  "_rev": "1-A"
+}

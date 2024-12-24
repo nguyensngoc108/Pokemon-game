@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "pelipper_gen_5",
+      "resource_uri": "/api/v1/description/4136/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rain-dish",
+      "resource_uri": "/api/v1/ability/44/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    }
+  ],
+  "attack": 50,
+  "defense": 100,
+  "speed": 65,
+  "sp_atk": 85,
+  "sp_def": 70,
+  "hp": 60,
+  "weight": "280",
+  "height": "12",
+  "national_id": 279,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00279",
+  "name": "Pelipper"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "weepinbell_gen_5",
+      "resource_uri": "/api/v1/description/1146/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 90,
+  "defense": 50,
+  "speed": 55,
+  "sp_atk": 85,
+  "sp_def": 45,
+  "hp": 65,
+  "weight": "64",
+  "height": "10",
+  "national_id": 70,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00070",
+  "name": "Weepinbell"
+}

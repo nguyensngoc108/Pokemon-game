@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "phantom-force",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "",
+  "name": "Disarming-voice",
+  "_id": "00566",
+  "_rev": "1-A"
+}

@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "cryogonal_gen_5",
+      "resource_uri": "/api/v1/description/6340/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 50,
+  "defense": 30,
+  "speed": 105,
+  "sp_atk": 95,
+  "sp_def": 135,
+  "hp": 70,
+  "weight": "1480",
+  "height": "11",
+  "national_id": 615,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00615",
+  "name": "Cryogonal"
+}

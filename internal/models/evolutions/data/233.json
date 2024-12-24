@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 137,
+      "name": "Porygon",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 474,
+      "name": "Porygon-z",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00233",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "chatot_gen_5",
+      "resource_uri": "/api/v1/description/5528/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "tangled-feet",
+      "resource_uri": "/api/v1/ability/77/"
+    },
+    {
+      "name": "big-pecks",
+      "resource_uri": "/api/v1/ability/145/"
+    }
+  ],
+  "attack": 65,
+  "defense": 45,
+  "speed": 91,
+  "sp_atk": 92,
+  "sp_def": 42,
+  "hp": 76,
+  "weight": "19",
+  "height": "5",
+  "national_id": 441,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00441",
+  "name": "Chatot"
+}

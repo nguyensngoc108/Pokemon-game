@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "torment",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.\n\nIf the target is forced to attempt a repeated move due to choice-band, choice-scarf, choice-specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn.",
+  "name": "Torment",
+  "_id": "00259",
+  "_rev": "1-A"
+}

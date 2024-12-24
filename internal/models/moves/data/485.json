@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "synchronoise",
+  "power": 120,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.",
+  "name": "Synchronoise",
+  "_id": "00485",
+  "_rev": "1-A"
+}

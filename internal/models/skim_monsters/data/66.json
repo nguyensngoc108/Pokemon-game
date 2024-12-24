@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "machop_gen_5",
+      "resource_uri": "/api/v1/description/1077/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "steadfast",
+      "resource_uri": "/api/v1/ability/80/"
+    },
+    {
+      "name": "no-guard",
+      "resource_uri": "/api/v1/ability/99/"
+    }
+  ],
+  "attack": 80,
+  "defense": 50,
+  "speed": 35,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "hp": 70,
+  "weight": "195",
+  "height": "8",
+  "national_id": 66,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00066",
+  "name": "Machop"
+}

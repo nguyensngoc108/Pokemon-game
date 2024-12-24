@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "shadow-ball",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 20% chance to lower the target's Special Defense by one stage.",
+  "name": "Shadow-ball",
+  "_id": "00247",
+  "_rev": "1-A"
+}

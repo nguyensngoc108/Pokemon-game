@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "bonemerang",
+  "power": 50,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Hits twice in one turn.",
+  "name": "Bonemerang",
+  "_id": "00155",
+  "_rev": "1-A"
+}

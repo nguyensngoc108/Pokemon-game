@@ -1,0 +1,97 @@
+{
+    "monster": {
+        "name": "Smeargle",
+        "attack": 20,
+        "defense": 35,
+        "speed": 75,
+        "sp_atk": 20,
+        "sp_def": 45,
+        "hp": 55,
+        "weight": "580",
+        "height": "12",
+        "national_id": 235,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00235",
+        "abilities": [
+            "own-tempo",
+            "technician",
+            "moody"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "description": [
+        {
+            "description": "It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.",
+            "_id": "0003667",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": null,
+        "_id": "00235",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "ghost"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "ghost"
+                }
+            ],
+            "_id": "normal",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 5100,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 1,
+        "genderRatio": 50,
+        "species": "Painter Pokémon",
+        "japaneseName": "ドーブル",
+        "Guranburu": "",
+        "eggGroups": "Field",
+        "_id": "00235",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "normal",
+            "identifier": "sketch",
+            "power": "",
+            "pp": 1,
+            "accuracy": "",
+            "description": "Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.\n\nThis move cannot be copied by mimic or mirror-move, nor selected by assist or metronome, nor forced by encore.",
+            "name": "Sketch",
+            "_id": "00166",
+            "_rev": "1-A"
+        }
+    ]
+}

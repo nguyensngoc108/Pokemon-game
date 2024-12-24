@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "mud-shot",
+  "power": 55,
+  "pp": 15,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+  "name": "Mud-shot",
+  "_id": "00341",
+  "_rev": "1-A"
+}

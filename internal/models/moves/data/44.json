@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "bite",
+  "power": 60,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Bite",
+  "_id": "00044",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "steel-wing",
+  "power": 70,
+  "pp": 25,
+  "accuracy": 90,
+  "description": "Inflicts regular damage. Has a 10% chance to raise the user's Defense one stage.",
+  "name": "Steel-wing",
+  "_id": "00211",
+  "_rev": "1-A"
+}

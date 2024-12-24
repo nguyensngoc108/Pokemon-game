@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "vanillite_gen_5",
+      "resource_uri": "/api/v1/description/6209/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "ice-body",
+      "resource_uri": "/api/v1/ability/115/"
+    },
+    {
+      "name": "weak-armor",
+      "resource_uri": "/api/v1/ability/133/"
+    }
+  ],
+  "attack": 50,
+  "defense": 50,
+  "speed": 44,
+  "sp_atk": 65,
+  "sp_def": 60,
+  "hp": 36,
+  "weight": "57",
+  "height": "4",
+  "national_id": 582,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00582",
+  "name": "Vanillite"
+}

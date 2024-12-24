@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "simisage_gen_5",
+      "resource_uri": "/api/v1/description/5930/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    }
+  ],
+  "attack": 98,
+  "defense": 63,
+  "speed": 101,
+  "sp_atk": 98,
+  "sp_def": 63,
+  "hp": 75,
+  "weight": "305",
+  "height": "11",
+  "national_id": 512,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00512",
+  "name": "Simisage"
+}

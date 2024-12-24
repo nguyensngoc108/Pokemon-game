@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "remoraid_gen_5",
+      "resource_uri": "/api/v1/description/3497/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "sniper",
+      "resource_uri": "/api/v1/ability/97/"
+    },
+    {
+      "name": "moody",
+      "resource_uri": "/api/v1/ability/141/"
+    }
+  ],
+  "attack": 65,
+  "defense": 35,
+  "speed": 65,
+  "sp_atk": 65,
+  "sp_def": 35,
+  "hp": 35,
+  "weight": "120",
+  "height": "6",
+  "national_id": 223,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00223",
+  "name": "Remoraid"
+}

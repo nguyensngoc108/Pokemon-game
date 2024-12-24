@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "counter",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Targets the last opposing Pokémon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+  "name": "Counter",
+  "_id": "00068",
+  "_rev": "1-A"
+}

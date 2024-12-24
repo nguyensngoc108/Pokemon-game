@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 625,
+      "name": "Bisharp",
+      "method": "level_up",
+      "level": 52
+    }
+  ],
+  "_id": "00624",
+  "_rev": "1-A"
+}

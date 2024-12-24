@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 2550,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Poison Stab Pokémon",
+  "japaneseName": "グレッグル",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00453",
+  "_rev": "1-A"
+}

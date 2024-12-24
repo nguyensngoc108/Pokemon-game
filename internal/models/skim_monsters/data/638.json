@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "cobalion_gen_5",
+      "resource_uri": "/api/v1/description/6439/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "resource_uri": "/api/v1/ability/154/"
+    }
+  ],
+  "attack": 90,
+  "defense": 129,
+  "speed": 108,
+  "sp_atk": 90,
+  "sp_def": 72,
+  "hp": 91,
+  "weight": "2500",
+  "height": "21",
+  "national_id": 638,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00638",
+  "name": "Cobalion"
+}

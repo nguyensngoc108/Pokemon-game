@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "aerodactyl_gen_5",
+      "resource_uri": "/api/v1/description/2336/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 105,
+  "defense": 65,
+  "speed": 130,
+  "sp_atk": 60,
+  "sp_def": 75,
+  "hp": 80,
+  "weight": "590",
+  "height": "18",
+  "national_id": 142,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00142",
+  "name": "Aerodactyl"
+}

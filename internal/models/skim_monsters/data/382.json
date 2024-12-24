@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "kyogre_gen_5",
+      "resource_uri": "/api/v1/description/5123/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "drizzle",
+      "resource_uri": "/api/v1/ability/2/"
+    }
+  ],
+  "attack": 100,
+  "defense": 90,
+  "speed": 90,
+  "sp_atk": 150,
+  "sp_def": 140,
+  "hp": 100,
+  "weight": "3520",
+  "height": "45",
+  "national_id": 382,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00382",
+  "name": "Kyogre"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "worry-seed",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Changes the target's ability to insomnia.\n\nIf the target's ability is truant or multitype, this move will fail.",
+  "name": "Worry-seed",
+  "_id": "00388",
+  "_rev": "1-A"
+}

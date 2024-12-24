@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "rufflet_gen_5",
+      "resource_uri": "/api/v1/description/6393/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 83,
+  "defense": 50,
+  "speed": 60,
+  "sp_atk": 37,
+  "sp_def": 50,
+  "hp": 70,
+  "weight": "105",
+  "height": "5",
+  "national_id": 627,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00627",
+  "name": "Rufflet"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "natu_gen_5",
+      "resource_uri": "/api/v1/description/2829/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "magic-bounce",
+      "resource_uri": "/api/v1/ability/156/"
+    }
+  ],
+  "attack": 50,
+  "defense": 45,
+  "speed": 70,
+  "sp_atk": 70,
+  "sp_def": 45,
+  "hp": 40,
+  "weight": "20",
+  "height": "2",
+  "national_id": 177,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00177",
+  "name": "Natu"
+}

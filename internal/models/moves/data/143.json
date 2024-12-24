@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "sky-attack",
+  "power": 140,
+  "pp": 5,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance-chance is one level higher than normal.  Has a 30% chance to make the target flinch.\n\nThis move cannot be selected by sleep-talk.",
+  "name": "Sky-attack",
+  "_id": "00143",
+  "_rev": "1-A"
+}

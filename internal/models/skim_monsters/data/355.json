@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "duskull_gen_5",
+      "resource_uri": "/api/v1/description/4876/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ghost",
+      "resource_uri": "/api/v1/type/8/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 40,
+  "defense": 90,
+  "speed": 25,
+  "sp_atk": 30,
+  "sp_def": 90,
+  "hp": 20,
+  "weight": "150",
+  "height": "8",
+  "national_id": 355,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00355",
+  "name": "Duskull"
+}

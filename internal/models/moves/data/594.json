@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "water-shuriken",
+  "power": 15,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "",
+  "name": "Petal-blizzard",
+  "_id": "00594",
+  "_rev": "1-A"
+}

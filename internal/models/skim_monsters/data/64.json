@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "kadabra_gen_5",
+      "resource_uri": "/api/v1/description/1039/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "magic-guard",
+      "resource_uri": "/api/v1/ability/98/"
+    }
+  ],
+  "attack": 35,
+  "defense": 30,
+  "speed": 105,
+  "sp_atk": 120,
+  "sp_def": 70,
+  "hp": 40,
+  "weight": "565",
+  "height": "13",
+  "national_id": 64,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00064",
+  "name": "Kadabra"
+}

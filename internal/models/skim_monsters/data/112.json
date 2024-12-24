@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "rhydon_gen_5",
+      "resource_uri": "/api/v1/description/1838/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    }
+  ],
+  "attack": 130,
+  "defense": 120,
+  "speed": 40,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "hp": 105,
+  "weight": "1200",
+  "height": "19",
+  "national_id": 112,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00112",
+  "name": "Rhydon"
+}

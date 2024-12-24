@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "cubone_gen_5",
+      "resource_uri": "/api/v1/description/1710/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "resource_uri": "/api/v1/ability/4/"
+    },
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    }
+  ],
+  "attack": 50,
+  "defense": 95,
+  "speed": 35,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "hp": 50,
+  "weight": "65",
+  "height": "4",
+  "national_id": 104,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00104",
+  "name": "Cubone"
+}

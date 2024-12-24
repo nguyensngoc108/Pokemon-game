@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "totodile_gen_5",
+      "resource_uri": "/api/v1/description/2559/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 65,
+  "defense": 64,
+  "speed": 43,
+  "sp_atk": 44,
+  "sp_def": 48,
+  "hp": 50,
+  "weight": "95",
+  "height": "6",
+  "national_id": 158,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00158",
+  "name": "Totodile"
+}

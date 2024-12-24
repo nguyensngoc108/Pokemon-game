@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "night-shade",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
+  "name": "Night-shade",
+  "_id": "00101",
+  "_rev": "1-A"
+}

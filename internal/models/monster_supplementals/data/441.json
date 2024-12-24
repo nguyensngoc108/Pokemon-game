@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Music Note Pokémon",
+  "japaneseName": "ペラップ",
+  "Guranburu": "",
+  "eggGroups": "Flying",
+  "_id": "00441",
+  "_rev": "1-A"
+}

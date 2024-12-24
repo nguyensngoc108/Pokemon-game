@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "ursaring_gen_5",
+      "resource_uri": "/api/v1/description/3408/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "quick-feet",
+      "resource_uri": "/api/v1/ability/95/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 130,
+  "defense": 75,
+  "speed": 55,
+  "sp_atk": 75,
+  "sp_def": 75,
+  "hp": 90,
+  "weight": "1258",
+  "height": "18",
+  "national_id": 217,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00217",
+  "name": "Ursaring"
+}

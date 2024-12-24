@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "horsea_gen_5",
+      "resource_uri": "/api/v1/description/1905/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "sniper",
+      "resource_uri": "/api/v1/ability/97/"
+    }
+  ],
+  "attack": 40,
+  "defense": 70,
+  "speed": 60,
+  "sp_atk": 70,
+  "sp_def": 25,
+  "hp": 30,
+  "weight": "80",
+  "height": "4",
+  "national_id": 116,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00116",
+  "name": "Horsea"
+}

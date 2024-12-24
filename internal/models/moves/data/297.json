@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "feather-dance",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Lowers the target's Attack by two stages.",
+  "name": "Featherdance",
+  "_id": "00297",
+  "_rev": "1-A"
+}

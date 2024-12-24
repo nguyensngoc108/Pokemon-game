@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "cotton-guard",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Raises the user's Defense by three stages.",
+  "name": "Cotton-guard",
+  "_id": "00538",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "pursuit",
+  "power": 40,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target attempts to switch out this turn before the user acts, this move hits the target before it leaves and has double power.\n\nThis effect can still hit a Pokémon that switches out when it has a substitute up or when an ally has used follow-me.",
+  "name": "Pursuit",
+  "_id": "00228",
+  "_rev": "1-A"
+}

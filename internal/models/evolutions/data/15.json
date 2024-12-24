@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 14,
+      "name": "Kakuna",
+      "method": "level_up",
+      "level": 10
+    }
+  ],
+  "to": null,
+  "_id": "00015",
+  "_rev": "1-A"
+}

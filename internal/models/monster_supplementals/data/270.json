@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Floating Weed Pokémon",
+  "japaneseName": "ハスボー",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Grass",
+  "_id": "00270",
+  "_rev": "1-A"
+}

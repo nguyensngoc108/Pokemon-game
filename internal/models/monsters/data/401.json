@@ -1,0 +1,231 @@
+{
+    "monster": {
+        "name": "Kricketot",
+        "attack": 25,
+        "defense": 41,
+        "speed": 25,
+        "sp_atk": 25,
+        "sp_def": 41,
+        "hp": 37,
+        "weight": "22",
+        "height": "3",
+        "national_id": 401,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00401",
+        "abilities": [
+            "run-away",
+            "shed-skin"
+        ],
+        "types": [
+            "bug"
+        ]
+    },
+    "description": [
+        {
+            "description": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "_id": "0005256",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 402,
+                "name": "Kricketune",
+                "method": "level_up",
+                "level": 10
+            }
+        ],
+        "_id": "00401",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "fairy"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dark"
+                }
+            ],
+            "_id": "bug",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 3825,
+        "defenseEV": 1,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 0,
+        "genderRatio": 50,
+        "species": "Cricket Pokémon",
+        "japaneseName": "コロボーシ",
+        "Guranburu": "",
+        "eggGroups": "Bug",
+        "_id": "00401",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "bug",
+            "identifier": "struggle-bug",
+            "power": 50,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+            "name": "Struggle-bug",
+            "_id": "00522",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "string-shot",
+            "power": "",
+            "pp": 40,
+            "accuracy": 95,
+            "description": "Lowers the target's Speed by one stage.",
+            "name": "String-shot",
+            "_id": "00081",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "bug-bite",
+            "power": 60,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca-berry or rowap-berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+            "name": "Bug-bite",
+            "_id": "00450",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "endeavor",
+            "power": "",
+            "pp": 5,
+            "accuracy": 100,
+            "description": "Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage.",
+            "name": "Endeavor",
+            "_id": "00283",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "uproar",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  User is forced to use this move for 2–5 turns, selected at random.  All Pokémon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPokémon cannot use rest during this effect.\n\nThis move cannot be selected by sleep-talk.",
+            "name": "Uproar",
+            "_id": "00253",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ground",
+            "identifier": "mud-slap",
+            "power": 20,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.",
+            "name": "Mud-slap",
+            "_id": "00189",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "snore",
+            "power": 50,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Snore",
+            "_id": "00173",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "bide",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is typeless.\n\nThis move cannot be selected by sleep-talk.",
+            "name": "Bide",
+            "_id": "00117",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "growl",
+            "power": "",
+            "pp": 40,
+            "accuracy": 100,
+            "description": "Lowers the target's Attack by one stage.",
+            "name": "Growl",
+            "_id": "00045",
+            "_rev": "1-A"
+        }
+    ]
+}

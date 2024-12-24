@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "poison-fang",
+  "power": 50,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to badly poison the target.",
+  "name": "Poison-fang",
+  "_id": "00305",
+  "_rev": "1-A"
+}

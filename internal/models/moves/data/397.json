@@ -1,0 +1,11 @@
+{
+  "type_name": "rock",
+  "identifier": "rock-polish",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Speed by two stages.",
+  "name": "Rock-polish",
+  "_id": "00397",
+  "_rev": "1-A"
+}

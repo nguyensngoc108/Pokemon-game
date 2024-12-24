@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "cherubi_gen_5",
+      "resource_uri": "/api/v1/description/5389/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    }
+  ],
+  "attack": 35,
+  "defense": 45,
+  "speed": 35,
+  "sp_atk": 62,
+  "sp_def": 53,
+  "hp": 45,
+  "weight": "33",
+  "height": "4",
+  "national_id": 420,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00420",
+  "name": "Cherubi"
+}

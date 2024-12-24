@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "last-resort",
+  "power": 140,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail.",
+  "name": "Last-resort",
+  "_id": "00387",
+  "_rev": "1-A"
+}

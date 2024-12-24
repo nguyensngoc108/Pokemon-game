@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "aromatherapy",
+  "power": "",
+  "pp": 5,
+  "accuracy": "",
+  "description": "Removes major status effects-effects and confusion from every Pokémon in the user's party.",
+  "name": "Aromatherapy",
+  "_id": "00312",
+  "_rev": "1-A"
+}

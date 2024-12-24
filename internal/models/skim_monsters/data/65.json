@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "alakazam_gen_5",
+      "resource_uri": "/api/v1/description/1058/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "magic-guard",
+      "resource_uri": "/api/v1/ability/98/"
+    }
+  ],
+  "attack": 50,
+  "defense": 45,
+  "speed": 120,
+  "sp_atk": 135,
+  "sp_def": 95,
+  "hp": 55,
+  "weight": "480",
+  "height": "15",
+  "national_id": 65,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00065",
+  "name": "Alakazam"
+}

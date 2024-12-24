@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 424,
+      "name": "Ambipom",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "_id": "00190",
+  "_rev": "1-A"
+}

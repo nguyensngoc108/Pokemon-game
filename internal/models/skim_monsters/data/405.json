@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "luxray_gen_5",
+      "resource_uri": "/api/v1/description/5281/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "rivalry",
+      "resource_uri": "/api/v1/ability/79/"
+    }
+  ],
+  "attack": 120,
+  "defense": 79,
+  "speed": 70,
+  "sp_atk": 95,
+  "sp_def": 79,
+  "hp": 80,
+  "weight": "420",
+  "height": "14",
+  "national_id": 405,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00405",
+  "name": "Luxray"
+}

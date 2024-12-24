@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 2,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Float Whale Pokémon",
+  "japaneseName": "ホエルオー",
+  "Guranburu": "",
+  "eggGroups": "Field, Water 2",
+  "_id": "00321",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "double-kick",
+  "power": 30,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Hits twice in one turn.",
+  "name": "Double-kick",
+  "_id": "00024",
+  "_rev": "1-A"
+}

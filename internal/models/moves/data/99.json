@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "rage",
+  "power": 20,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage.",
+  "name": "Rage",
+  "_id": "00099",
+  "_rev": "1-A"
+}

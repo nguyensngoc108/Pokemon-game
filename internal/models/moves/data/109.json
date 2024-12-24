@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "confuse-ray",
+  "power": "",
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Confuse the target.",
+  "name": "Confuse-ray",
+  "_id": "00109",
+  "_rev": "1-A"
+}

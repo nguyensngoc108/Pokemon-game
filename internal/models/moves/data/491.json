@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "acid-spray",
+  "power": 40,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Lowers the target's Special Defense by two stages.",
+  "name": "Acid-spray",
+  "_id": "00491",
+  "_rev": "1-A"
+}

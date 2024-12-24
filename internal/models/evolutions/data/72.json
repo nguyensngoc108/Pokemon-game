@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 73,
+      "name": "Tentacruel",
+      "method": "level_up",
+      "level": 30
+    }
+  ],
+  "_id": "00072",
+  "_rev": "1-A"
+}

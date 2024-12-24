@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "screech",
+  "power": "",
+  "pp": 40,
+  "accuracy": 85,
+  "description": "Lowers the target's Defense by two stages.",
+  "name": "Screech",
+  "_id": "00103",
+  "_rev": "1-A"
+}

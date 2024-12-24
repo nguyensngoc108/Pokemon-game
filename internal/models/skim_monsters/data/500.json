@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "emboar_gen_5",
+      "resource_uri": "/api/v1/description/5882/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "resource_uri": "/api/v1/ability/66/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    }
+  ],
+  "attack": 123,
+  "defense": 65,
+  "speed": 65,
+  "sp_atk": 100,
+  "sp_def": 65,
+  "hp": 110,
+  "weight": "1500",
+  "height": "16",
+  "national_id": 500,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00500",
+  "name": "Emboar"
+}

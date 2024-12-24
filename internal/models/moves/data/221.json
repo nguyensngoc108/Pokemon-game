@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "sacred-fire",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 50% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw.",
+  "name": "Sacred-fire",
+  "_id": "00221",
+  "_rev": "1-A"
+}

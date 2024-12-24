@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "carnivine_gen_5",
+      "resource_uri": "/api/v1/description/5637/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 100,
+  "defense": 72,
+  "speed": 46,
+  "sp_atk": 90,
+  "sp_def": 72,
+  "hp": 74,
+  "weight": "270",
+  "height": "14",
+  "national_id": 455,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00455",
+  "name": "Carnivine"
+}

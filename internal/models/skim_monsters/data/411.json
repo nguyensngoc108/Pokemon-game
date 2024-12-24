@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "bastiodon_gen_5",
+      "resource_uri": "/api/v1/description/5321/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    }
+  ],
+  "attack": 52,
+  "defense": 168,
+  "speed": 30,
+  "sp_atk": 47,
+  "sp_def": 138,
+  "hp": 60,
+  "weight": "1495",
+  "height": "13",
+  "national_id": 411,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00411",
+  "name": "Bastiodon"
+}

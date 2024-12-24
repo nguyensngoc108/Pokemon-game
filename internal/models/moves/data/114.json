@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "haze",
+  "power": "",
+  "pp": 30,
+  "accuracy": "",
+  "description": "Removes stat, accuracy, and evasion modifiers from every Pokémon on the field.\n\nThis does not count as a stat reduction for the purposes of clear-body or white-smoke.",
+  "name": "Haze",
+  "_id": "00114",
+  "_rev": "1-A"
+}

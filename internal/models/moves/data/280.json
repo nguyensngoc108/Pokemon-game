@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "brick-break",
+  "power": 75,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Destroys any light-screen or reflect on the target's side of the field, then inflicts regular damage.  The barriers are destroyed even if this move has no effect.",
+  "name": "Brick-break",
+  "_id": "00280",
+  "_rev": "1-A"
+}

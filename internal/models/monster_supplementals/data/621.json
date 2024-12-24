@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 7650,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Cave Pokémon",
+  "japaneseName": "クリムガン",
+  "Guranburu": "",
+  "eggGroups": "Dragon, Monster",
+  "_id": "00621",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "acid-armor",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Defense by two stages.",
+  "name": "Acid-armor",
+  "_id": "00151",
+  "_rev": "1-A"
+}

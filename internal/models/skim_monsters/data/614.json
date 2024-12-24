@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "beartic_gen_5",
+      "resource_uri": "/api/v1/description/6335/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "snow-cloak",
+      "resource_uri": "/api/v1/ability/81/"
+    }
+  ],
+  "attack": 110,
+  "defense": 80,
+  "speed": 50,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "hp": 95,
+  "weight": "2600",
+  "height": "26",
+  "national_id": 614,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00614",
+  "name": "Beartic"
+}

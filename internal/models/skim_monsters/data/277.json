@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "swellow_gen_5",
+      "resource_uri": "/api/v1/description/4114/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    }
+  ],
+  "attack": 85,
+  "defense": 60,
+  "speed": 125,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 60,
+  "weight": "198",
+  "height": "7",
+  "national_id": 277,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00277",
+  "name": "Swellow"
+}

@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 523,
+      "name": "Zebstrika",
+      "method": "level_up",
+      "level": 27
+    }
+  ],
+  "_id": "00522",
+  "_rev": "1-A"
+}

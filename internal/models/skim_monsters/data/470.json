@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "leafeon_gen_5",
+      "resource_uri": "/api/v1/description/5730/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    }
+  ],
+  "attack": 110,
+  "defense": 130,
+  "speed": 95,
+  "sp_atk": 60,
+  "sp_def": 65,
+  "hp": 65,
+  "weight": "255",
+  "height": "10",
+  "national_id": 470,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00470",
+  "name": "Leafeon"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "servine_gen_5",
+      "resource_uri": "/api/v1/description/5870/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "contrary",
+      "resource_uri": "/api/v1/ability/126/"
+    }
+  ],
+  "attack": 60,
+  "defense": 75,
+  "speed": 83,
+  "sp_atk": 60,
+  "sp_def": 75,
+  "hp": 60,
+  "weight": "160",
+  "height": "8",
+  "national_id": 496,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00496",
+  "name": "Servine"
+}

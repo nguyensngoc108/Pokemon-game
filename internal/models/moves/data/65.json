@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "drill-peck",
+  "power": 80,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Drill-peck",
+  "_id": "00065",
+  "_rev": "1-A"
+}

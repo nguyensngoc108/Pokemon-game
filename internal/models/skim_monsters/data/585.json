@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "deerling_gen_5",
+      "resource_uri": "/api/v1/description/6220/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "resource_uri": "/api/v1/ability/32/"
+    },
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "sap-sipper",
+      "resource_uri": "/api/v1/ability/157/"
+    }
+  ],
+  "attack": 60,
+  "defense": 50,
+  "speed": 75,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "hp": 60,
+  "weight": "195",
+  "height": "6",
+  "national_id": 585,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00585",
+  "name": "Deerling"
+}

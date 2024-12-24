@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "flame-charge",
+  "power": 50,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Raises the user's Speed by one stage.",
+  "name": "Flame-charge",
+  "_id": "00488",
+  "_rev": "1-A"
+}

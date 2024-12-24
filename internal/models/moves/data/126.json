@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "fire-blast",
+  "power": 110,
+  "pp": 5,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+  "name": "Fire-blast",
+  "_id": "00126",
+  "_rev": "1-A"
+}

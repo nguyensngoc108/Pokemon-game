@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "serperior_gen_5",
+      "resource_uri": "/api/v1/description/5873/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "contrary",
+      "resource_uri": "/api/v1/ability/126/"
+    }
+  ],
+  "attack": 75,
+  "defense": 95,
+  "speed": 113,
+  "sp_atk": 75,
+  "sp_def": 95,
+  "hp": 75,
+  "weight": "630",
+  "height": "33",
+  "national_id": 497,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00497",
+  "name": "Serperior"
+}

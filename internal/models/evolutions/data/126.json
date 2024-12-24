@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 240,
+      "name": "Magby",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 467,
+      "name": "Magmortar",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00126",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 3,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Shadow Pokémon",
+  "japaneseName": "ゲンガー",
+  "Guranburu": "",
+  "eggGroups": "Amorphous",
+  "_id": "00094",
+  "_rev": "1-A"
+}

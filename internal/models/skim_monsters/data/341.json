@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "corphish_gen_5",
+      "resource_uri": "/api/v1/description/4746/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "resource_uri": "/api/v1/ability/52/"
+    },
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    },
+    {
+      "name": "adaptability",
+      "resource_uri": "/api/v1/ability/91/"
+    }
+  ],
+  "attack": 80,
+  "defense": 65,
+  "speed": 35,
+  "sp_atk": 50,
+  "sp_def": 35,
+  "hp": 43,
+  "weight": "115",
+  "height": "6",
+  "national_id": 341,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00341",
+  "name": "Corphish"
+}

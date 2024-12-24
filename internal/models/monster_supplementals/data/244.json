@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 20400,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": "N/A",
+  "species": "Volcano Pokémon",
+  "japaneseName": "エンテイ",
+  "Guranburu": "",
+  "eggGroups": "No Eggs",
+  "_id": "00244",
+  "_rev": "1-A"
+}

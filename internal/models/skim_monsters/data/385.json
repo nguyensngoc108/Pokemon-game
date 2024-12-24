@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "jirachi_gen_5",
+      "resource_uri": "/api/v1/description/5147/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "resource_uri": "/api/v1/ability/32/"
+    }
+  ],
+  "attack": 100,
+  "defense": 100,
+  "speed": 100,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "hp": 100,
+  "weight": "11",
+  "height": "3",
+  "national_id": 385,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00385",
+  "name": "Jirachi"
+}

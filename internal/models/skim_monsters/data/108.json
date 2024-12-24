@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "lickitung_gen_5",
+      "resource_uri": "/api/v1/description/1772/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "cloud-nine",
+      "resource_uri": "/api/v1/ability/13/"
+    },
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    }
+  ],
+  "attack": 55,
+  "defense": 75,
+  "speed": 30,
+  "sp_atk": 60,
+  "sp_def": 75,
+  "hp": 90,
+  "weight": "655",
+  "height": "12",
+  "national_id": 108,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00108",
+  "name": "Lickitung"
+}

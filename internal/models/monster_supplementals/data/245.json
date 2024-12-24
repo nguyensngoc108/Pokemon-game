@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 20400,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": "N/A",
+  "species": "Aurora Pokémon",
+  "japaneseName": "スイクン",
+  "Guranburu": "",
+  "eggGroups": "No Eggs",
+  "_id": "00245",
+  "_rev": "1-A"
+}

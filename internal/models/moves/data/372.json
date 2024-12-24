@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "assurance",
+  "power": 60,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power.",
+  "name": "Assurance",
+  "_id": "00372",
+  "_rev": "1-A"
+}

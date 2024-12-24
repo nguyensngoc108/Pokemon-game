@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "zekrom_gen_5",
+      "resource_uri": "/api/v1/description/6457/"
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "teravolt",
+      "resource_uri": "/api/v1/ability/164/"
+    }
+  ],
+  "attack": 150,
+  "defense": 120,
+  "speed": 90,
+  "sp_atk": 120,
+  "sp_def": 100,
+  "hp": 100,
+  "weight": "3450",
+  "height": "29",
+  "national_id": 644,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00644",
+  "name": "Zekrom"
+}

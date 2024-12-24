@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "floatzel_gen_5",
+      "resource_uri": "/api/v1/description/5381/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "water-veil",
+      "resource_uri": "/api/v1/ability/41/"
+    }
+  ],
+  "attack": 105,
+  "defense": 55,
+  "speed": 115,
+  "sp_atk": 85,
+  "sp_def": 50,
+  "hp": 85,
+  "weight": "335",
+  "height": "11",
+  "national_id": 419,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00419",
+  "name": "Floatzel"
+}

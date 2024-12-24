@@ -1,0 +1,68 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 0.5,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 2,
+      "name": "flying"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "ground"
+    },
+    {
+      "multiplier": 2,
+      "name": "rock"
+    },
+    {
+      "multiplier": 2,
+      "name": "fire"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "grass"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "poison"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "flying"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "ghost"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "fairy"
+    },
+    {
+      "multiplier": 2,
+      "name": "grass"
+    },
+    {
+      "multiplier": 2,
+      "name": "psychic"
+    },
+    {
+      "multiplier": 2,
+      "name": "dark"
+    }
+  ],
+  "_id": "bug",
+  "_rev": "1-A"
+}

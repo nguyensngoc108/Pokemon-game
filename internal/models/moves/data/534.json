@@ -1,0 +1,11 @@
+{
+  "type_name": "water",
+  "identifier": "razor-shell",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+  "name": "Razor-shell",
+  "_id": "00534",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "psycho-boost",
+  "power": 140,
+  "pp": 5,
+  "accuracy": 90,
+  "description": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+  "name": "Psycho-boost",
+  "_id": "00354",
+  "_rev": "1-A"
+}

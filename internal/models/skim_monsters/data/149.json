@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "dragonite_gen_5",
+      "resource_uri": "/api/v1/description/2444/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "multiscale",
+      "resource_uri": "/api/v1/ability/136/"
+    }
+  ],
+  "attack": 134,
+  "defense": 95,
+  "speed": 80,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "hp": 91,
+  "weight": "2100",
+  "height": "22",
+  "national_id": 149,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00149",
+  "name": "Dragonite"
+}

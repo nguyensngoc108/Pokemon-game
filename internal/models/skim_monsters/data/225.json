@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "delibird_gen_5",
+      "resource_uri": "/api/v1/description/3527/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "resource_uri": "/api/v1/ability/15/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    }
+  ],
+  "attack": 55,
+  "defense": 45,
+  "speed": 75,
+  "sp_atk": 65,
+  "sp_def": 45,
+  "hp": 45,
+  "weight": "160",
+  "height": "9",
+  "national_id": 225,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00225",
+  "name": "Delibird"
+}

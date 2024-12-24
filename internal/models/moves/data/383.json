@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "copycat",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Uses the last move that was used successfully by any Pokémon, including the user.\n\nThis move cannot copy itself, nor roar nor whirlwind.\n\nThis move cannot be copied by mirror-move, nor selected by assist, metronome, or sleep-talk.",
+  "name": "Copycat",
+  "_id": "00383",
+  "_rev": "1-A"
+}

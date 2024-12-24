@@ -1,0 +1,11 @@
+{
+  "type_name": "steel",
+  "identifier": "metal-claw",
+  "power": 50,
+  "pp": 35,
+  "accuracy": 95,
+  "description": "Inflicts regular damage. Has a 10% chance to raise the user's Attack one stage.",
+  "name": "Metal-claw",
+  "_id": "00232",
+  "_rev": "1-A"
+}

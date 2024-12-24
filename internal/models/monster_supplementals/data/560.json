@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Scoundrel Pokémon",
+  "japaneseName": "ズルズキン",
+  "Guranburu": "",
+  "eggGroups": "Field, Dragon",
+  "_id": "00560",
+  "_rev": "1-A"
+}

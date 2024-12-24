@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "honchkrow_gen_5",
+      "resource_uri": "/api/v1/description/5454/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "resource_uri": "/api/v1/ability/15/"
+    },
+    {
+      "name": "super-luck",
+      "resource_uri": "/api/v1/ability/105/"
+    },
+    {
+      "name": "moxie",
+      "resource_uri": "/api/v1/ability/153/"
+    }
+  ],
+  "attack": 125,
+  "defense": 52,
+  "speed": 71,
+  "sp_atk": 105,
+  "sp_def": 52,
+  "hp": 100,
+  "weight": "273",
+  "height": "9",
+  "national_id": 430,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00430",
+  "name": "Honchkrow"
+}

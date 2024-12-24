@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 3,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Shell Pokémon",
+  "japaneseName": "カメックス",
+  "Guranburu": "",
+  "eggGroups": "Monster, Water 1",
+  "_id": "00009",
+  "_rev": "1-A"
+}

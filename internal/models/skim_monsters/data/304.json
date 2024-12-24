@@ -1,0 +1,49 @@
+{
+  "descriptions": [
+    {
+      "name": "aron_gen_5",
+      "resource_uri": "/api/v1/description/4379/"
+    },
+    {
+      "name": "volcarona_gen_5",
+      "resource_uri": "/api/v1/description/6436/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "heavy-metal",
+      "resource_uri": "/api/v1/ability/134/"
+    }
+  ],
+  "attack": 70,
+  "defense": 100,
+  "speed": 30,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "hp": 50,
+  "weight": "600",
+  "height": "4",
+  "national_id": 304,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00304",
+  "name": "Aron"
+}

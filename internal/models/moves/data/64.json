@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "peck",
+  "power": 35,
+  "pp": 35,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Peck",
+  "_id": "00064",
+  "_rev": "1-A"
+}

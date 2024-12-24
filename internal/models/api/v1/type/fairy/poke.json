@@ -1,0 +1,60 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 0.5,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 2,
+      "name": "poison"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "bug"
+    },
+    {
+      "multiplier": 2,
+      "name": "steel"
+    },
+    {
+      "multiplier": 0,
+      "name": "dragon"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "dark"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "fire"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "poison"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 0,
+      "name": "dragon"
+    },
+    {
+      "multiplier": 2,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 2,
+      "name": "dragon"
+    },
+    {
+      "multiplier": 2,
+      "name": "dark"
+    }
+  ],
+  "_id": "fairy",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "whismur_gen_5",
+      "resource_uri": "/api/v1/description/4267/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    },
+    {
+      "name": "rattled",
+      "resource_uri": "/api/v1/ability/155/"
+    }
+  ],
+  "attack": 51,
+  "defense": 23,
+  "speed": 28,
+  "sp_atk": 51,
+  "sp_def": 23,
+  "hp": 64,
+  "weight": "163",
+  "height": "6",
+  "national_id": 293,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00293",
+  "name": "Whismur"
+}

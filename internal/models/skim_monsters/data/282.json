@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "gardevoir_gen_5",
+      "resource_uri": "/api/v1/description/4169/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fairy",
+      "resource_uri": "/api/v1/type/18/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "trace",
+      "resource_uri": "/api/v1/ability/36/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    }
+  ],
+  "attack": 65,
+  "defense": 65,
+  "speed": 80,
+  "sp_atk": 125,
+  "sp_def": 115,
+  "hp": 68,
+  "weight": "484",
+  "height": "16",
+  "national_id": 282,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00282",
+  "name": "Gardevoir"
+}

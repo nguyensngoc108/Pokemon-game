@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 24,
+      "name": "Arbok",
+      "method": "level_up",
+      "level": 22
+    }
+  ],
+  "_id": "00023",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "payback",
+  "power": 50,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power.",
+  "name": "Payback",
+  "_id": "00371",
+  "_rev": "1-A"
+}

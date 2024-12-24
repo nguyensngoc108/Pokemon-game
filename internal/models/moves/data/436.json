@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "lava-plume",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to burn the target.",
+  "name": "Lava-plume",
+  "_id": "00436",
+  "_rev": "1-A"
+}

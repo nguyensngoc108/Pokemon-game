@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "seed-bomb",
+  "power": 80,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Seed-bomb",
+  "_id": "00402",
+  "_rev": "1-A"
+}

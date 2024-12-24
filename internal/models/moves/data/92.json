@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "toxic",
+  "power": "",
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Badly poisons the target.  Never misses when used by a poison-type Pokémon.",
+  "name": "Toxic",
+  "_id": "00092",
+  "_rev": "1-A"
+}

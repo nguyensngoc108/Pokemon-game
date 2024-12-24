@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "natural-gift",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will fail.",
+  "name": "Natural-gift",
+  "_id": "00363",
+  "_rev": "1-A"
+}

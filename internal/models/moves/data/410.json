@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "vacuum-wave",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Vacuum-wave",
+  "_id": "00410",
+  "_rev": "1-A"
+}

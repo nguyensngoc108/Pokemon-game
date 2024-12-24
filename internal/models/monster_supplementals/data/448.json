@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Wave Pokémon",
+  "japaneseName": "ルカリオ",
+  "Guranburu": "",
+  "eggGroups": "Field, Human-Like",
+  "_id": "00448",
+  "_rev": "1-A"
+}

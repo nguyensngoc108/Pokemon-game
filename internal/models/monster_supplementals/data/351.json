@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Weather Pokémon",
+  "japaneseName": "ポワルン",
+  "Guranburu": "",
+  "eggGroups": "Fairy, Amorphous",
+  "_id": "00351",
+  "_rev": "1-A"
+}

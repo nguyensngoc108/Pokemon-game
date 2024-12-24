@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "zapdos_gen_5",
+      "resource_uri": "/api/v1/description/2384/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "electric",
+      "resource_uri": "/api/v1/type/13/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightningrod",
+      "resource_uri": "/api/v1/ability/31/"
+    },
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    }
+  ],
+  "attack": 90,
+  "defense": 85,
+  "speed": 100,
+  "sp_atk": 125,
+  "sp_def": 90,
+  "hp": 90,
+  "weight": "526",
+  "height": "16",
+  "national_id": 145,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00145",
+  "name": "Zapdos"
+}

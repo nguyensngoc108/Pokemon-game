@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "night-slash",
+  "power": 70,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Night-slash",
+  "_id": "00400",
+  "_rev": "1-A"
+}

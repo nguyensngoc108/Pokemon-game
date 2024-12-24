@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "glaceon_gen_5",
+      "resource_uri": "/api/v1/description/5736/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "snow-cloak",
+      "resource_uri": "/api/v1/ability/81/"
+    },
+    {
+      "name": "ice-body",
+      "resource_uri": "/api/v1/ability/115/"
+    }
+  ],
+  "attack": 60,
+  "defense": 110,
+  "speed": 65,
+  "sp_atk": 130,
+  "sp_def": 95,
+  "hp": 65,
+  "weight": "259",
+  "height": "8",
+  "national_id": 471,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00471",
+  "name": "Glaceon"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "stoutland_gen_5",
+      "resource_uri": "/api/v1/description/5912/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    },
+    {
+      "name": "sand-rush",
+      "resource_uri": "/api/v1/ability/146/"
+    }
+  ],
+  "attack": 110,
+  "defense": 90,
+  "speed": 80,
+  "sp_atk": 45,
+  "sp_def": 90,
+  "hp": 85,
+  "weight": "610",
+  "height": "12",
+  "national_id": 508,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00508",
+  "name": "Stoutland"
+}

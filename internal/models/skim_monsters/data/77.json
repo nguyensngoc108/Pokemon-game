@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "ponyta_gen_5",
+      "resource_uri": "/api/v1/description/1274/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "flame-body",
+      "resource_uri": "/api/v1/ability/49/"
+    },
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    }
+  ],
+  "attack": 85,
+  "defense": 55,
+  "speed": 90,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "hp": 50,
+  "weight": "300",
+  "height": "10",
+  "national_id": 77,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00077",
+  "name": "Ponyta"
+}

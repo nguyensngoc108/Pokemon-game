@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 7650,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Ancient Turtle Pokémon",
+  "japaneseName": "プロトーガ",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Water 3",
+  "_id": "00564",
+  "_rev": "1-A"
+}

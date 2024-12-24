@@ -1,0 +1,11 @@
+{
+  "type_name": "rock",
+  "identifier": "rock-throw",
+  "power": 50,
+  "pp": 15,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.",
+  "name": "Rock-throw",
+  "_id": "00088",
+  "_rev": "1-A"
+}

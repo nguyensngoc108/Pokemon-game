@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Painter Pokémon",
+  "japaneseName": "ドーブル",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00235",
+  "_rev": "1-A"
+}

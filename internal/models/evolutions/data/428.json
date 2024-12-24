@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 427,
+      "name": "Buneary",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00428",
+  "_rev": "1-A"
+}

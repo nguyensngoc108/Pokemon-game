@@ -1,0 +1,166 @@
+{
+    "monster": {
+        "name": "Tynamo",
+        "attack": 55,
+        "defense": 40,
+        "speed": 60,
+        "sp_atk": 45,
+        "sp_def": 40,
+        "hp": 35,
+        "weight": "3",
+        "height": "2",
+        "national_id": 602,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00602",
+        "abilities": [
+            "levitate"
+        ],
+        "types": [
+            "electric"
+        ]
+    },
+    "description": [
+        {
+            "description": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "_id": "0006287",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 603,
+                "name": "Eelektrik",
+                "method": "level_up",
+                "level": 39
+            }
+        ],
+        "_id": "00602",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "electric"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "electric"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "dragon"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "water"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "flying"
+                }
+            ],
+            "_id": "electric",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 5100,
+        "defenseEV": 0,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 1,
+        "genderRatio": 50,
+        "species": "Electric Fish Pokémon",
+        "japaneseName": "シビシラス",
+        "Guranburu": "",
+        "eggGroups": "Amorphous",
+        "_id": "00602",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "electric",
+            "identifier": "magnet-rise",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton-pass.",
+            "name": "Magnet-rise",
+            "_id": "00393",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "charge-beam",
+            "power": 50,
+            "pp": 10,
+            "accuracy": 90,
+            "description": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+            "name": "Charge-beam",
+            "_id": "00451",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "spark",
+            "power": 65,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+            "name": "Spark",
+            "_id": "00209",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "electric",
+            "identifier": "thunder-wave",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Paralyzes the target.",
+            "name": "Thunder-wave",
+            "_id": "00086",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "tackle",
+            "power": 50,
+            "pp": 35,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.",
+            "name": "Tackle",
+            "_id": "00033",
+            "_rev": "1-A"
+        }
+    ]
+}

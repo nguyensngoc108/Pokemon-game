@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 247,
+      "name": "Pupitar",
+      "method": "level_up",
+      "level": 30
+    }
+  ],
+  "_id": "00246",
+  "_rev": "1-A"
+}

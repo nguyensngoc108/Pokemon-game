@@ -1,0 +1,11 @@
+{
+  "type_name": "fairy",
+  "identifier": "baby-doll-eyes",
+  "power": "",
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move while in hyper mode.",
+  "name": "Shadow-rush",
+  "_id": "00608",
+  "_rev": "1-A"
+}

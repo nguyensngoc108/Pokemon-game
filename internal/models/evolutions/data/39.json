@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 174,
+      "name": "Igglybuff",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 40,
+      "name": "Wigglytuff",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00039",
+  "_rev": "1-A"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "sentret_gen_5",
+      "resource_uri": "/api/v1/description/2595/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "resource_uri": "/api/v1/ability/50/"
+    },
+    {
+      "name": "keen-eye",
+      "resource_uri": "/api/v1/ability/51/"
+    },
+    {
+      "name": "frisk",
+      "resource_uri": "/api/v1/ability/119/"
+    }
+  ],
+  "attack": 46,
+  "defense": 34,
+  "speed": 20,
+  "sp_atk": 35,
+  "sp_def": 45,
+  "hp": 35,
+  "weight": "60",
+  "height": "8",
+  "national_id": 161,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00161",
+  "name": "Sentret"
+}

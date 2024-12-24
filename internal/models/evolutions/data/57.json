@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 56,
+      "name": "Mankey",
+      "method": "level_up",
+      "level": 28
+    }
+  ],
+  "to": null,
+  "_id": "00057",
+  "_rev": "1-A"
+}

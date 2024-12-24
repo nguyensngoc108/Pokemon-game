@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "earthquake",
+  "power": 100,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power.",
+  "name": "Earthquake",
+  "_id": "00089",
+  "_rev": "1-A"
+}

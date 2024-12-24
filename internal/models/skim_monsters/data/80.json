@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "slowbro_gen_5",
+      "resource_uri": "/api/v1/description/1323/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "own-tempo",
+      "resource_uri": "/api/v1/ability/20/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 75,
+  "defense": 110,
+  "speed": 30,
+  "sp_atk": 100,
+  "sp_def": 80,
+  "hp": 95,
+  "weight": "785",
+  "height": "16",
+  "national_id": 80,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00080",
+  "name": "Slowbro"
+}

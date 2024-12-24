@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "dynamic-punch",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 50,
+  "description": "Inflicts regular damage.  Has a 100% chance to confuse the target.",
+  "name": "Dynamicpunch",
+  "_id": "00223",
+  "_rev": "1-A"
+}

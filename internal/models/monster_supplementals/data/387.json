@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "New Leaf Pokémon",
+  "japaneseName": "ナエトル",
+  "Guranburu": "",
+  "eggGroups": "Monster, Grass",
+  "_id": "00387",
+  "_rev": "1-A"
+}

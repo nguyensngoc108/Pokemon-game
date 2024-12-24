@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Water Strider Pokémon",
+  "japaneseName": "アメタマ",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Bug",
+  "_id": "00283",
+  "_rev": "1-A"
+}

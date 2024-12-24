@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "tirtouga_gen_5",
+      "resource_uri": "/api/v1/description/6134/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "swift-swim",
+      "resource_uri": "/api/v1/ability/33/"
+    },
+    {
+      "name": "solid-rock",
+      "resource_uri": "/api/v1/ability/116/"
+    }
+  ],
+  "attack": 78,
+  "defense": 103,
+  "speed": 22,
+  "sp_atk": 53,
+  "sp_def": 45,
+  "hp": 54,
+  "weight": "165",
+  "height": "7",
+  "national_id": 564,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00564",
+  "name": "Tirtouga"
+}

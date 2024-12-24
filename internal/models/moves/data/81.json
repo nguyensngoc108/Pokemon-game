@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "string-shot",
+  "power": "",
+  "pp": 40,
+  "accuracy": 95,
+  "description": "Lowers the target's Speed by one stage.",
+  "name": "String-shot",
+  "_id": "00081",
+  "_rev": "1-A"
+}

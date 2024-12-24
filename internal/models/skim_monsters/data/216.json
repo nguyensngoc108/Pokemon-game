@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "teddiursa_gen_5",
+      "resource_uri": "/api/v1/description/3394/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    },
+    {
+      "name": "quick-feet",
+      "resource_uri": "/api/v1/ability/95/"
+    },
+    {
+      "name": "honey-gather",
+      "resource_uri": "/api/v1/ability/118/"
+    }
+  ],
+  "attack": 80,
+  "defense": 50,
+  "speed": 40,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 60,
+  "weight": "88",
+  "height": "6",
+  "national_id": 216,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00216",
+  "name": "Teddiursa"
+}

@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 391,
+      "name": "Monferno",
+      "method": "level_up",
+      "level": 36
+    }
+  ],
+  "to": null,
+  "_id": "00392",
+  "_rev": "1-A"
+}

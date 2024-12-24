@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "duosion_gen_5",
+      "resource_uri": "/api/v1/description/6193/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "magic-guard",
+      "resource_uri": "/api/v1/ability/98/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 40,
+  "defense": 50,
+  "speed": 30,
+  "sp_atk": 125,
+  "sp_def": 60,
+  "hp": 65,
+  "weight": "80",
+  "height": "6",
+  "national_id": 578,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00578",
+  "name": "Duosion"
+}

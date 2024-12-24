@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "piplup_gen_5",
+      "resource_uri": "/api/v1/description/5198/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    },
+    {
+      "name": "defiant",
+      "resource_uri": "/api/v1/ability/128/"
+    }
+  ],
+  "attack": 51,
+  "defense": 53,
+  "speed": 40,
+  "sp_atk": 61,
+  "sp_def": 56,
+  "hp": 53,
+  "weight": "52",
+  "height": "4",
+  "national_id": 393,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00393",
+  "name": "Piplup"
+}

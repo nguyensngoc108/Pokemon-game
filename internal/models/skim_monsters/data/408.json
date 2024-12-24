@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "cranidos_gen_5",
+      "resource_uri": "/api/v1/description/5301/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mold-breaker",
+      "resource_uri": "/api/v1/ability/104/"
+    },
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    }
+  ],
+  "attack": 125,
+  "defense": 40,
+  "speed": 58,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "hp": 67,
+  "weight": "315",
+  "height": "9",
+  "national_id": 408,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00408",
+  "name": "Cranidos"
+}

@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 607,
+      "name": "Litwick",
+      "method": "level_up",
+      "level": 41
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 609,
+      "name": "Chandelure",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "_id": "00608",
+  "_rev": "1-A"
+}

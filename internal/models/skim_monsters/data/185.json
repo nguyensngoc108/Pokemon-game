@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "sudowoodo_gen_5",
+      "resource_uri": "/api/v1/description/2949/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "rattled",
+      "resource_uri": "/api/v1/ability/155/"
+    }
+  ],
+  "attack": 100,
+  "defense": 115,
+  "speed": 30,
+  "sp_atk": 30,
+  "sp_def": 65,
+  "hp": 70,
+  "weight": "380",
+  "height": "12",
+  "national_id": 185,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00185",
+  "name": "Sudowoodo"
+}

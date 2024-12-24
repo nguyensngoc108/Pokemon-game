@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "mega-punch",
+  "power": 80,
+  "pp": 20,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.",
+  "name": "Mega-punch",
+  "_id": "00005",
+  "_rev": "1-A"
+}

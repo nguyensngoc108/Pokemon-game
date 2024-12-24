@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "flareon_gen_5",
+      "resource_uri": "/api/v1/description/2243/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    }
+  ],
+  "attack": 130,
+  "defense": 60,
+  "speed": 65,
+  "sp_atk": 95,
+  "sp_def": 110,
+  "hp": 65,
+  "weight": "250",
+  "height": "9",
+  "national_id": 136,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00136",
+  "name": "Flareon"
+}

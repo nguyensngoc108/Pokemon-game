@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 111,
+      "name": "Rhyhorn",
+      "method": "level_up",
+      "level": 42
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 464,
+      "name": "Rhyperior",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "_id": "00112",
+  "_rev": "1-A"
+}

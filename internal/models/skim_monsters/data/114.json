@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "tangela_gen_5",
+      "resource_uri": "/api/v1/description/1872/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 55,
+  "defense": 115,
+  "speed": 60,
+  "sp_atk": 100,
+  "sp_def": 40,
+  "hp": 65,
+  "weight": "350",
+  "height": "10",
+  "national_id": 114,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00114",
+  "name": "Tangela"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Anglerfish Pokémon",
+  "japaneseName": "チョンチー",
+  "Guranburu": "",
+  "eggGroups": "Water 2",
+  "_id": "00170",
+  "_rev": "1-A"
+}

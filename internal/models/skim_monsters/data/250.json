@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "ho-oh_gen_5",
+      "resource_uri": "/api/v1/description/3864/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 130,
+  "defense": 90,
+  "speed": 90,
+  "sp_atk": 110,
+  "sp_def": 154,
+  "hp": 106,
+  "weight": "1990",
+  "height": "38",
+  "national_id": 250,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00250",
+  "name": "Ho-oh"
+}

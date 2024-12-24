@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "shadow-sneak",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Shadow-sneak",
+  "_id": "00425",
+  "_rev": "1-A"
+}

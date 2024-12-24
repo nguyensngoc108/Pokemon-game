@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "wartortle_gen_5",
+      "resource_uri": "/api/v1/description/125/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rain-dish",
+      "resource_uri": "/api/v1/ability/44/"
+    },
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    }
+  ],
+  "attack": 63,
+  "defense": 80,
+  "speed": 58,
+  "sp_atk": 65,
+  "sp_def": 80,
+  "hp": 59,
+  "weight": "225",
+  "height": "10",
+  "national_id": 8,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00008",
+  "name": "Wartortle"
+}

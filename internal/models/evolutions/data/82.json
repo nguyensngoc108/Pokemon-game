@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 81,
+      "name": "Magnemite",
+      "method": "level_up",
+      "level": 30
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 462,
+      "name": "Magnezone",
+      "method": "other",
+      "level": 0
+    }
+  ],
+  "_id": "00082",
+  "_rev": "1-A"
+}

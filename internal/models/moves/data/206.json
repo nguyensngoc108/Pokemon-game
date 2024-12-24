@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "false-swipe",
+  "power": 40,
+  "pp": 40,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Will not reduce the target's HP below 1.",
+  "name": "False-swipe",
+  "_id": "00206",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "headbutt",
+  "power": 70,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Headbutt",
+  "_id": "00029",
+  "_rev": "1-A"
+}

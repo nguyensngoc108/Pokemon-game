@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "herdier_gen_5",
+      "resource_uri": "/api/v1/description/5908/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "resource_uri": "/api/v1/ability/22/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    },
+    {
+      "name": "sand-rush",
+      "resource_uri": "/api/v1/ability/146/"
+    }
+  ],
+  "attack": 80,
+  "defense": 65,
+  "speed": 60,
+  "sp_atk": 35,
+  "sp_def": 65,
+  "hp": 65,
+  "weight": "147",
+  "height": "9",
+  "national_id": 507,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00507",
+  "name": "Herdier"
+}

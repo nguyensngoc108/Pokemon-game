@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 108,
+      "name": "Lickitung",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00463",
+  "_rev": "1-A"
+}

@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "meganium_gen_5",
+      "resource_uri": "/api/v1/description/2511/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    }
+  ],
+  "attack": 82,
+  "defense": 100,
+  "speed": 80,
+  "sp_atk": 83,
+  "sp_def": 100,
+  "hp": 80,
+  "weight": "1005",
+  "height": "18",
+  "national_id": 154,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00154",
+  "name": "Meganium"
+}

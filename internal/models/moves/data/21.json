@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "slam",
+  "power": 80,
+  "pp": 20,
+  "accuracy": 75,
+  "description": "Inflicts regular damage.",
+  "name": "Slam",
+  "_id": "00021",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "razor-leaf",
+  "power": 55,
+  "pp": 25,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Razor-leaf",
+  "_id": "00075",
+  "_rev": "1-A"
+}

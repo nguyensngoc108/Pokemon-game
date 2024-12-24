@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "cacturne_gen_5",
+      "resource_uri": "/api/v1/description/4654/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    }
+  ],
+  "attack": 115,
+  "defense": 60,
+  "speed": 55,
+  "sp_atk": 115,
+  "sp_def": 60,
+  "hp": 70,
+  "weight": "774",
+  "height": "13",
+  "national_id": 332,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00332",
+  "name": "Cacturne"
+}

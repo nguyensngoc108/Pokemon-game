@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "belch",
+  "power": 120,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "",
+  "name": "Boomburst",
+  "_id": "00562",
+  "_rev": "1-A"
+}

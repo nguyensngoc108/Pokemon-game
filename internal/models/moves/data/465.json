@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "seed-flare",
+  "power": 120,
+  "pp": 5,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages.",
+  "name": "Seed-flare",
+  "_id": "00465",
+  "_rev": "1-A"
+}

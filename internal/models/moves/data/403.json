@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "air-slash",
+  "power": 75,
+  "pp": 15,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Air-slash",
+  "_id": "00403",
+  "_rev": "1-A"
+}

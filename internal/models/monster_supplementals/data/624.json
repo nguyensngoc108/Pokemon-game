@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Sharp Edge Pokémon",
+  "japaneseName": "コマタナ",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00624",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Lookout Pokémon",
+  "japaneseName": "ミネズミ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00504",
+  "_rev": "1-A"
+}

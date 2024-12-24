@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "kangaskhan_gen_5",
+      "resource_uri": "/api/v1/description/1888/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "early-bird",
+      "resource_uri": "/api/v1/ability/48/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    }
+  ],
+  "attack": 95,
+  "defense": 80,
+  "speed": 90,
+  "sp_atk": 40,
+  "sp_def": 80,
+  "hp": 105,
+  "weight": "800",
+  "height": "22",
+  "national_id": 115,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00115",
+  "name": "Kangaskhan"
+}

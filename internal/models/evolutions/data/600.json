@@ -1,0 +1,20 @@
+{
+  "from": [
+    {
+      "nationalId": 599,
+      "name": "Klink",
+      "method": "level_up",
+      "level": 38
+    }
+  ],
+  "to": [
+    {
+      "nationalId": 601,
+      "name": "Klinklang",
+      "method": "level_up",
+      "level": 49
+    }
+  ],
+  "_id": "00600",
+  "_rev": "1-A"
+}

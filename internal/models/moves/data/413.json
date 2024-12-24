@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "brave-bird",
+  "power": 120,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+  "name": "Brave-bird",
+  "_id": "00413",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "ghost",
+  "identifier": "lick",
+  "power": 30,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+  "name": "Lick",
+  "_id": "00122",
+  "_rev": "1-A"
+}

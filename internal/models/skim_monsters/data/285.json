@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "shroomish_gen_5",
+      "resource_uri": "/api/v1/description/4198/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "resource_uri": "/api/v1/ability/27/"
+    },
+    {
+      "name": "poison-heal",
+      "resource_uri": "/api/v1/ability/90/"
+    },
+    {
+      "name": "quick-feet",
+      "resource_uri": "/api/v1/ability/95/"
+    }
+  ],
+  "attack": 40,
+  "defense": 60,
+  "speed": 35,
+  "sp_atk": 40,
+  "sp_def": 60,
+  "hp": 60,
+  "weight": "45",
+  "height": "4",
+  "national_id": 285,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00285",
+  "name": "Shroomish"
+}

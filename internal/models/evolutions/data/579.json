@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 578,
+      "name": "Duosion",
+      "method": "level_up",
+      "level": 41
+    }
+  ],
+  "to": null,
+  "_id": "00579",
+  "_rev": "1-A"
+}

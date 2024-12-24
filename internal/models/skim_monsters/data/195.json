@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "quagsire_gen_5",
+      "resource_uri": "/api/v1/description/3089/"
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    },
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "damp",
+      "resource_uri": "/api/v1/ability/6/"
+    },
+    {
+      "name": "water-absorb",
+      "resource_uri": "/api/v1/ability/11/"
+    },
+    {
+      "name": "unaware",
+      "resource_uri": "/api/v1/ability/109/"
+    }
+  ],
+  "attack": 85,
+  "defense": 85,
+  "speed": 35,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "hp": 95,
+  "weight": "750",
+  "height": "14",
+  "national_id": 195,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00195",
+  "name": "Quagsire"
+}

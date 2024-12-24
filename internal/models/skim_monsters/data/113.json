@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "chansey_gen_5",
+      "resource_uri": "/api/v1/description/1856/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "resource_uri": "/api/v1/ability/30/"
+    },
+    {
+      "name": "serene-grace",
+      "resource_uri": "/api/v1/ability/32/"
+    },
+    {
+      "name": "healer",
+      "resource_uri": "/api/v1/ability/131/"
+    }
+  ],
+  "attack": 5,
+  "defense": 5,
+  "speed": 50,
+  "sp_atk": 35,
+  "sp_def": 105,
+  "hp": 250,
+  "weight": "346",
+  "height": "11",
+  "national_id": 113,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00113",
+  "name": "Chansey"
+}

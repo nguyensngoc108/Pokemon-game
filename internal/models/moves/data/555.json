@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "snarl",
+  "power": 55,
+  "pp": 15,
+  "accuracy": 95,
+  "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+  "name": "Snarl",
+  "_id": "00555",
+  "_rev": "1-A"
+}

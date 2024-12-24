@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "genesect_gen_5",
+      "resource_uri": "/api/v1/description/6472/"
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "resource_uri": "/api/v1/type/7/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "download",
+      "resource_uri": "/api/v1/ability/88/"
+    }
+  ],
+  "attack": 120,
+  "defense": 95,
+  "speed": 99,
+  "sp_atk": 120,
+  "sp_def": 95,
+  "hp": 71,
+  "weight": "825",
+  "height": "15",
+  "national_id": 649,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00649",
+  "name": "Genesect"
+}

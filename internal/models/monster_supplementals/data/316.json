@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 5100,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Stomach Pokémon",
+  "japaneseName": "ゴクリン",
+  "Guranburu": "",
+  "eggGroups": "Amorphous",
+  "_id": "00316",
+  "_rev": "1-A"
+}

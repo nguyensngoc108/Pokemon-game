@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 2,
+  "hatchSteps": 2550,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Trance Pokémon",
+  "japaneseName": "ムシャーナ",
+  "Guranburu": "",
+  "eggGroups": "Field",
+  "_id": "00518",
+  "_rev": "1-A"
+}

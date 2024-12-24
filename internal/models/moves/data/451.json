@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "charge-beam",
+  "power": 50,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+  "name": "Charge-beam",
+  "_id": "00451",
+  "_rev": "1-A"
+}

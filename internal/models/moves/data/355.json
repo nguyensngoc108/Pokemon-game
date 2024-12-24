@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "roost",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn.",
+  "name": "Roost",
+  "_id": "00355",
+  "_rev": "1-A"
+}

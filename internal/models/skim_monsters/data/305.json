@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "lairon_gen_5",
+      "resource_uri": "/api/v1/description/4388/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "rock-head",
+      "resource_uri": "/api/v1/ability/69/"
+    },
+    {
+      "name": "heavy-metal",
+      "resource_uri": "/api/v1/ability/134/"
+    }
+  ],
+  "attack": 90,
+  "defense": 140,
+  "speed": 40,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 60,
+  "weight": "1200",
+  "height": "9",
+  "national_id": 305,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00305",
+  "name": "Lairon"
+}

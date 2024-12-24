@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 50,
+      "name": "Diglett",
+      "method": "level_up",
+      "level": 26
+    }
+  ],
+  "to": null,
+  "_id": "00051",
+  "_rev": "1-A"
+}

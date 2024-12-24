@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "leaf-tornado",
+  "power": 65,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.",
+  "name": "Leaf-tornado",
+  "_id": "00536",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Compass Pokémon",
+  "japaneseName": "ダイノーズ",
+  "Guranburu": "",
+  "eggGroups": "Mineral",
+  "_id": "00476",
+  "_rev": "1-A"
+}

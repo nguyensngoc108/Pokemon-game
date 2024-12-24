@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "ambipom_gen_5",
+      "resource_uri": "/api/v1/description/5414/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    },
+    {
+      "name": "skill-link",
+      "resource_uri": "/api/v1/ability/92/"
+    },
+    {
+      "name": "technician",
+      "resource_uri": "/api/v1/ability/101/"
+    }
+  ],
+  "attack": 100,
+  "defense": 66,
+  "speed": 115,
+  "sp_atk": 60,
+  "sp_def": 66,
+  "hp": 75,
+  "weight": "203",
+  "height": "12",
+  "national_id": 424,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00424",
+  "name": "Ambipom"
+}

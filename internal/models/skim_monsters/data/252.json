@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "treecko_gen_5",
+      "resource_uri": "/api/v1/description/3884/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "unburden",
+      "resource_uri": "/api/v1/ability/84/"
+    }
+  ],
+  "attack": 45,
+  "defense": 35,
+  "speed": 70,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "hp": 40,
+  "weight": "50",
+  "height": "5",
+  "national_id": 252,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00252",
+  "name": "Treecko"
+}

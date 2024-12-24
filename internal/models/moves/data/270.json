@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "helping-hand",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+  "name": "Helping-hand",
+  "_id": "00270",
+  "_rev": "1-A"
+}

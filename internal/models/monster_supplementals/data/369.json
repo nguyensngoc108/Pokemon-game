@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 1,
+  "hatchSteps": 10200,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Longevity Pokémon",
+  "japaneseName": "ジーランス",
+  "Guranburu": "",
+  "eggGroups": "Water 1, Water 2",
+  "_id": "00369",
+  "_rev": "1-A"
+}

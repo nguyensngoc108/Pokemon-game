@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "audino_gen_5",
+      "resource_uri": "/api/v1/description/6008/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "klutz",
+      "resource_uri": "/api/v1/ability/103/"
+    },
+    {
+      "name": "healer",
+      "resource_uri": "/api/v1/ability/131/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 60,
+  "defense": 86,
+  "speed": 50,
+  "sp_atk": 60,
+  "sp_def": 86,
+  "hp": 103,
+  "weight": "310",
+  "height": "11",
+  "national_id": 531,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00531",
+  "name": "Audino"
+}

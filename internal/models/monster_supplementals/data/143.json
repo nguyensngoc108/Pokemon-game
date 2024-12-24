@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 2,
+  "hatchSteps": 10200,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Dozing Pokémon",
+  "japaneseName": "カビゴン",
+  "Guranburu": "",
+  "eggGroups": "Monster",
+  "_id": "00143",
+  "_rev": "1-A"
+}

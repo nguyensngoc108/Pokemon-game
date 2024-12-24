@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "hydreigon_gen_5",
+      "resource_uri": "/api/v1/description/6427/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 105,
+  "defense": 90,
+  "speed": 98,
+  "sp_atk": 125,
+  "sp_def": 90,
+  "hp": 92,
+  "weight": "1600",
+  "height": "18",
+  "national_id": 635,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00635",
+  "name": "Hydreigon"
+}

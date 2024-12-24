@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "double-hit",
+  "power": 35,
+  "pp": 10,
+  "accuracy": 90,
+  "description": "Inflicts regular damage.  Hits twice in one turn.",
+  "name": "Double-hit",
+  "_id": "00458",
+  "_rev": "1-A"
+}

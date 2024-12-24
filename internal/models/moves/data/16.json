@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "gust",
+  "power": 40,
+  "pp": 35,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky-drop, this move will hit with double power.",
+  "name": "Gust",
+  "_id": "00016",
+  "_rev": "1-A"
+}

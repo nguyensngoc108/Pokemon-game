@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "drain-punch",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+  "name": "Drain-punch",
+  "_id": "00409",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "leech-life",
+  "power": 20,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+  "name": "Leech-life",
+  "_id": "00141",
+  "_rev": "1-A"
+}

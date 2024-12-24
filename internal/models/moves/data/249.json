@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "rock-smash",
+  "power": 40,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+  "name": "Rock-smash",
+  "_id": "00249",
+  "_rev": "1-A"
+}

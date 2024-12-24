@@ -1,0 +1,628 @@
+{
+    "monster": {
+        "name": "Shelmet",
+        "attack": 40,
+        "defense": 85,
+        "speed": 25,
+        "sp_atk": 40,
+        "sp_def": 65,
+        "hp": 50,
+        "weight": "77",
+        "height": "4",
+        "national_id": 616,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00616",
+        "abilities": [
+            "shell-armor",
+            "hydration",
+            "overcoat"
+        ],
+        "types": [
+            "bug"
+        ]
+    },
+    "description": [
+        {
+            "description": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "_id": "0006345",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 617,
+                "name": "Accelgor",
+                "method": "trade",
+                "level": 0
+            }
+        ],
+        "_id": "00616",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "fairy"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dark"
+                }
+            ],
+            "_id": "bug",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 3825,
+        "defenseEV": 1,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 0,
+        "genderRatio": 50,
+        "species": "Snail Pokémon",
+        "japaneseName": "チョボマキ",
+        "Guranburu": "",
+        "eggGroups": "Bug",
+        "_id": "00616",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "bug",
+            "identifier": "bug-bite",
+            "power": 60,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca-berry or rowap-berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+            "name": "Bug-bite",
+            "_id": "00450",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "gastro-acid",
+            "power": "",
+            "pp": 10,
+            "accuracy": 100,
+            "description": "The target's ability is disabled as long as it remains on the field.\n\nThis effect is passed on by baton-pass.",
+            "name": "Gastro-acid",
+            "_id": "00380",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "signal-beam",
+            "power": 75,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+            "name": "Signal-beam",
+            "_id": "00324",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "sleep-talk",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Only usable if the user is sleep.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 PP.\n\nThis move will not select assist, bide, bounce, chatter, copycat, dig, dive, fly, focus-punch, me-first, metronome, mirror-move, shadow-force, skull-bash, sky-attack, sky-drop, sleep-talk, solar-beam, razor-wind, or uproar.\n\nIf the selected move requires a recharge turn—i.e., one of blast-burn, frenzy-plant, giga-impact, hydro-cannon, hyper-beam, roar-of-time, or rock-wrecker—and the user is still sleep next turn, then it's forced to use this move again and pay another PP for the recharge turn.\n\nThis move cannot be copied by mirror-move, nor selected by assist, metronome, or sleep-talk.",
+            "name": "Sleep-talk",
+            "_id": "00214",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "snore",
+            "power": 50,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Snore",
+            "_id": "00173",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "struggle-bug",
+            "power": 50,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+            "name": "Struggle-bug",
+            "_id": "00522",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "fighting",
+            "identifier": "final-gambit",
+            "power": "",
+            "pp": 5,
+            "accuracy": 100,
+            "description": "Inflicts damage equal to the user's remaining HP.  User faints.",
+            "name": "Final-gambit",
+            "_id": "00515",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "round",
+            "power": 60,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.",
+            "name": "Round",
+            "_id": "00496",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "venoshock",
+            "power": 65,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target is poisoned, this move has double power.",
+            "name": "Venoshock",
+            "_id": "00474",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "guard-split",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pokémon. Unmodified Special Defense is averaged the same way.",
+            "name": "Guard-split",
+            "_id": "00470",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "grass",
+            "identifier": "energy-ball",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+            "name": "Energy-ball",
+            "_id": "00412",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "bug-buzz",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+            "name": "Bug-buzz",
+            "_id": "00405",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "guard-swap",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User swaps its Defense and Special Defense modifiers with the target.",
+            "name": "Guard-swap",
+            "_id": "00385",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "feint",
+            "power": 30,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.\n\nThis move cannot be copied by mirror-move, nor selected by assist or metronome.",
+            "name": "Feint",
+            "_id": "00364",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "yawn",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field, this effect is canceled.  If the target has a status effect when this move is used, this move will fail.\n\nIf the target is protected by safeguard when this move is used, this move will fail.\n\ninsomnia and vital-spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use.",
+            "name": "Yawn",
+            "_id": "00281",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "facade",
+            "power": 70,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power.",
+            "name": "Facade",
+            "_id": "00263",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "water",
+            "identifier": "rain-dance",
+            "power": "",
+            "pp": 5,
+            "accuracy": "",
+            "description": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.\n\nIf the user is holding damp-rock, this effect lasts for eight turns.\n\nthunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.\n\nsolar-beam has half power.\n\nmoonlight, morning-sun, and synthesis heal only 1/4 of the user's max HP.\n\nPokémon with swift-swim have doubled original Speed.\n\nPokémon with forecast become water.\n\nPokémon with dry-skin heal 1/8 max HP, Pokémon with hydration are cured of major status effects-effects, and Pokémon with rain-dish heal 1/16 max HP at the end of each turn.",
+            "name": "Rain-dance",
+            "_id": "00240",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "hidden-power",
+            "power": 60,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power and type are determined by the user's IV.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IV.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
+            "name": "Hidden-power",
+            "_id": "00237",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "dark",
+            "identifier": "pursuit",
+            "power": 40,
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  If the target attempts to switch out this turn before the user acts, this move hits the target before it leaves and has double power.\n\nThis effect can still hit a Pokémon that switches out when it has a substitute up or when an ally has used follow-me.",
+            "name": "Pursuit",
+            "_id": "00228",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "encore",
+            "power": "",
+            "pp": 5,
+            "accuracy": 100,
+            "description": "The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror-move, sketch, struggle, or transform, this move will fail.",
+            "name": "Encore",
+            "_id": "00227",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "baton-pass",
+            "power": "",
+            "pp": 40,
+            "accuracy": "",
+            "description": "User switches out, and the trainer selects a replacement Pokémon from the party.  Stat changes, confusion, and persistent move effects are passed along to the replacement Pokémon.\n\nThe following move effects are passed:\n\n* aqua-ring\n* both the user's and target's effect of block, mean-look, and spider-web\n* the curse effect of curse\n* embargo\n* focus-energy or an activated lansat-berry\n* gastro-acid\n* ingrain\n* being sapped by leech-seed\n* being targeted by lock-on or mind-reader\n* magnet-rise\n* perish-song's counter\n* power-trick\n* substitute; the doll's HP is unchanged\n\nThe replacement Pokémon does not trigger effects that respond to Pokémon switching in.",
+            "name": "Baton-pass",
+            "_id": "00226",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "frustration",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+            "name": "Frustration",
+            "_id": "00218",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "return",
+            "power": "",
+            "pp": 20,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Power increases with happiness, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+            "name": "Return",
+            "_id": "00216",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "attract",
+            "power": "",
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will fail.  If either Pokémon leaves the field, this effect ends.",
+            "name": "Attract",
+            "_id": "00213",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "swagger",
+            "power": "",
+            "pp": 15,
+            "accuracy": 90,
+            "description": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied.",
+            "name": "Swagger",
+            "_id": "00207",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "endure",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "The user's HP cannot be lowered below 1 by any means for the remainder of this turn.\n\nIf the user successfully used detect, endure, protect, quick-guard, or wide-guard on the last turn, this move has a 50% chance to fail.\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Endure",
+            "_id": "00203",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "grass",
+            "identifier": "giga-drain",
+            "power": 75,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+            "name": "Giga-drain",
+            "_id": "00202",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ground",
+            "identifier": "spikes",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Scatters spikes around the opposing field, which damage opposing Pokémon that enter the field for 1/8 of their max HP.  Pokémon immune to ground moves are immune to this damage, except during gravity.  Up to three layers of spikes may be laid down, adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP, and three layers damage for 1/4 max HP.\n\nwonder-guard does not block damage from this effect.\n\nrapid-spin removes this effect from its user's side of the field.  defog removes this effect from its target's side of the field.",
+            "name": "Spikes",
+            "_id": "00191",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ground",
+            "identifier": "mud-slap",
+            "power": 20,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.",
+            "name": "Mud-slap",
+            "_id": "00189",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "sludge-bomb",
+            "power": 90,
+            "pp": 10,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+            "name": "Sludge-bomb",
+            "_id": "00188",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "protect",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nIf the user successfully used detect, endure, protect, quick-guard, or wide-guard on the last turn, this move has a 50% chance to fail.\n\nlock-on, mind-reader, and no-guard provide a (100 – accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn-drill, and sheer-cold); those are always blocked by this move.\n\nthunder during rain-dance and blizzard during hail have a 30% chance to break through this move.\n\nThe following effects are not prevented by this move:\n\n* acupressure from an ally\n* curse's curse effect\n* Delayed damage from doom-desire and future-sight; however, these moves will be prevented if they are used this turn\n* feint, which will also end this move's protection after it hits\n* imprison\n* perish-song\n* shadow-force\n* Moves that merely copy the user, such as transform or psych-up\n\nThis move cannot be selected by assist or metronome.",
+            "name": "Protect",
+            "_id": "00182",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "ghost",
+            "identifier": "curse",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn.\nOtherwise: Lowers the user's Speed by one stage, and raises its Attack and Defense by one stage each.\n\nThe curse effect is passed on by baton-pass.\n\nThis move cannot be copied by mirror-move.",
+            "name": "Curse",
+            "_id": "00174",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "mind-reader",
+            "power": "",
+            "pp": 5,
+            "accuracy": "",
+            "description": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.\n\nOne-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pokémon that are off the field due to moves such as dig or fly.\n\nIf the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.\n\nThis effect is passed on by baton-pass.",
+            "name": "Mind-reader",
+            "_id": "00170",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "substitute",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field, the doll will vanish.  If the user cannot pay the HP cost, this move will fail.\n\nThe doll takes damage as normal, using the user's stats and types, and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.\n\nThe doll will block major status effect-effects, confusion, and flinch.  The effects of smelling-salts and wake-up-slap do not trigger against a doll, even if the Pokémon behind the doll has the appropriate major status effect-effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage, but the multi-turn trapping and damage effects will not activate.\n\nMoves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such, e.g., avalanche, counter, or a rowap-berry.  magic-coat still works as normal, even against moves the doll would block.  Opposing Pokémon that damage the doll with a leech move like absorb are healed as normal.\n\nIt will also block acupressure, block, the curse effect of curse, dream-eater, embargo, flatter, gastro-acid, grudge, heal-block, leech-seed, lock-on, mean-look, mimic, mind-reader, nightmare, pain-split, psycho-shift, spider-web, sketch, swagger, switcheroo, trick, worry-seed, and yawn.  A Pokémon affected by yawn before summoning the doll will still fall to sleep.\n\nThe doll blocks intimidate, but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt-absorb absorbing thunder-wave), such moves will not be blocked.\n\nlife-orb and berries that cause confusion still work as normal, but their respective HP loss and confusion are absorbed/blocked by the doll.\n\nThe user is still vulnerable to damage inflicted when entering or leaving the field, such as by pursuit or spikes; however, the doll will block the poison effect of toxic-spikes.\n\nThe doll is passed on by baton-pass.  It keeps its existing HP, but uses the replacement Pokémon's stats and types for damage calculation.\n\nAll other effects work as normal.",
+            "name": "Substitute",
+            "_id": "00164",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "rest",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect-effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early-bird.\n\nThis move fail if the Pokémon cannot fall asleep due to uproar, insomnia, or vital-spirit.  It also fails if the Pokémon is at full health or is already asleep.",
+            "name": "Rest",
+            "_id": "00156",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "acid-armor",
+            "power": "",
+            "pp": 20,
+            "accuracy": "",
+            "description": "Raises the user's Defense by two stages.",
+            "name": "Acid-armor",
+            "_id": "00151",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "bug",
+            "identifier": "leech-life",
+            "power": 20,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+            "name": "Leech-life",
+            "_id": "00141",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "bide",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is typeless.\n\nThis move cannot be selected by sleep-talk.",
+            "name": "Bide",
+            "_id": "00117",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "recover",
+            "power": "",
+            "pp": 10,
+            "accuracy": "",
+            "description": "Heals the user for half its max HP.",
+            "name": "Recover",
+            "_id": "00105",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "double-team",
+            "power": "",
+            "pp": 15,
+            "accuracy": "",
+            "description": "Raises the user's evasion by one stage.",
+            "name": "Double-team",
+            "_id": "00104",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "toxic",
+            "power": "",
+            "pp": 10,
+            "accuracy": 90,
+            "description": "Badly poisons the target.  Never misses when used by a poison-type Pokémon.",
+            "name": "Toxic",
+            "_id": "00092",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "grass",
+            "identifier": "mega-drain",
+            "power": 40,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+            "name": "Mega-drain",
+            "_id": "00072",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "poison",
+            "identifier": "acid",
+            "power": 40,
+            "pp": 30,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+            "name": "Acid",
+            "_id": "00051",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "double-edge",
+            "power": 120,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+            "name": "Double-edge",
+            "_id": "00038",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "body-slam",
+            "power": 85,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+            "name": "Body-slam",
+            "_id": "00034",
+            "_rev": "1-A"
+        }
+    ]
+}

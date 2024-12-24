@@ -1,0 +1,36 @@
+{
+  "moves": [
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 527
+    },
+    {
+      "learn_type": "level up",
+      "level": 15,
+      "id": 450
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 173
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 81
+    },
+    {
+      "learn_type": "level up",
+      "level": 5,
+      "id": 40
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 33
+    }
+  ],
+  "_id": "00265",
+  "_rev": "1-9e0cfb2fe5249b994b63d76840b529a0"
+}

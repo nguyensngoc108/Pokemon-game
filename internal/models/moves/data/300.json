@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "mud-sport",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.",
+  "name": "Mud-sport",
+  "_id": "00300",
+  "_rev": "1-A"
+}

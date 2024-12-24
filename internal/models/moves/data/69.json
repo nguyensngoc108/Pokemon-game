@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "seismic-toss",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
+  "name": "Seismic-toss",
+  "_id": "00069",
+  "_rev": "1-A"
+}

@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Bat Pokémon",
+  "japaneseName": "コロモリ",
+  "Guranburu": "",
+  "eggGroups": "Field, Flying",
+  "_id": "00527",
+  "_rev": "1-A"
+}

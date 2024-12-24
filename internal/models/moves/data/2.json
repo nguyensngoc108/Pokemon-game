@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "karate-chop",
+  "power": 50,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+  "name": "Karate-chop",
+  "_id": "00002",
+  "_rev": "1-A"
+}

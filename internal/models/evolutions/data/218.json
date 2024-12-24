@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 219,
+      "name": "Magcargo",
+      "method": "level_up",
+      "level": 38
+    }
+  ],
+  "_id": "00218",
+  "_rev": "1-A"
+}

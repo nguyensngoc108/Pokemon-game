@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 528,
+      "name": "Swoobat",
+      "method": "level_up",
+      "level": 0
+    }
+  ],
+  "_id": "00527",
+  "_rev": "1-A"
+}

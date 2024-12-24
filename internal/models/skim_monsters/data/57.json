@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "primeape_gen_5",
+      "resource_uri": "/api/v1/description/923/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "vital-spirit",
+      "resource_uri": "/api/v1/ability/72/"
+    },
+    {
+      "name": "anger-point",
+      "resource_uri": "/api/v1/ability/83/"
+    },
+    {
+      "name": "defiant",
+      "resource_uri": "/api/v1/ability/128/"
+    }
+  ],
+  "attack": 105,
+  "defense": 60,
+  "speed": 95,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "hp": 65,
+  "weight": "320",
+  "height": "10",
+  "national_id": 57,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00057",
+  "name": "Primeape"
+}

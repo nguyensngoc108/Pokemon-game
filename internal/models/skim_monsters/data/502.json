@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "dewott_gen_5",
+      "resource_uri": "/api/v1/description/5888/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "resource_uri": "/api/v1/ability/67/"
+    },
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    }
+  ],
+  "attack": 75,
+  "defense": 60,
+  "speed": 60,
+  "sp_atk": 83,
+  "sp_def": 60,
+  "hp": 75,
+  "weight": "245",
+  "height": "8",
+  "national_id": 502,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00502",
+  "name": "Dewott"
+}

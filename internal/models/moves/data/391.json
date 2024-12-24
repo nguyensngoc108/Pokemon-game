@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "heart-swap",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User swaps its stat modifiers with the target.",
+  "name": "Heart-swap",
+  "_id": "00391",
+  "_rev": "1-A"
+}

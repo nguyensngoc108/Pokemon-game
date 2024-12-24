@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "perish-song",
+  "power": "",
+  "pp": 5,
+  "accuracy": "",
+  "description": "Every Pokémon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pokémon's counter reaches zero, that Pokémon faint.  A Pokémon that leaves the field will lose its counter; its replacement does not inherit the effect, and other Pokémon's counters remain.\n\nThis effect is passed on by baton-pass.\n\nThis move cannot be copied by mirror-move.",
+  "name": "Perish-song",
+  "_id": "00195",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "flatter",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Raises the target's Special Attack by one stage, then confuses it.",
+  "name": "Flatter",
+  "_id": "00260",
+  "_rev": "1-A"
+}

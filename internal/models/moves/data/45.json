@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "growl",
+  "power": "",
+  "pp": 40,
+  "accuracy": 100,
+  "description": "Lowers the target's Attack by one stage.",
+  "name": "Growl",
+  "_id": "00045",
+  "_rev": "1-A"
+}

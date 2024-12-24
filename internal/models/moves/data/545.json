@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "searing-shot",
+  "power": 100,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to burn the target.",
+  "name": "Searing-shot",
+  "_id": "00545",
+  "_rev": "1-A"
+}

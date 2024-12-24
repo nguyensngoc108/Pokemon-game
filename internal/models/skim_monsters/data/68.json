@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "machamp_gen_5",
+      "resource_uri": "/api/v1/description/1115/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "steadfast",
+      "resource_uri": "/api/v1/ability/80/"
+    },
+    {
+      "name": "no-guard",
+      "resource_uri": "/api/v1/ability/99/"
+    }
+  ],
+  "attack": 130,
+  "defense": 80,
+  "speed": 55,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "hp": 90,
+  "weight": "1300",
+  "height": "16",
+  "national_id": 68,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00068",
+  "name": "Machamp"
+}

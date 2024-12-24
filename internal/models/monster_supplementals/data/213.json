@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Fermentation Pokémon",
+  "japaneseName": "ツボツボ",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00213",
+  "_rev": "1-A"
+}

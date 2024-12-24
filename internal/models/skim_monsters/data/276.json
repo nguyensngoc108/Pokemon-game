@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "taillow_gen_5",
+      "resource_uri": "/api/v1/description/4105/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "resource_uri": "/api/v1/ability/62/"
+    },
+    {
+      "name": "scrappy",
+      "resource_uri": "/api/v1/ability/113/"
+    }
+  ],
+  "attack": 55,
+  "defense": 30,
+  "speed": 85,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "hp": 40,
+  "weight": "23",
+  "height": "3",
+  "national_id": 276,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00276",
+  "name": "Taillow"
+}

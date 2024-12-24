@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 72,
+      "name": "Tentacool",
+      "method": "level_up",
+      "level": 30
+    }
+  ],
+  "to": null,
+  "_id": "00073",
+  "_rev": "1-A"
+}

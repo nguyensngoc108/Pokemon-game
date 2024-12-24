@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 307,
+      "name": "Meditite",
+      "method": "level_up",
+      "level": 37
+    }
+  ],
+  "to": null,
+  "_id": "00308",
+  "_rev": "1-A"
+}

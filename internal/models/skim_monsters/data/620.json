@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "mienshao_gen_5",
+      "resource_uri": "/api/v1/description/6364/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "resource_uri": "/api/v1/type/2/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "resource_uri": "/api/v1/ability/39/"
+    },
+    {
+      "name": "reckless",
+      "resource_uri": "/api/v1/ability/120/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 125,
+  "defense": 60,
+  "speed": 105,
+  "sp_atk": 95,
+  "sp_def": 60,
+  "hp": 65,
+  "weight": "355",
+  "height": "14",
+  "national_id": 620,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00620",
+  "name": "Mienshao"
+}

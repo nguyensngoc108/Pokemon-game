@@ -1,0 +1,92 @@
+{
+  "whenDefending": [
+    {
+      "multiplier": 0.5,
+      "name": "normal"
+    },
+    {
+      "multiplier": 2,
+      "name": "fighting"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "flying"
+    },
+    {
+      "multiplier": 0,
+      "name": "poison"
+    },
+    {
+      "multiplier": 2,
+      "name": "ground"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "rock"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "bug"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 2,
+      "name": "fire"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "grass"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "psychic"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "ice"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "dragon"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "fairy"
+    }
+  ],
+  "whenAttacking": [
+    {
+      "multiplier": 0.5,
+      "name": "fire"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "water"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "electric"
+    },
+    {
+      "multiplier": 0.5,
+      "name": "steel"
+    },
+    {
+      "multiplier": 2,
+      "name": "ice"
+    },
+    {
+      "multiplier": 2,
+      "name": "rock"
+    },
+    {
+      "multiplier": 2,
+      "name": "fairy"
+    }
+  ],
+  "_id": "steel",
+  "_rev": "1-A"
+}

@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 35,
+      "name": "Clefairy",
+      "method": "stone",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00036",
+  "_rev": "1-A"
+}

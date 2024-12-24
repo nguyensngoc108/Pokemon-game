@@ -1,0 +1,11 @@
+{
+  "type_name": "psychic",
+  "identifier": "role-play",
+  "power": "",
+  "pp": 10,
+  "accuracy": "",
+  "description": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower-gift, forecast, illusion, imposter, multitype, stance-change, trace, wonder-guard, or zen-mode, this move will fail.\n\nThis move cannot be copied by mirror-move.",
+  "name": "Role-play",
+  "_id": "00272",
+  "_rev": "1-A"
+}

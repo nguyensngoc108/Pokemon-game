@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "swablu_gen_5",
+      "resource_uri": "/api/v1/description/4663/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    },
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cloud-nine",
+      "resource_uri": "/api/v1/ability/13/"
+    },
+    {
+      "name": "natural-cure",
+      "resource_uri": "/api/v1/ability/30/"
+    }
+  ],
+  "attack": 40,
+  "defense": 60,
+  "speed": 50,
+  "sp_atk": 40,
+  "sp_def": 75,
+  "hp": 45,
+  "weight": "12",
+  "height": "4",
+  "national_id": 333,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00333",
+  "name": "Swablu"
+}

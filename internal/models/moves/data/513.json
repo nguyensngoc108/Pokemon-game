@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "reflect-type",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "User's type changes to match the target's.",
+  "name": "Reflect-type",
+  "_id": "00513",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "poison",
+  "identifier": "coil",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Attack, Defense, and accuracy by one stage each.",
+  "name": "Coil",
+  "_id": "00489",
+  "_rev": "1-A"
+}

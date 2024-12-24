@@ -1,0 +1,13 @@
+{
+  "from": [
+    {
+      "nationalId": 64,
+      "name": "Kadabra",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00065",
+  "_rev": "1-A"
+}

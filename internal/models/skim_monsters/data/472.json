@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "gliscor_gen_5",
+      "resource_uri": "/api/v1/description/5742/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "resource_uri": "/api/v1/ability/8/"
+    },
+    {
+      "name": "hyper-cutter",
+      "resource_uri": "/api/v1/ability/52/"
+    },
+    {
+      "name": "poison-heal",
+      "resource_uri": "/api/v1/ability/90/"
+    }
+  ],
+  "attack": 95,
+  "defense": 125,
+  "speed": 95,
+  "sp_atk": 45,
+  "sp_def": 75,
+  "hp": 75,
+  "weight": "425",
+  "height": "20",
+  "national_id": 472,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00472",
+  "name": "Gliscor"
+}

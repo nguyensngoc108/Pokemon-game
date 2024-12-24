@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "bug-buzz",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+  "name": "Bug-buzz",
+  "_id": "00405",
+  "_rev": "1-A"
+}

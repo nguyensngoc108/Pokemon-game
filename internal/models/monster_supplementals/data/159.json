@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Big Jaw Pokémon",
+  "japaneseName": "アリゲイツ",
+  "Guranburu": "",
+  "eggGroups": "Monster, Water 1",
+  "_id": "00159",
+  "_rev": "1-A"
+}

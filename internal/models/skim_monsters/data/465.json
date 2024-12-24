@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "tangrowth_gen_5",
+      "resource_uri": "/api/v1/description/5702/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    },
+    {
+      "name": "regenerator",
+      "resource_uri": "/api/v1/ability/144/"
+    }
+  ],
+  "attack": 100,
+  "defense": 125,
+  "speed": 50,
+  "sp_atk": 110,
+  "sp_def": 50,
+  "hp": 100,
+  "weight": "1286",
+  "height": "20",
+  "national_id": 465,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00465",
+  "name": "Tangrowth"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "shock-wave",
+  "power": 60,
+  "pp": 20,
+  "accuracy": "",
+  "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+  "name": "Shock-wave",
+  "_id": "00351",
+  "_rev": "1-A"
+}

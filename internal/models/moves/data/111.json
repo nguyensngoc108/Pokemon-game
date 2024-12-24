@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "defense-curl",
+  "power": "",
+  "pp": 40,
+  "accuracy": "",
+  "description": "Raises user's Defense by one stage.\n\nAfter this move is used, the power of ice-ball and rollout are doubled until the user leaves the field.",
+  "name": "Defense-curl",
+  "_id": "00111",
+  "_rev": "1-A"
+}

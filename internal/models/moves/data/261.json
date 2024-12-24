@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "will-o-wisp",
+  "power": "",
+  "pp": 15,
+  "accuracy": 85,
+  "description": "Burns the target.",
+  "name": "Will-o-wisp",
+  "_id": "00261",
+  "_rev": "1-A"
+}

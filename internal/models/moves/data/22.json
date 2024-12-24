@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "vine-whip",
+  "power": 45,
+  "pp": 25,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Vine-whip",
+  "_id": "00022",
+  "_rev": "1-A"
+}

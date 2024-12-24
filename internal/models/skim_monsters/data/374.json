@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "beldum_gen_5",
+      "resource_uri": "/api/v1/description/5055/"
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "resource_uri": "/api/v1/ability/29/"
+    },
+    {
+      "name": "light-metal",
+      "resource_uri": "/api/v1/ability/135/"
+    }
+  ],
+  "attack": 55,
+  "defense": 80,
+  "speed": 30,
+  "sp_atk": 35,
+  "sp_def": 60,
+  "hp": 40,
+  "weight": "952",
+  "height": "6",
+  "national_id": 374,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00374",
+  "name": "Beldum"
+}

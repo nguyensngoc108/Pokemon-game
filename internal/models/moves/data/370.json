@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "close-combat",
+  "power": 120,
+  "pp": 5,
+  "accuracy": 100,
+  "description": "Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each.",
+  "name": "Close-combat",
+  "_id": "00370",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "quiver-dance",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Raises the user's Special Attack, Special Defense, and Speed by one stage each.",
+  "name": "Quiver-dance",
+  "_id": "00483",
+  "_rev": "1-A"
+}

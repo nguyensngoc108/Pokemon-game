@@ -1,0 +1,66 @@
+{
+  "moves": [
+    {
+      "learn_type": "level up",
+      "level": 29,
+      "id": 405
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 366
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 81
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 466
+    },
+    {
+      "learn_type": "level up",
+      "level": 13,
+      "id": 450
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 314
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 283
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 189
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 173
+    },
+    {
+      "learn_type": "tutor",
+      "level": 0,
+      "id": 129
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 230
+    },
+    {
+      "learn_type": "level up",
+      "level": 1,
+      "id": 16
+    }
+  ],
+  "_id": "00415",
+  "_rev": "1-f4b82e31ff575a7c0ca438091e64200f"
+}

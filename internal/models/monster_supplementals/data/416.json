@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 0,
+  "species": "Beehive Pokémon",
+  "japaneseName": "ビークイン",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00416",
+  "_rev": "1-A"
+}

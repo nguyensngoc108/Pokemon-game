@@ -1,0 +1,11 @@
+{
+  "type_name": "ice",
+  "identifier": "avalanche",
+  "power": 60,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.\n\npain-split does not count as damaging the user.",
+  "name": "Avalanche",
+  "_id": "00419",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "electric",
+  "identifier": "thunder-shock",
+  "power": 40,
+  "pp": 30,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to paralyze the target.",
+  "name": "Thundershock",
+  "_id": "00084",
+  "_rev": "1-A"
+}

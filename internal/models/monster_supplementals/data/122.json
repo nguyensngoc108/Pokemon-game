@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 2,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Barrier Pokémon",
+  "japaneseName": "バリヤード",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00122",
+  "_rev": "1-A"
+}

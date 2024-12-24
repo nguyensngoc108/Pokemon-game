@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "walrein_gen_5",
+      "resource_uri": "/api/v1/description/4971/"
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "resource_uri": "/api/v1/type/11/"
+    },
+    {
+      "name": "ice",
+      "resource_uri": "/api/v1/type/15/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "resource_uri": "/api/v1/ability/12/"
+    },
+    {
+      "name": "thick-fat",
+      "resource_uri": "/api/v1/ability/47/"
+    },
+    {
+      "name": "ice-body",
+      "resource_uri": "/api/v1/ability/115/"
+    }
+  ],
+  "attack": 80,
+  "defense": 90,
+  "speed": 65,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "hp": 110,
+  "weight": "1506",
+  "height": "14",
+  "national_id": 365,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00365",
+  "name": "Walrein"
+}

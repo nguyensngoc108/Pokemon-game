@@ -1,0 +1,260 @@
+{
+    "monster": {
+        "name": "Beldum",
+        "attack": 55,
+        "defense": 80,
+        "speed": 30,
+        "sp_atk": 35,
+        "sp_def": 60,
+        "hp": 40,
+        "weight": "952",
+        "height": "6",
+        "national_id": 374,
+        "male_female_ratio": "",
+        "catch_rate": 0,
+        "_id": "00374",
+        "abilities": [
+            "clear-body",
+            "light-metal"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "description": [
+        {
+            "description": "Its cells are all magnetic, and it communicates with others by using magnetic pulses.",
+            "_id": "0005055",
+            "_rev": "1-A"
+        }
+    ],
+    "evolution": {
+        "from": null,
+        "to": [
+            {
+                "nationalId": 375,
+                "name": "Metang",
+                "method": "level_up",
+                "level": 20
+            }
+        ],
+        "_id": "00374",
+        "_rev": "1-A"
+    },
+    "types": [
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "normal"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "flying"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "poison"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ground"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "bug"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "grass"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "ice"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "dragon"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "fairy"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fire"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "water"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "electric"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ice"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "rock"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fairy"
+                }
+            ],
+            "_id": "steel",
+            "_rev": "1-A"
+        },
+        {
+            "whenDefending": [
+                {
+                    "multiplier": 0.5,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "bug"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "ghost"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "dragon"
+                }
+            ],
+            "whenAttacking": [
+                {
+                    "multiplier": 0.5,
+                    "name": "psychic"
+                },
+                {
+                    "multiplier": 0.5,
+                    "name": "steel"
+                },
+                {
+                    "multiplier": 0,
+                    "name": "dark"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "fighting"
+                },
+                {
+                    "multiplier": 2,
+                    "name": "poison"
+                }
+            ],
+            "_id": "psychic",
+            "_rev": "1-A"
+        }
+    ],
+    "monster_supplemental": {
+        "specialAttackEV": 0,
+        "hpEV": 0,
+        "hatchSteps": 10200,
+        "defenseEV": 1,
+        "attackEV": 0,
+        "specialDefenseEV": 0,
+        "speedEV": 0,
+        "genderRatio": "N/A",
+        "species": "Iron Ball Pokémon",
+        "japaneseName": "ダンバル",
+        "Guranburu": "",
+        "eggGroups": "Mineral",
+        "_id": "00374",
+        "_rev": "1-A"
+    },
+    "monster_moves": [
+        {
+            "type_name": "normal",
+            "identifier": "headbutt",
+            "power": 70,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Headbutt",
+            "_id": "00029",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "steel",
+            "identifier": "iron-head",
+            "power": 80,
+            "pp": 15,
+            "accuracy": 100,
+            "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+            "name": "Iron-head",
+            "_id": "00442",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "psychic",
+            "identifier": "zen-headbutt",
+            "power": 80,
+            "pp": 15,
+            "accuracy": 90,
+            "description": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+            "name": "Zen-headbutt",
+            "_id": "00428",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "steel",
+            "identifier": "iron-defense",
+            "power": "",
+            "pp": 15,
+            "accuracy": "",
+            "description": "Raises the user's Defense by two stages.",
+            "name": "Iron-defense",
+            "_id": "00334",
+            "_rev": "1-A"
+        },
+        {
+            "type_name": "normal",
+            "identifier": "take-down",
+            "power": 90,
+            "pp": 20,
+            "accuracy": 85,
+            "description": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+            "name": "Take-down",
+            "_id": "00036",
+            "_rev": "1-A"
+        }
+    ]
+}

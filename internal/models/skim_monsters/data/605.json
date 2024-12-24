@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "elgyem_gen_5",
+      "resource_uri": "/api/v1/description/6296/"
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "resource_uri": "/api/v1/ability/28/"
+    },
+    {
+      "name": "telepathy",
+      "resource_uri": "/api/v1/ability/140/"
+    },
+    {
+      "name": "analytic",
+      "resource_uri": "/api/v1/ability/148/"
+    }
+  ],
+  "attack": 55,
+  "defense": 55,
+  "speed": 30,
+  "sp_atk": 85,
+  "sp_def": 55,
+  "hp": 55,
+  "weight": "90",
+  "height": "5",
+  "national_id": 605,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00605",
+  "name": "Elgyem"
+}

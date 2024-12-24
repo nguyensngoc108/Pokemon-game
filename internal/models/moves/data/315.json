@@ -1,0 +1,11 @@
+{
+  "type_name": "fire",
+  "identifier": "overheat",
+  "power": 130,
+  "pp": 5,
+  "accuracy": 90,
+  "description": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+  "name": "Overheat",
+  "_id": "00315",
+  "_rev": "1-A"
+}

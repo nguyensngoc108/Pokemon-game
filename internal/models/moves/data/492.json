@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "foul-play",
+  "power": 95,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.",
+  "name": "Foul-play",
+  "_id": "00492",
+  "_rev": "1-A"
+}

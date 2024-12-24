@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "fake-tears",
+  "power": "",
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Lowers the target's Special Defense by two stages.",
+  "name": "Fake-tears",
+  "_id": "00313",
+  "_rev": "1-A"
+}

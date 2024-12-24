@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "relic-song",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to put the target to sleep.\nIf the user is a meloetta, it will toggle between Aria and Pirouette Forme.",
+  "name": "Relic-song",
+  "_id": "00547",
+  "_rev": "1-A"
+}

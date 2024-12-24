@@ -1,0 +1,49 @@
+{
+  "descriptions": [
+    {
+      "name": "swoobat_gen_5",
+      "resource_uri": "/api/v1/description/5998/"
+    },
+    {
+      "name": "woobat_gen_5",
+      "resource_uri": "/api/v1/description/5993/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "psychic",
+      "resource_uri": "/api/v1/type/14/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "simple",
+      "resource_uri": "/api/v1/ability/86/"
+    },
+    {
+      "name": "klutz",
+      "resource_uri": "/api/v1/ability/103/"
+    },
+    {
+      "name": "unaware",
+      "resource_uri": "/api/v1/ability/109/"
+    }
+  ],
+  "attack": 45,
+  "defense": 43,
+  "speed": 72,
+  "sp_atk": 55,
+  "sp_def": 43,
+  "hp": 55,
+  "weight": "21",
+  "height": "4",
+  "national_id": 527,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00527",
+  "name": "Woobat"
+}

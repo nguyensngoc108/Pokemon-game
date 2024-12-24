@@ -1,0 +1,11 @@
+{
+  "type_name": "bug",
+  "identifier": "signal-beam",
+  "power": 75,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+  "name": "Signal-beam",
+  "_id": "00324",
+  "_rev": "1-A"
+}

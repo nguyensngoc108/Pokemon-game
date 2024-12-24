@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 51,
+      "name": "Dugtrio",
+      "method": "level_up",
+      "level": 26
+    }
+  ],
+  "_id": "00050",
+  "_rev": "1-A"
+}

@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "wake-up-slap",
+  "power": 70,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  If the target is sleep, this move has double power, and the target wakes up.",
+  "name": "Wake-up-slap",
+  "_id": "00358",
+  "_rev": "1-A"
+}

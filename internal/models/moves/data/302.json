@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "needle-arm",
+  "power": 60,
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Needle-arm",
+  "_id": "00302",
+  "_rev": "1-A"
+}

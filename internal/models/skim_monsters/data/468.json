@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "togekiss_gen_5",
+      "resource_uri": "/api/v1/description/5717/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "fairy",
+      "resource_uri": "/api/v1/type/18/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "resource_uri": "/api/v1/ability/32/"
+    },
+    {
+      "name": "hustle",
+      "resource_uri": "/api/v1/ability/55/"
+    },
+    {
+      "name": "super-luck",
+      "resource_uri": "/api/v1/ability/105/"
+    }
+  ],
+  "attack": 50,
+  "defense": 95,
+  "speed": 80,
+  "sp_atk": 120,
+  "sp_def": 115,
+  "hp": 85,
+  "weight": "380",
+  "height": "15",
+  "national_id": 468,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00468",
+  "name": "Togekiss"
+}

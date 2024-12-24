@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 3,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Butterfly Pokémon",
+  "japaneseName": "アゲハント",
+  "Guranburu": "",
+  "eggGroups": "Bug",
+  "_id": "00267",
+  "_rev": "1-A"
+}

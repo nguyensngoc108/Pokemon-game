@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "whirlwind",
+  "power": "",
+  "pp": 20,
+  "accuracy": "",
+  "description": "Switch the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pokémon with suction-cups or under the effect of ingrain.",
+  "name": "Whirlwind",
+  "_id": "00018",
+  "_rev": "1-A"
+}

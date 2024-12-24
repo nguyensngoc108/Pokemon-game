@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "entei_gen_5",
+      "resource_uri": "/api/v1/description/3787/"
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "resource_uri": "/api/v1/type/10/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "resource_uri": "/api/v1/ability/18/"
+    },
+    {
+      "name": "pressure",
+      "resource_uri": "/api/v1/ability/46/"
+    }
+  ],
+  "attack": 115,
+  "defense": 85,
+  "speed": 100,
+  "sp_atk": 90,
+  "sp_def": 75,
+  "hp": 115,
+  "weight": "1980",
+  "height": "21",
+  "national_id": 244,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00244",
+  "name": "Entei"
+}

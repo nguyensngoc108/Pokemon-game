@@ -1,0 +1,11 @@
+{
+  "type_name": "fighting",
+  "identifier": "rolling-kick",
+  "power": 60,
+  "pp": 15,
+  "accuracy": 85,
+  "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+  "name": "Rolling-kick",
+  "_id": "00027",
+  "_rev": "1-A"
+}

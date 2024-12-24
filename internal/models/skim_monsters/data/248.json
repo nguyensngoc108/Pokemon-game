@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "tyranitar_gen_5",
+      "resource_uri": "/api/v1/description/3838/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-stream",
+      "resource_uri": "/api/v1/ability/45/"
+    },
+    {
+      "name": "unnerve",
+      "resource_uri": "/api/v1/ability/127/"
+    }
+  ],
+  "attack": 134,
+  "defense": 110,
+  "speed": 61,
+  "sp_atk": 95,
+  "sp_def": 100,
+  "hp": 100,
+  "weight": "2020",
+  "height": "20",
+  "national_id": 248,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00248",
+  "name": "Tyranitar"
+}

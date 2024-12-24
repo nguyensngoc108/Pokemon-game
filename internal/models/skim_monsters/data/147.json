@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "dratini_gen_5",
+      "resource_uri": "/api/v1/description/2413/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "resource_uri": "/api/v1/type/16/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "resource_uri": "/api/v1/ability/61/"
+    },
+    {
+      "name": "marvel-scale",
+      "resource_uri": "/api/v1/ability/63/"
+    }
+  ],
+  "attack": 64,
+  "defense": 45,
+  "speed": 50,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "hp": 41,
+  "weight": "33",
+  "height": "18",
+  "national_id": 147,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00147",
+  "name": "Dratini"
+}

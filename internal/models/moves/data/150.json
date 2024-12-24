@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "splash",
+  "power": "",
+  "pp": 40,
+  "accuracy": "",
+  "description": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+  "name": "Splash",
+  "_id": "00150",
+  "_rev": "1-A"
+}

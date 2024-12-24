@@ -1,0 +1,37 @@
+{
+  "descriptions": [
+    {
+      "name": "grotle_gen_5",
+      "resource_uri": "/api/v1/description/5168/"
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "resource_uri": "/api/v1/ability/65/"
+    },
+    {
+      "name": "shell-armor",
+      "resource_uri": "/api/v1/ability/75/"
+    }
+  ],
+  "attack": 89,
+  "defense": 85,
+  "speed": 36,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "hp": 75,
+  "weight": "970",
+  "height": "11",
+  "national_id": 388,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00388",
+  "name": "Grotle"
+}

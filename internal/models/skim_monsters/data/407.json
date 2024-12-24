@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "roserade_gen_5",
+      "resource_uri": "/api/v1/description/5295/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "resource_uri": "/api/v1/ability/30/"
+    },
+    {
+      "name": "poison-point",
+      "resource_uri": "/api/v1/ability/38/"
+    },
+    {
+      "name": "technician",
+      "resource_uri": "/api/v1/ability/101/"
+    }
+  ],
+  "attack": 70,
+  "defense": 65,
+  "speed": 90,
+  "sp_atk": 125,
+  "sp_def": 105,
+  "hp": 60,
+  "weight": "145",
+  "height": "9",
+  "national_id": 407,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00407",
+  "name": "Roserade"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "shieldon_gen_5",
+      "resource_uri": "/api/v1/description/5314/"
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "resource_uri": "/api/v1/type/6/"
+    },
+    {
+      "name": "steel",
+      "resource_uri": "/api/v1/type/9/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "resource_uri": "/api/v1/ability/5/"
+    },
+    {
+      "name": "soundproof",
+      "resource_uri": "/api/v1/ability/43/"
+    }
+  ],
+  "attack": 42,
+  "defense": 118,
+  "speed": 30,
+  "sp_atk": 42,
+  "sp_def": 88,
+  "hp": 30,
+  "weight": "570",
+  "height": "5",
+  "national_id": 410,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00410",
+  "name": "Shieldon"
+}

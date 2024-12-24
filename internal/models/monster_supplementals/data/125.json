@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 6375,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 2,
+  "genderRatio": 75,
+  "species": "Electric Shock Pokémon",
+  "japaneseName": "エレブー",
+  "Guranburu": "",
+  "eggGroups": "Human-Like",
+  "_id": "00125",
+  "_rev": "1-A"
+}

@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "hoppip_gen_5",
+      "resource_uri": "/api/v1/description/2975/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "grass",
+      "resource_uri": "/api/v1/type/12/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "resource_uri": "/api/v1/ability/34/"
+    },
+    {
+      "name": "leaf-guard",
+      "resource_uri": "/api/v1/ability/102/"
+    },
+    {
+      "name": "infiltrator",
+      "resource_uri": "/api/v1/ability/151/"
+    }
+  ],
+  "attack": 35,
+  "defense": 40,
+  "speed": 50,
+  "sp_atk": 35,
+  "sp_def": 55,
+  "hp": 35,
+  "weight": "5",
+  "height": "4",
+  "national_id": 187,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00187",
+  "name": "Hoppip"
+}

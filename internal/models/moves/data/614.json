@@ -1,0 +1,11 @@
+{
+  "type_name": "ground",
+  "identifier": "thousand-arrows",
+  "power": 90,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  User takes 1/2 of its current HP in recoil.",
+  "name": "Shadow-end",
+  "_id": "00614",
+  "_rev": "1-A"
+}

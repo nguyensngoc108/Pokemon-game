@@ -1,0 +1,13 @@
+{
+  "from": null,
+  "to": [
+    {
+      "nationalId": 596,
+      "name": "Galvantula",
+      "method": "level_up",
+      "level": 36
+    }
+  ],
+  "_id": "00595",
+  "_rev": "1-A"
+}

@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "linoone_gen_5",
+      "resource_uri": "/api/v1/description/3988/"
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "resource_uri": "/api/v1/type/1/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "resource_uri": "/api/v1/ability/53/"
+    },
+    {
+      "name": "gluttony",
+      "resource_uri": "/api/v1/ability/82/"
+    },
+    {
+      "name": "quick-feet",
+      "resource_uri": "/api/v1/ability/95/"
+    }
+  ],
+  "attack": 70,
+  "defense": 61,
+  "speed": 100,
+  "sp_atk": 50,
+  "sp_def": 61,
+  "hp": 78,
+  "weight": "325",
+  "height": "5",
+  "national_id": 264,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00264",
+  "name": "Linoone"
+}

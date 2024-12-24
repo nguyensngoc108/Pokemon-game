@@ -1,0 +1,11 @@
+{
+  "type_name": "grass",
+  "identifier": "horn-leech",
+  "power": 75,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+  "name": "Horn-leech",
+  "_id": "00532",
+  "_rev": "1-A"
+}

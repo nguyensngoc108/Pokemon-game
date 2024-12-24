@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 1275,
+  "defenseEV": 0,
+  "attackEV": 0,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": 50,
+  "species": "Fish Pokémon",
+  "japaneseName": "コイキング",
+  "Guranburu": "",
+  "eggGroups": "Water 2, Dragon",
+  "_id": "00129",
+  "_rev": "1-A"
+}

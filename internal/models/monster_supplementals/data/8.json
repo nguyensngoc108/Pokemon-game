@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 5100,
+  "defenseEV": 1,
+  "attackEV": 0,
+  "specialDefenseEV": 1,
+  "speedEV": 0,
+  "genderRatio": 87.5,
+  "species": "Turtle Pokémon",
+  "japaneseName": "カメール",
+  "Guranburu": "",
+  "eggGroups": "Monster, Water 1",
+  "_id": "00008",
+  "_rev": "1-A"
+}

@@ -1,0 +1,19 @@
+{
+  "from": [
+    {
+      "nationalId": 349,
+      "name": "Feebas",
+      "method": "level_up",
+      "level": 0
+    },
+    {
+      "nationalId": 349,
+      "name": "Feebas",
+      "method": "trade",
+      "level": 0
+    }
+  ],
+  "to": null,
+  "_id": "00350",
+  "_rev": "1-A"
+}

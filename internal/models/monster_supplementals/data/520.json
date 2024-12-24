@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 0,
+  "hpEV": 0,
+  "hatchSteps": 3825,
+  "defenseEV": 0,
+  "attackEV": 2,
+  "specialDefenseEV": 0,
+  "speedEV": 0,
+  "genderRatio": 50,
+  "species": "Wild Pigeon Pokémon",
+  "japaneseName": "ハトーボー",
+  "Guranburu": "",
+  "eggGroups": "Flying",
+  "_id": "00520",
+  "_rev": "1-A"
+}

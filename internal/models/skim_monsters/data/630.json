@@ -1,0 +1,45 @@
+{
+  "descriptions": [
+    {
+      "name": "mandibuzz_gen_5",
+      "resource_uri": "/api/v1/description/6405/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "weak-armor",
+      "resource_uri": "/api/v1/ability/133/"
+    },
+    {
+      "name": "overcoat",
+      "resource_uri": "/api/v1/ability/142/"
+    },
+    {
+      "name": "big-pecks",
+      "resource_uri": "/api/v1/ability/145/"
+    }
+  ],
+  "attack": 65,
+  "defense": 105,
+  "speed": 80,
+  "sp_atk": 55,
+  "sp_def": 95,
+  "hp": 110,
+  "weight": "395",
+  "height": "12",
+  "national_id": 630,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00630",
+  "name": "Mandibuzz"
+}

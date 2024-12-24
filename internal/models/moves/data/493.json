@@ -1,0 +1,11 @@
+{
+  "type_name": "normal",
+  "identifier": "simple-beam",
+  "power": "",
+  "pp": 15,
+  "accuracy": 100,
+  "description": "Changes the target's ability to simple.",
+  "name": "Simple-beam",
+  "_id": "00493",
+  "_rev": "1-A"
+}

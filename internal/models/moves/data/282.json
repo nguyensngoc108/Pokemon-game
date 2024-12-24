@@ -1,0 +1,11 @@
+{
+  "type_name": "dark",
+  "identifier": "knock-off",
+  "power": 65,
+  "pp": 20,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.  Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky-hold, it will take damage but not lose its item.",
+  "name": "Knock-off",
+  "_id": "00282",
+  "_rev": "1-A"
+}

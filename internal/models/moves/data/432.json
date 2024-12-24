@@ -1,0 +1,11 @@
+{
+  "type_name": "flying",
+  "identifier": "defog",
+  "power": "",
+  "pp": 15,
+  "accuracy": "",
+  "description": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light-screen, reflect, safeguard, spikes, stealth-rock, and toxic-spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
+  "name": "Defog",
+  "_id": "00432",
+  "_rev": "1-A"
+}

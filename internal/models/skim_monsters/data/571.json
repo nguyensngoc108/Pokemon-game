@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "zoroark_gen_5",
+      "resource_uri": "/api/v1/description/6162/"
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "resource_uri": "/api/v1/type/17/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "illusion",
+      "resource_uri": "/api/v1/ability/149/"
+    }
+  ],
+  "attack": 105,
+  "defense": 60,
+  "speed": 105,
+  "sp_atk": 120,
+  "sp_def": 60,
+  "hp": 60,
+  "weight": "811",
+  "height": "16",
+  "national_id": 571,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00571",
+  "name": "Zoroark"
+}

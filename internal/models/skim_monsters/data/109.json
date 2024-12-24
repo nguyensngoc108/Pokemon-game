@@ -1,0 +1,33 @@
+{
+  "descriptions": [
+    {
+      "name": "koffing_gen_5",
+      "resource_uri": "/api/v1/description/1789/"
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "resource_uri": "/api/v1/type/4/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "resource_uri": "/api/v1/ability/26/"
+    }
+  ],
+  "attack": 65,
+  "defense": 95,
+  "speed": 35,
+  "sp_atk": 60,
+  "sp_def": 45,
+  "hp": 40,
+  "weight": "10",
+  "height": "6",
+  "national_id": 109,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00109",
+  "name": "Koffing"
+}

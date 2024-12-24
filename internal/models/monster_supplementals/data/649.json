@@ -1,0 +1,16 @@
+{
+  "specialAttackEV": 1,
+  "hpEV": 0,
+  "hatchSteps": 30600,
+  "defenseEV": 0,
+  "attackEV": 1,
+  "specialDefenseEV": 0,
+  "speedEV": 1,
+  "genderRatio": "N/A",
+  "species": "Paleozoic Pokémon",
+  "japaneseName": "ゲノセクト",
+  "Guranburu": "",
+  "eggGroups": "No Eggs",
+  "_id": "00649",
+  "_rev": "1-A"
+}

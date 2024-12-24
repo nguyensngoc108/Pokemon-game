@@ -1,0 +1,11 @@
+{
+  "type_name": "dragon",
+  "identifier": "dragon-pulse",
+  "power": 85,
+  "pp": 10,
+  "accuracy": 100,
+  "description": "Inflicts regular damage.",
+  "name": "Dragon-pulse",
+  "_id": "00406",
+  "_rev": "1-A"
+}

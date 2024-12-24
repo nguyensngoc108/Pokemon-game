@@ -1,0 +1,41 @@
+{
+  "descriptions": [
+    {
+      "name": "landorus-incarnate_gen_5",
+      "resource_uri": "/api/v1/description/6460/"
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "resource_uri": "/api/v1/type/3/"
+    },
+    {
+      "name": "ground",
+      "resource_uri": "/api/v1/type/5/"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sheer-force",
+      "resource_uri": "/api/v1/ability/125/"
+    },
+    {
+      "name": "sand-force",
+      "resource_uri": "/api/v1/ability/159/"
+    }
+  ],
+  "attack": 125,
+  "defense": 90,
+  "speed": 101,
+  "sp_atk": 115,
+  "sp_def": 80,
+  "hp": 89,
+  "weight": "680",
+  "height": "15",
+  "national_id": 645,
+  "male_female_ratio": "",
+  "catch_rate": 0,
+  "_id": "00645",
+  "name": "Landorus-incarnate"
+}
