@@ -22,11 +22,11 @@ func startTCPClient() {
     defer conn.Close()
 
     fmt.Println("Connected to the TCP server.")
-    // Get the user's username
-    username := getUsernameFromInput()
+    // Get the user's username and password
+    username, password := getUsernameAndPasswordFromInput()
 
-    // Send the username to the server
-    _, err = conn.Write([]byte(fmt.Sprintf("%s join\n", username)))
+    // Send the username and password to the server
+    _, err = conn.Write([]byte(fmt.Sprintf("%s %s join\n", username, password)))
     if err != nil {
         fmt.Println("Error writing to connection:", err)
         return
@@ -36,46 +36,30 @@ func startTCPClient() {
     go readResponsesFromServer(conn)
 
     // Read user input and send it to the server
-    readAndSendPokemons(conn, username)
-
-    // Read user battle inputs and send them to the server
-    readAndSendBattle(conn, username)
+    readAndSendMoves(conn, username, password)
 }
 
-func getUsernameFromInput() string {
+func getUsernameAndPasswordFromInput() (string, string) {
     reader := bufio.NewReader(os.Stdin)
     fmt.Print("Enter your username: ")
     username, _ := reader.ReadString('\n')
-    return strings.TrimSpace(username)
+    fmt.Print("Enter your password: ")
+    password, _ := reader.ReadString('\n')
+    return strings.TrimSpace(username), strings.TrimSpace(password)
 }
 
-func readAndSendPokemons(conn net.Conn, username string) {
+func readAndSendMoves(conn net.Conn, username, password string) {
     reader := bufio.NewReader(os.Stdin)
-    for i := 1; i <= 3; i++ {
-        fmt.Printf("Enter Pokemon %d: ", i)
+    for {
+        fmt.Print("Enter move direction (up, down, left, right): ")
         text, _ := reader.ReadString('\n')
         if strings.TrimSpace(text) == "exit" {
             break
         }
 
-        // Append the username and Pokemon number to the input text
-        text = fmt.Sprintf("%s pokemon %s", username, strings.TrimSpace(text))
+        // Append the username, password, and move direction to the input text
+        text = fmt.Sprintf("%s %s move %s", username, password, strings.TrimSpace(text))
 
-        // Send the message to the server
-        _, err := conn.Write([]byte(text + "\n"))
-        if err != nil {
-            fmt.Println("Error writing to connection:", err)
-            return
-        }
-    }
-}
-
-func readAndSendBattle(conn net.Conn, username string) {
-    reader := bufio.NewReader(os.Stdin)
-    for {
-        fmt.Print("Choose your next move (type in 'normal' or 'special'): ")
-        text, _ := reader.ReadString('\n')
-        text = fmt.Sprintf("%s move %s", username, strings.TrimSpace(text))
         // Send the message to the server
         _, err := conn.Write([]byte(text + "\n"))
         if err != nil {
@@ -95,9 +79,8 @@ func readResponsesFromServer(conn net.Conn) {
         }
         response := strings.TrimSpace(string(buf[:n]))
         fmt.Println(response)
-        if strings.Contains(response, "You won the battle!") || strings.Contains(response, "You lost the battle!") {
-            fmt.Println("Thank you for playing")
-            os.Exit(0)
+        if strings.Contains(response, "Login successful") {
+            fmt.Println("You have successfully logged in. You can now join the game.")
         }
     }
 }
